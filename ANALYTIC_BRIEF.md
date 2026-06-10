@@ -40,11 +40,11 @@ KJB's accreted in-house apparatus (used unglossed, on the assumption of an initi
 | Point Break (1991) | point_break_KJB.txt (123k, ends 1:58) | point_break_BC.txt (87k, ends 1:24) | BC guest: Anita Sarkeesian (2018). KJB S4E22 (Sept 2025) |
 | Casino Royale (2006) | casino_royale_KJB.txt (117k, ends 1:52) | casino_royale_BC.txt (87k, ends 1:27) | BC guest: Kenice Mobley |
 | Austin Powers IMoM (1997) | austin_powers_KJB.txt (103k, ends 1:41) | austin_powers_BC.txt (76k, ends 1:23) | KJB is the S2E23 **live** show — flag the live-format confound. BC guest: Atsuko Okatsuka |
-| Atomic Blonde (2017) | atomic_blonde_KJB.txt (97k, ends 1:28) | atomic_blonde_BC.txt (100k, ends 1:49) | KJB S2E22 (April 2023) — **earliest KJB in corpus**, the drift-test anchor. BC episode is the Vanessa Guerrero one |
+| Atomic Blonde (2017) | atomic_blonde_KJB.txt (97k, ends 1:28) | atomic_blonde_BC.txt (100k, ends 1:49) | KJB S2E22 (April 2023) — ~~earliest KJB in corpus~~ **superseded by correction C2: The Rock and Casino Royale episode-era files are earlier (~Dec 2021–early 2022)**. BC episode is the Vanessa Guerrero one |
 | Die Hard (1988) | die_hard_KJB.txt (91k, ends 1:26) | die_hard_BC.txt (91k, ends 1:24) | KJB holiday special — **CONFIRMED in-text 2026-06-10** that it covers the 1988 original (1988 references, Christmas-movie framing). BC guest: Debra DiGiovanni |
 | The Fast and the Furious (2001) | fast_furious_KJB.txt (96k, ends 1:34) | fast_furious_BC.txt (98k, ends 1:40) | KJB S4E30 (Jan 2026). BC episode is 2019 (Hobbs & Shaw promo window), guest Faye Orlove (confirmed in-text) — **maximal era skew in the corpus** |
 | Ocean's Eleven (2001) | oceans_eleven_KJB.txt (100k, ends 1:32) | oceans_eleven_BC.txt (50k, **TRUNCATED at 0:49:23**) | KJB S4E3 (~late 2024, dated by Tyson v. Paul joke), guest Brian (Worst of All Possible Worlds) — **the KJB-with-guest control episode**. BC guest: Edgar Momplaisir; BC scrape cuts off mid-ad at 49 min — closing rituals (test verdict, nipple scale) missing. Windowed claims within the first 49 min only; re-scrape if the ending is needed |
-| The Rock (1996) | the_rock_KJB.txt (60k, ends 1:00) | the_rock_BC.txt (82k, ends 1:13) | KJB episode-22, early-numbering era. BC guest: Miles Gray |
+| The Rock (1996) | the_rock_KJB.txt (60k, ends 1:00) | the_rock_BC.txt (82k, ends 1:13) | KJB episode-22, **~Dec 2021 (in-text dated, see C2) — earliest KJB in corpus, the H14 drift anchor**; KJB guest: Andrew Law (Boonta Vista) — second guest-control episode alongside Ocean's. BC April 2018 (in-text dated), guest Miles Gray. GIRTH system minted on-mic in this KJB episode |
 
 ### Tier 2 — preview-asymmetric pairs (5 films): BC full, KJB ~10-minute Patreon preview
 | Film | KJB preview | BC file |
