@@ -1,0 +1,2679 @@
+Title: Genocidal Mystics
+Episode #: 6
+Episode ID: 4408154
+Source: https://www.buzzsprout.com/1052548/episodes/4408154-genocidal-mystics.mp3
+------------------------------------------------------------
+
+=== EPISODE METADATA ===
+Generated: 2026-01-12 01:02:07
+Episode ID: 9523441
+MP3 File: 9523441-ethnogenesis-pt-3-sacrificial-child-gods-and-social-complexity.mp3
+Title: Ethnogenesis pt. 3: Sacrificial Child Gods and Social Complexity
+Podcast/Artist: Against the Internet
+Album/Series: Fight Like An Animal
+Source URL: https://www.buzzsprout.com/1052548/episodes/9523441-ethnogenesis-pt-3-sacrificial-child-gods-and-social-complexity.mp3
+========================
+What is the highest technique you want to achieve?
+You have no technique.
+Very good.
+What are your thoughts when facing the point?
+Phase don't point.
+Phase don't point.
+Phase don't point.
+Greetings, friends.
+I'm Arnold Schroeder and this is Fight Like an Animal.
+You can find the psychotically sprawling, absurdly large bibliography for this episode
+and others at AgainstTheInternet.com where you can also find, I believe, within a few days
+of this episode being released, written summaries of some episodes and finally getting around
+to that stage of this project.
+It's always been my intention to release a series of texts in conjunction with this
+podcast.
+In many respects, the podcast is like a first draft of a series of texts that will someday
+comprise, I hope, a book.
+I don't know why it took me so long to start doing this because I already have the bibliographies
+and the outlines.
+The writing is fairly effortless at that point.
+I believe somewhere I'm breathtakingly close to being able to put a few up.
+Somewhere within a few days of this episode being released, you should be able to find a
+kind of introductory framing text to this entire project and then text versions of the
+biology of the right-left divide, parts one and two.
+Episodes one and two.
+Then I will try because, again, it's really relatively easy work with all the foundation
+that I've built during the podcast.
+I'll try to output texts a little faster than I do podcasts, so at some point I'll kind of
+catch up with myself.
+Yet another thing that can be found at AgainstTheInternet.com is my contact information.
+I strongly encourage correspondence of any variety.
+It's both fascinating to me and kind of really does keep me going.
+If you want to support this work materially, check out patreon.com.
+Before we get started, I did want to just shout out a couple projects that I feel kind
+of like strongly overlap with the podcast in general, but in particular what I'm
+doing in this episode.
+I would say versions of the same conversation in some regards.
+One is the What Is Politics podcast just did an episode about David Graber and David
+Wengroves' book, The Dawn of Everything, which is kind of bringing what has been a
+kind of like quiet, tentative, maybe even somewhat awkward conversation within
+academic journals into a really public sphere where like for a long time,
+because this is the nature of science, there are cultural and psychological
+processes at work that affect when paradigms change.
+And so there's often these phases where for a long time, people are kind of
+pointing out that the existing paradigm really conflicts with a whole lot of
+evidence, but they're doing it in this sort of like careful way.
+And then finally the paradigm does shift.
+So that is a great discussion about some of the book itself, I assume is a great
+discussion and certainly receiving a widespread eager audience that doesn't
+seem confined to any particular like cultural or political echelon.
+Seems like a lot of people want to have this conversation.
+I've yet to read it, although, you know, I've read some of the like essays
+they've written and whatnot that I believe the book is based on or that
+are sort of precursors to the book anyway.
+Check out what is politics in general.
+The whole series is great, but in particular, the discussion of
+when-grown gravers, the dawn of everything.
+There's also a podcast called All Power to the Imagination,
+which has an episode in which the author of a paper that I'm going to
+use in this episode is interviewed.
+The paper is called Killing the Priest King and it's about the
+Indus Valley civilization, which was a long term like phase of urban
+complexity that really doesn't have much evidence for significant
+social stratification.
+And I also wanted to mention the website, blackbooks.pub,
+which has this just really well curated list of texts and other
+media related to these subjects.
+There's an anthropology section in particular, you know,
+but like how we break up this knowledge is kind of arbitrary.
+You know, so there's like, there's a bunch of sections that have a
+bunch of media really directly pertinent to these discussions.
+I was also super surprised and flattered and pleased to see
+my own work on that website in a few cases.
+So yeah, those are a few output links to all those things in
+the episode bibliography.
+Check them out if you get a chance.
+We had to come up with better tools, better ways to build our
+houses, to protect our land, to make our clothing and so forth.
+We had new materials to use.
+We had new plants to grow and we started to develop
+organized societies.
+That is the people that have a hierarchical system.
+That is the people that's going to have somebody in charge
+to make sure that things are done in civilization.
+And that is the beginning of civilization.
+And that is the beginning of civilization.
+And so they strayed into the enticements of vice,
+porticoes, baths and sumptuous banquets.
+In their innocence they called this civilization
+when in fact it was a part of their enslavement.
+Tacitus.
+I've got this systems theory book called
+Growing Artificial Societies.
+Social Sciences from the bottom up.
+And it's a book of modeling experiments with cellular
+automata.
+So these agents are placed on a two-dimensional grid
+consisting of squares that contain variable concentrations
+of a digital representation of sugar,
+which is what the automata digitally metabolize
+and require for their survival.
+The automata are given very basic,
+like very elementary sets of behavioral procedural rules.
+So things like you can see three squares
+in any given direction.
+You go towards the square with the most sugar
+and less there's say two other automata already feeding
+at it or whatever, right?
+And in some cases, in some permutations of these
+experiments with certain sets of decision rules,
+behavioral decision rules, they get some pretty
+complex behavior, you know, they get the automata
+to aggregate and to kind of like fight
+and to transmit information on some level.
+All these other kind of interesting things.
+What they say is over the course of these chapters,
+the agents behavioral repertoire grows to include movement,
+resource gathering, sexual reproduction, combat,
+cultural transmission, trade, inheritance, credit,
+pollution, immune learning and disease propagation.
+And so I bring this up.
+You know, I already kind of made the point
+in this ethnogenesis series that there's this
+strange automaticity to the progression of humanity
+along a technological continuum, but also,
+you know, into the like the social forms
+that we currently occupy where until very recently
+it's like a lot of social science accounts
+and indeed a lot of accounts in political theory
+just sort of deny people this basic sense of agency.
+There's never a moment where people are having
+an experience that you or I have at any given point
+in our lives constantly where, you know,
+we're just sort of assessing our situations
+and deciding whether or not we like them
+and what we might want to do to make them different
+and that that has, you know, that having some impact
+on our conditions.
+And, you know, so I'm not really,
+I didn't mention this book just to kind of make the point
+that people are treated like cellular automata
+in a lot of social sciences accounts,
+but I think it's a good example
+because when you read through this book,
+you know, when you see the digital agents
+that have no internal deliberative processes
+or conscious agency of any kind do something
+that kind of vaguely resembles things we do
+in our mass societies today, like pollute their environments
+or go to war or whatever,
+it creates this dizzying sensibility.
+I think a lot of the time we really just don't know
+how to think about things like that.
+You know, on one end of the continuum of interpretations
+is something like, oh, okay, like I guess
+the same basic dynamics imply the same basic strategies
+and so sometimes there's going to be mathematical similarities,
+you know, like maybe, you know,
+brains and ant colonies are mathematically similar
+at sufficiently abstract levels of description
+because they've just both involved channeling information
+along networks and there's certain strategies
+that are going to emerge in case after case,
+whatever the complex system is,
+like whatever the sub-components that comprise that system are.
+You know, but then at the other end of the continuum
+of thinking about this is this really strong human tendency
+towards teleological thinking where it's like, okay,
+maybe war and pollution are just etched
+into the structure of the universe
+and there's just not really anything we can do
+or just, you know, we're just manifesting these structures
+that we are destined to create, you know,
+that like we are, however much,
+we may wake up and trouble our heads every day
+about where things are going and what we can do about it
+that there's just nothing.
+We are on a truly inexorable trajectory
+and so like the thing that I want to point out,
+like, because like reading that book gave me, you know,
+a dose of that where I was like, God,
+it's all just like, you know, we might as well just be automata,
+but that that is like, that human tendency
+is just like a sort of basic psychological reality
+that is applied in a lot of situations,
+whether they're like looking at the long-term
+human, social, technological, ecological trajectory
+or whatever else, you know, like we tend to get
+into these places where we think like that
+and that social sciences as they have described
+the human experience that has led us
+to this truly catastrophic moment that we are in,
+like really rely on that psychology.
+And there's actually, I guess like a couple,
+sort of like basic psychological modes
+that again are really versatile
+that people employ in a lot of situations
+when they're not thinking about the grand sweep
+of human history or whatever,
+that the kind of social sciences that has prevailed
+through like most discussions of what's possible
+or like what we fundamentally are
+and what we're capable of has utilized
+and so like one of them is teleological thinking
+like that, then another I would say
+is just like a really fundamental human tendency
+to look at entities of any kind,
+whether it's our own species,
+members of our own species who have had
+different experiences of socialization
+who are subject to different, you know,
+material circumstances or to look at other species
+or whatever and to just imagine
+that there are more essential differences
+between us and them than actually exist
+for all that there usually are
+some really fascinating differences,
+you know, this tendency to not attribute to others,
+basic modes of reasoning and capacities
+and subjective states that we experience all the time,
+even when there's kind of a lot of like
+very screamingly apparent evidence
+that these others of whatever variety
+are in fact having very similar experiences,
+you know, like out, I guess in extreme,
+although it's a pretty like common perceptual framework
+even today and certainly throughout history,
+you know, like at one maybe extreme of this
+is this perceptual tendency to like
+literally see other animals say screaming in pain
+or like caring for their young
+and to imagine that they're having
+no subjective experience whatsoever,
+like literally of any kind
+that maps to anything like
+what we're experiencing when we say screaming pain
+or protect our young or whatever, right?
+And you know, like it's just utterly insane
+as that seems to me as much as that's like
+screaming I'm lost, I'm lost, I'm completely lost,
+I could not be any more lost at the top of your lungs,
+like that is has been regarded as a
+totally reasonable position for, you know,
+like centuries by a lot of people
+who are supposedly really credible or whatever.
+So, okay, so that's to, you know,
+the teleological thinking, the tendency to see others
+as more essentially different than they actually are.
+And then the third tendency that I want to
+say that social science is a third like
+kind of basic human psychological tendency
+that social science is kind of like exploits
+or relies on sometimes.
+And maybe this is more true for people
+who have worldviews more like mine
+rather than worldviews where they're like
+let's enslave everybody and destroy everything.
+That seems like basically a fundamentally good thing
+is just that, you know, like the experience
+of being a human is traumatic
+because we're doing all these awful things
+to each other and to the world we live in
+and a characteristic aspect
+of being traumatized by a situation
+is to get into like rigidly categorical
+catastrophic thinking about it, right?
+That is a hallmark.
+If you go, you know, if you go to a clinical psychologist
+and you're like, my girlfriend broke up with me,
+I guess it just really goes to show you
+that nobody's ever gonna love me
+because I'm fundamentally unlovable
+and I might as well just die.
+They'll be like, you're just depressed
+and you're distorting reality
+and you're thinking in overly categorical dire terms, right?
+But then if you say like,
+well, here we are hurting each other
+and destroying the world
+and it just seems like people are basically bad
+and this whole trajectory was truly inevitable
+and like there's just something like innately evil
+about us in the moment that we gained,
+you know, any of the like cognitive architecture
+that we possess that enables a whole like vast panoply
+of manipulations of our environment
+and novel modes of subsistence and whatnot,
+we just inexorably went down a trajectory
+towards global annihilation.
+You know, then people aren't gonna say
+in a lot of cases that you're just kind of fucked up
+from the pain of being in the situation
+that we're in, they're gonna be like, oh yeah,
+that's super reasonable, it's like an apt assessment.
+You know, you should probably be a professor.
+So I thought that I might have to like,
+I don't know, like quote a dizzying array of texts
+and like gradually make my case
+that people are rendered as like exerting
+almost no conscious agency whatsoever
+in how they live or the types of societies they inhabit
+in a sort of like dominant paradigm of social sciences
+and then I read Gordon Child's 1950 paper,
+The Urban Revolution, which in many ways,
+I don't really know how to describe its significance
+because it's not like he was the first guy
+to come up with a unidirectional,
+culturally, cultural evolutionary schema
+and to tie it inexorably to social form, right?
+He wasn't the first guy to say that we progress
+along stages towards civilization,
+which is the highest human mode of existence
+and that civilization inevitably implies hierarchical
+intense, like greater and greater hierarchical
+intensification, the more civilized you are
+and the more technology you have.
+But he really helped consolidate
+and like kind of deepen that paradigm
+within a bunch of different social sciences
+and a lot of work was done in the subsequent decades
+that cited that as a sort of like basic theoretical framework
+and you know people did work
+that basically justified that paradigm
+and in that paper, Child just explicitly says
+that we should think of people as somewhat like machines.
+So let me hit you with some Gordon Child.
+Sociologists and ethnographers last century
+classified existing pre-industrial societies
+in a hierarchy of three evolutionary stages
+denominated respectively savagery, barbarism
+and civilization.
+If they be defined by suitably selected criteria
+the logical hierarchy of stages can be transformed
+into a temporal sequence of ages
+proved archeologically to follow one another
+in the same order wherever they occur.
+Keep that in mind.
+Savagery and barbarism are conveniently recognized
+and appropriately defined by the methods adopted
+for procuring food.
+Savages live exclusively on wild food
+obtained by collecting, hunting or fishing.
+Barbarians on the contrary
+at least supplement these natural resources
+by cultivating edible plants
+and in the old world north of the tropics
+also by breeding animals for food.
+Child's terminology has kind of fallen into disfavor.
+You probably wouldn't hear a social scientist
+talk about savages and barbarians
+with a straight face too much these days.
+They probably use terms like a hunter-gatherer
+or a pastoral nomadic pastoralist or whatever
+but the fundamental argument is still present
+in a ton of people's work.
+As is this next part where
+Gordon Child goes on to tell us that
+the reason that there is no complex social organization
+to be found among savages
+to some pretty significant extent
+as well among barbarians
+is because they are so preoccupied
+with these meager bare minimum subsistence routines
+that you can never even get enough people together
+in the same place
+to develop any kind of like differentiated society
+where people have unique rules
+and you can't really develop like significant hierarchies
+because everybody is just eking out
+these like day-to-day meager, you know,
+existences from whatever kind of happens to be around.
+Social division of labor,
+save those rudiments imposed by age and sex
+is thus impossible.
+On the contrary, community of employment,
+the common absorption and obtaining food
+by similar devices guarantees a certain solidarity
+to the group.
+For cooperation is essential
+to secure food and shelter
+and for defense against foes,
+human and subhuman.
+This identity of economic interests and pursuits
+is echoed and magnified by identity of language,
+custom and belief.
+Rigid conformity is enforced as effectively as industry
+in the common quest for food.
+But conformity and industrious cooperation
+need no state organization to maintain them.
+The local group usually consists
+either of a single clan
+or a group of clans related by habitual intermarriage.
+In the sentiment of kinship is reinforced
+or supplemented by common rights
+focused on some ancestral shrine or sacred place.
+Archaeology can provide no evidence
+for kinship organization,
+but shrines occupy the central place
+in preliterate villages in Mesopotamia.
+In the Long Barrow,
+a collective tomb that overlooks
+the presumed site of most Neolithic villages in Britain,
+may well have been also the ancestral shrine
+on which converged the emotions
+and ceremonial activities of the villagers below.
+However, the solidarity,
+thus idealized and concretely symbolized,
+is really based on the same principles
+as that of a pack of wolves
+or a herd of sheep.
+Durkheim has called it
+mechanical.
+A super, super confused statement
+on its own terms.
+I mean, wolves and sheep aren't machines,
+and packs and herds
+are really different social structures, right?
+Packs have all this rich internal structure.
+And anyway,
+there it is, you know, he's saying
+that this is just kind of like a default mode
+that people who lived before
+the evolutionary stage
+that we get to, that's a unidirectional
+sort of like teleological point
+that we reach along a continuum
+that only goes in one direction
+where we finally attain this height of human experience
+called civilization. Everything that proceeds that
+is kind of like a default mode of existence,
+you can also find liberals saying
+in big sweeping books about the human experience
+today, like Francis Fukuyama's
+The Origins of Political Order.
+Admittedly, I'm reading this quote from
+Graeber and Wengros, the dawn, or no,
+rather from Graeber and Wengros
+how to change the course of human history,
+at least the part that's already happened,
+I guess I would say, to the dawn of everything.
+So Fukuyama says
+in its early stages, human political organization
+is similar to the band level society
+observed in higher primates like chimpanzees.
+This may be regarded as a default
+form of social organization.
+Rousseau pointed out that the origin of political inequality
+lay in the development of agriculture
+and in this he was largely correct.
+Since band level societies are pre-agricultural
+there is no private property in any modern sense.
+Like chimp bands, hunter-gatherers
+inhabit a territorial range that they guard
+and occasionally fight over. But they have a lesser
+incentive than agriculturalists to mark out a piece
+of land and say, this is mine.
+We're going to come back to that
+with a little bit of a tutorial incentive in a minute
+but for now I just want to point out the phrasing
+that this is a default form of social organization.
+And here again, we can see this thing
+where throughout most of this episode
+we're going to be talking about how people tend to perceive
+other people and other times and places
+and having other social experiences
+and subjects to other material conditions
+that are different than they are.
+The same human tendency also applies to how we perceive
+other species and talking about
+chimpanzee social organization
+as if it's just like he's describing
+not only people as automata but also chimps as automata
+and I tried to set us up in the last episode
+to just not think like that
+by talking about how both
+evolution and human evolution from a
+chimplike ancestor from a more hierarchical ancestor
+involved the same basic processes
+that we experienced today
+it involved resistance to domination
+and hierarchy and the same
+fundamental processes that are at work
+when we experience domination and hierarchy
+and we don't like it and we try to do something
+about it, we try to fight back or to escape
+the situation
+was occurring in our ancestors
+and the ancestors of bonobos when they went
+on their evolutionary journeys that
+the course of evolution has been shaped
+by what we can only describe as political struggle
+there is conscious agency
+at work in this grand adventure
+of being alive that we are on
+and a thing that I want to point out
+about this grand narrative
+is how politically versatile it really is
+I don't think it's ideologically neutral
+I think it very significantly
+constrains our
+sense of political possibility
+our ability to coherently strategize
+about how to fight hierarchies
+and kind of like our fundamental sense
+of what people are
+but if one is
+schematizing ideology purely as
+say like a continuum
+of perceptions of hierarchy or something like that
+this narrative is found all the fuck
+over the place in a vast array of different
+political outlooks
+in past episodes where I've pushed back
+on some of this narrative
+or tried to de-romanticize
+perceptions of hunter-gatherers
+and say that there were hierarchical behaviors
+to be found among them
+it's been said to me
+that it seemed like I was specifically
+and maybe exclusively pushing back
+on anarcho-primitivism or something like that
+but I don't really think that's the case
+this basic approach
+to thinking about the relationship between
+technology and social form
+is for instance also foundational to Marxism
+the inevitability of history
+and the notion that capitalism is a stage
+that necessarily precedes socialism
+and that socialism
+and that ideology are more or less
+inextricably linked in some fashion or another
+but then it's also like
+at least those two political tendencies
+are at least anti-hierarchical
+in some regards
+but Fukuyama and Gordon Child
+are basically saying this has been
+the trajectory, there's been this inexorable march
+of justification with the advent
+of what we're calling civilization
+and it's basically a good thing
+and Fukuyama is a much more recent author
+so his language isn't as fun
+he's not as colorful
+but Gordon Child's justification
+of this inevitable teleological process
+is amazing
+and the way he was engaged in food production
+were of course supported in the first instance
+by the surplus accumulated in temple or royal granaries
+and were thus dependent on temple or court
+but naturally priests, civil and military leaders
+and officials naturally
+absorbed a major share of the concentrated surplus
+and thus formed a ruling class
+unlike a paleolithic magician
+as an Egyptian scribe actually put it
+exempt from all manual tasks
+on the other hand, the lower classes
+were not only guaranteed peace
+and security I guess
+but were relieved from intellectual tasks
+which many find more irksome
+than any physical labor
+besides reassuring the masses that the sun was going to rise
+next day and the river would flood again next year
+parenthetical statement
+people who have not 5000 years of recorded experience
+of natural uniformities behind them are really worried
+about such matters, exclamation mark
+but anyway, regardless of all that
+the ruling classes did confer substantial benefits
+upon their subjects in the way of planning
+and organization
+there might be some drawbacks
+to being enslaved by a narcissistic monster
+who makes you work for them all day
+toiling away in their fields to accumulate the surplus
+to build monumental architecture
+of their own goddamn face
+or whatever
+but you don't have to worry about the sun coming up
+and you're freed from thinking
+that this course is more irksome than toiling away
+in the fields to begin with
+and you get all this planning and organization
+not to mention peace and security
+I guess maybe that's an apt characterization
+of a state, I don't know
+and yet even people who talk about
+hunter-gatherers and you know
+the Pleistocene in ways
+that they really like
+really do tend to do this thing
+I would just say it's more a matter of emphasis than anything
+even if I really don't disagree
+with the sort of like magical, lyrical
+ways that they're describing
+these people and their perceptions
+it's kind of the only thing that they describe
+and they never really talk about them
+in ways that are intuitively familiar
+where the same basic processes
+and subjective experiences are occurring
+for them that are for us
+when they never really talk about how
+the same basic range of personality types
+could maybe be found
+in any given society
+or that tendencies towards
+assert self-aggrandization
+might just kind of exist in all times and places
+to illustrate this and again
+I love the way that he writes
+but like I literally opened
+this Paul Shepard book coming home
+to the Pleistocene at random
+just to a random page
+because I feel like every page is like that
+looking for a quote maybe it would have been
+a little more illustrative but
+the random page 57 that I opened to
+he says the savage mind
+grasps the world
+in a totality of present and past
+with all its multiplicity and complexity
+on the other hand as Levi Strauss has revealed
+civilized thought attempts to simplify
+rather than clarify the complexity
+of the world and he's not wrong
+I mean there's actually like a ton of more
+rigorous research about this since when he wrote that
+about how the more industrialized people are
+you know they literally tend to isolate
+if they're like looking at an image they tend to isolate
+foreground elements like whatever they identify
+as like the central actor
+or the fundamental theme of the image
+and pay more attention to that and less industrialized
+people tend to like remember better
+the detail of the background and the entire
+image or whatever you know it's like his point
+is actually true and it's
+I think often very beautifully written
+and really goes a long way to
+describing things about
+perception that are
+at least a lot more common or maybe ubiquitous
+in hunter gatherer societies
+that we really need
+to remember to survive
+you know so I'm not saying I'm really not trying
+to like denigrate the work as a whole
+but it just does have this quality
+where it's always like that it's always about
+you know like perceptions of time as a circle
+rather than a line always these things
+that sound really distant and dream like
+and like just generally kind of removed from our
+experience in important ways and so it ends up
+rendering people in the past
+our ancestors as these kind of like timeless
+archetypes who are moving
+without a lot of you know again conscious deliberation
+or rational agency
+you know through history just like moving through history
+towards these thresholds that they're just going to cross
+and
+I think it really has
+it actually has such important political implications
+when we just really think about people
+reorganizing their lives and their societies
+and thinking about it and resisting some of
+the changes that they may have experienced
+you know that maybe have become
+institutionalized in our current modes of existence
+or maybe didn't because they resisted
+them or whatever but just thinking about
+people thinking about their lives in the societies
+they inhabit and making conscious choices about
+how to affect those things and you know
+like it's really I think it goes a long way
+to showing how this social sciences narrative
+constrains political possibility
+to point out that this idea
+of a cultural evolutionary sequence
+of technology being
+inextricably linked to social form
+and people not really like doing that
+you know like narratives that sort of dismiss
+or negate the very active
+vibrant political processes
+that created the trajectory that we've been on
+like literally for millions of years
+but certainly throughout the course of the advent
+of agriculture and cities and all the rest
+you know like one of the primary proponents
+of narratives that dismiss that aspect of
+political agency that's been involved in those processes
+are states and nobody does a better job
+of really just meticulously
+masterfully chronicling that reality
+than James C. Scott particularly
+I think in against the grain
+and the art of not being governed and I want to read
+a passage from the art of not being governed about this
+that's kind of lengthy but
+I think it's just like perfect
+any effort to examine the history of social structure
+and subsistence routines as part of a deliberate
+political choice run smack
+against a powerful civilizational narrative
+that narrative consists of a historical series
+arranged as an account of economic, social
+and cultural progress with respect
+to livelihood strategies the series
+from most primitive to most advanced might be
+foraging slash hunting gathering
+pastoral nomadism horticulture
+slash shifting cultivation sedentary
+fixed-field agriculture irrigated
+plow agriculture industrial agriculture
+with respect to social structure again
+from the most primitive to most advanced
+the series might read small bands
+in the forest or savanna hamlets
+villages towns cities
+metropolises these two series
+are of course essentially the same
+they chart a growing concentration of agricultural production
+yield per unit of land in a growing
+concentration of population and larger agglomerations
+first elaborated by Giovanni
+Battista Vico at the beginning of the 18th century
+the narrative derives its hegemonic
+status not only from its affinity
+with social Darwinism but from the fact that it maps
+nicely on the stories most states
+and civilizations tell about
+themselves the schema assumes movement
+in a single direction toward concentrated
+populations and intensive grain production
+no backsliding is envisioned
+each step is irreversible
+progress as an empirical
+description of demographic and agricultural trends
+in the now industrialized world for the past
+two centuries and
+the past half century in poorer nations
+the schema has much to be said for it
+Europe's non-state or tribal
+populations had for all practical purposes
+disappeared by the 18th century in the
+non-state population of poorer countries is diminishing
+and beleaguered as an empirical
+description of pre-modern Europe or of
+most poor nations until the 20th century and as an
+empirical description of the hilly areas of mainland
+Southeast Asia or Zomia however
+this narrative is profoundly misleading
+what the schema portrays is not simply
+a self-satisfied normative account of progress
+but a gradient of successive stages
+of incorporation into state structures
+its stages of civilization are
+at the same time an index of diminishing
+autonomy and freedom
+until quite recently many societies and groups
+have abandoned fixed cultivation to take up
+shifting agriculture and foraging
+they have by the same token altered their kinship
+systems and social structures and dispersed into smaller
+and smaller settlements
+the actual archeological record in peninsular
+Southeast Asia reveals a long-term oscillation
+between foraging and farming
+depending it would seem on the conditions
+what Teviko would have seemed to be lamentable
+backsliding and decay was for them a strategic
+option to circumvent the many
+inconveniences of state power
+so what's different about this is not
+that this is not to say that
+there is no relationship
+between technological intensification
+and hierarchical intensification
+they're just clearly empirically is
+and Scott is acknowledging that in this text
+but what is essentially different about this
+from most narratives whether they belong
+to the state or a wide array
+of other like political and social sciences
+is just that people actually have
+agency in this account
+and have consciously actively
+resisted some of the processes
+that have characterized the
+progression to our current state of affairs
+rather than being automata
+who are just sort of like tending towards this form
+as certain technologies
+and modes of subsistence develop
+and I'd also like to point out in affinity
+between this like this type
+of characterization of the
+human social technological ecological trajectory
+and forms of social science
+that I've critiqued in the past particularly
+in the nature nurture death spiral series
+I talked about how the struggle
+against the very notion of human nature
+that's so characterized
+so much social sciences
+for so long that you know
+we still haven't actually escaped from
+but it's kind of like academic departments
+have just sort of fragmented as far as I can tell
+and some people are just accumulating results
+based on the assumption that biology has something
+to do with how humans behave
+while other people continue to write these insane
+you know sort of like literary experiments
+in like high mysticism
+and how it's like really
+it's hard to overstate
+unless you really wade through a lot of it
+how magical these forms of social science
+have to get to claim that there's no human nature
+and that in particular you know I highlighted
+in some episode or another
+this notion that we
+that cultures are kind of these
+phenomena unto themselves
+that can't be explained
+in terms of anything else in the universe
+that exists with like abrupt
+absolute discontinuities
+from you know say physical reality
+or like what's happening inside people's heads
+and I think that I quoted
+I quoted some anthropologists or another
+it was Clifford Geertz, I forget
+but who makes, no, no it was like Lowy anyway
+there's some quintessential like classic anthropologist
+quote that is
+and I'm gonna refrain from the temptation
+to put this through like reverb and
+pitch shift it in the editing process
+something like omnia cultura
+excultura right like
+everything cultural comes from culture
+it's not you which is specifically intended
+to be understood to mean
+that culture doesn't come from
+people basically that what's happening
+inside people's heads their psychologies
+their motivations their
+fundamental behavioral biologies
+just have nothing to do with these
+like things that fall out of the sky
+these like group level processes
+that just sort of happen without anybody
+thinking about them that are cultures
+that absolutely shape our perceptions and behavior
+and how you know like this is
+actually just a version of that idea
+these narratives that completely
+just sort of like overlook or negate
+the existence of any conscious agency
+of any like motivations or experiences
+that you or I might have going
+into actions that people take
+in regard to the human
+social and technological trajectory
+like just negating the idea that those are present or had
+shaping that trajectory is a version
+of that kind of like culture is magic
+and it just sort of happens
+and nobody gets to make any decisions about it
+and that you know that is the core
+the reason that I'm calling this series
+ethnogenesis is because I'm just really
+hammering on that point of
+the creation of cultures actually being
+political projects now
+like that's true now that's true when we talk about
+revolution what we are ultimately talking about
+is the creation of a different culture
+but that that has also just characterized
+the human experience and indeed the experience
+of our very distant ancestors becoming human
+Farmers are invested in land
+inevitably if there's more than one person farming
+it takes them into conflict with one another
+and that is the beginning of civilization
+and that is the beginning of civilization
+and that is the beginning of civilization
+okay so let's do
+our own sweeping account
+of the human trajectory
+through all of the technological thresholds
+and changes in subsistence modes
+and all the rest that we have undergone
+have been crossed and
+let's do it not with humans
+as automata but with humans
+as conscious political agents making
+choices about their lives
+this is where I think that my
+my emphasis on that point is where
+what I'm doing overlaps very strongly
+with Graeber and Wendrow's book
+and I think where I diverge is that for me
+decoupling some of these variables
+like social complexity and hierarchy
+or agriculture and sedentism and hierarchy
+or for that matter as we'll see
+egalitarianism and cooperation
+the point for me in decoupling these variables
+is not to say that
+they have nothing to do with each other
+I mean I explicitly say that
+but I think where they go astray
+or where I diverge from them
+is in not acknowledging that there does
+seem to be some pretty fundamental relationship
+between the variables but in decoupling them
+and giving people more
+conscious agency in how these processes unfolded
+I think that we can really start to ask
+why in a more coherent
+concrete fashion
+why has technology thus far
+really enabled hierarchy
+so if last episode
+we covered that journey
+with our ancestors being
+rational conscious political actors
+through the course of evolution
+like up to the advent of
+let's just say cognitively modern humanity
+you know like the pre
+out of Africa phase
+of our adventure
+as a species
+let's say that we start there
+and that this one will take us through
+hunting and gathering throughout the Pleistocene
+and the advent of agriculture
+and the formation of cities
+and I'm not going to try to
+set up some of these
+explanatory frameworks or theoretical frameworks
+in a more integrated coherent fashion
+I'm just going to toss out
+at the beginning what I see as
+some particularly salient variables
+and I tend to think about this
+when I'm reading something
+about the grand sweep of human history
+what I'll respond thinking they're missing
+or since I do in fact just kind of wander around
+watching the leaves fall from the trees
+thinking about this like what occurs to me over and over again
+so obviously
+in any case if you've listened to
+like the episodes leading up to this one
+one super important factor
+is that I think that
+a lot of the evolutionary trajectory
+that made us characteristically human
+our outsized cognitive abilities
+and in particular
+our hyper developed social cognitive abilities
+comes
+you know is a manifestation of a
+diminishment of hierarchical behaviors
+and interpersonal aggression and emotional
+reactivity of a certain variety
+like I covered in last episode it's not necessarily
+all forms of aggression
+calculated less like passionate aggression
+based less in fear basically
+isn't necessarily diminished in this model
+but there's a decline in aggressiveness
+if you watch a video of chimpanzees it's like
+they're literally just kind of always having these overstated reactions
+to one another or not always but very often
+and so our ability to comprehend
+one another our theory of mind
+our ability to
+anticipate one another's
+experiences and therefore to like create
+complex cooperative endeavors
+which is so characteristically human
+you know I believe that comes
+with a diminishment of certain forms of hierarchy
+and aggression
+but that there is also
+a tremendous range of variation
+in those correlated traits
+within individuals
+of really any given species
+but humans both in our current
+and any given ancestral form emphatically included
+so you can see
+you can see this like rich psychological
+diversity in species like baboons
+and chimpanzees where some individuals are just
+far more prone to involvement
+in the dominant hierarchy and also
+way less prone to certain like
+affiliative behaviors and are
+you know certain like types of social interaction
+and then an important dimension of these
+correlated traits is that
+more egalitarian and more
+pro-social psychologies and behavioral
+profiles are associated
+with a greater behavioral plasticity
+as biologists would say
+or greater openness to new experience
+as psychologists would say about humans
+so that couldn't have had nothing to do
+with this rich landscape of psychological
+variation that we see in other species
+and that we find in ourselves today couldn't have had
+nothing to do with how
+human societies and political were
+and political struggles occurred
+in starting with say again like
+the advent of cognitively modern humanity
+which we'll place just
+there's debates within debates within debates
+let's just say it's like 80 to 100,000 years ago
+so at that point
+all the ancestors of every human
+alive anywhere on the globe were
+all in Africa right and then
+some of them left starting
+again like the dates get a little fuzzy
+but starting like certainly
+by like 60,000 years ago and
+if what we see in
+cross species comparisons like when we watch chimp
+societies fission and become separate
+or you know what we experience in our own lives
+from contemporary human realities
+and certainly what we see with
+studies of extant hunter-gatherers
+is that some of these
+events where populations decided to go somewhere else
+you know we're probably
+wholesale population movements caused by changes
+in ecology or whatever you know like
+let's follow the wetland north where it seems like
+there's a lot of animals or whatever
+but some of them must have been precipitated
+by political conflicts
+and this is like I always think about this
+I always think about how this range of psychological
+and behavioral variation that must have existed
+at that time like how
+that shaped especially in small scale societies
+where the outcomes would have been radically different
+one or two other people on one side
+or comprising one faction or another
+but you know especially because
+these tendencies like openness to new experience
+has a totally normal distribution
+cross-culturally and then likewise
+self-described like left right
+political orientation has a normal distribution
+cross-culturally
+and you know people do find it meaningful
+to place themselves somewhere on a left-right political
+spectrum as much as the actual
+like you know like what that means varies context to
+context people feel comfortable describing themselves
+somewhere on that spectrum and it has
+a normal distribution so there must have been
+these really like in political struggles
+in prehistory
+like very very
+minor differences in
+the numerical strength of one faction
+or other that ended up proving decisive
+I mean just like we still have
+in contemporary societies
+where political decisions are schematized
+along left-right you know like
+along these like left-right binaries
+and there are always such close calls you know
+looking you get a democrat that kind of thing
+so I don't think that
+prehistorical human societies
+were because they were hunter-gatherers
+categorically non-hierarchical
+but I do think that there has been a general
+trend in our evolution away from hierarchy
+and that as we became the species that we are
+today there must have continued to be political
+struggles and they must have been much like today
+like pretty close in a lot of cases
+and that would have confronted people
+who were resisting hierarchies
+with this set of two options one you know like
+and this gets into we're going to keep talking
+about this and this kind of fascinatingly gets into
+disagreements about
+strategy in egalitarian political
+movements today that I think are kind of fascinating
+one of the options would have been to kind of like
+stay and confront the existing hierarchy
+and to try to defeat it essentially
+and if the faction
+the hierarchical faction was small enough
+you know this could look a lot like
+the Pierre Claustre
+Christopher Bohm model of
+simply executing one
+you know dominant member of that society
+or a small number of people who were collaborating
+to try to dominate everybody else
+but then if things didn't look great
+the other option is to flee
+and until states took over the whole
+world and claimed every single
+you know shoreline and mountain and forest
+and valley as their own
+that really was an option
+it was just an option to simply walk away
+from a power structure that you didn't like
+you know so there's kind of like a
+just a preview like how I think this relates to political
+strategy today there's you know there's more like
+centralizing egalitarian political tendencies
+and more like decentralizing egalitarian
+political tendencies and to some extent these
+do in fact map to this like ancient
+strategic dichotomy
+of confrontation with the existing
+social structure versus like simply
+getting away from it and then yeah if you
+think about so
+you know humanity left Africa
+at least 60,000 years ago kind of like
+journeyed along the coast along
+the Indian subcontinent and then eventually
+by boat came to Australia
+like about say like 40,000 years ago
+30,000 years ago went up into Central Asia
+and from there
+got into Europe and also
+went east across the ocean
+there are probably multiple pulses of migration
+into the Americas that leave
+this like complex heterogeneous record but
+you know like certainly by 20,000 years
+ago people had ended up in the Americas
+and by like 12,000 years ago or something
+had like really pretty densely settled
+those continents
+and when you think about
+the book that I read about this that really
+just like got to me that I think about all the time
+is called the journey of man by Spencer Wells
+you know but it just like describes like
+hypothesized migration roots
+and modes of subsistence that people engaged on
+in on those roots and when you like think about
+some of these adventures that people were having
+like there's a whole lot of
+I guess you know like what
+we call in modern psychological terms
+the openness to new experience happening here right
+like if somebody's like fuck it
+let's get in some skin canoes
+and just see if there's such a thing as Australia
+somewhere out there in the open ocean
+or you know like let's
+travel through this exceptionally narrow passage
+between these two glaciers and just see if it kind of goes anywhere good
+there must have been
+some sort of bias within
+again like some of these migrations probably happened
+because of wholesale they were probably wholesale population
+movements in response to ecological shifts
+but to the extent that they reflected
+like social
+schisming or just like
+the initiative of adventurous people
+I have to assume that
+within the range of psychological variation
+that humans exhibit there was probably a little
+bit of a bias towards you know people
+with a lot of openness to new experience i.e. with more
+egalitarian outlooks I really have to imagine
+that some of these were you know this is
+still the case with human migrations that are happening today
+or have happened historically like people are escaping
+domination in so many cases where they go on these
+insane adventures
+you know there had to have been like a little bit of an
+egalitarian live free or die
+kind of thing among people who
+made these choices and so you know
+these are cases of ethnogenesis
+and of some kind of like let's say political revolution
+right if people are leaving
+in existing society going
+off on some crazy migration they are going to
+necessarily develop different subsistence
+modes they're going to become a people of a different
+sort you know
+but then they're also probably founding sort of
+like different political cultures and that gets
+into this other thing that I think about a lot
+which is this idea that Ruth Benedict
+initially presented I think
+was the first person to say in anthropology
+this idea that different cultures
+reflect to some extent these sort of like
+founder effects of different types of
+personalities that some cultures
+are more accommodating of or more expressive
+of certain innate personality types
+and that
+that's just like an artifact of
+whoever exerted the most influence
+in the formation of those cultures
+and so in some cases I think that
+people with egalitarian outlooks
+must have gone on these adventures, must have become
+a new people in a new land or whatever
+and that there must have been
+enduring legacies of how they saw the world
+and their relationships to hierarchy
+in those cultures which I think is informative
+and useful and interesting when we think
+about changing the world or whatever right
+and then you know you can also see
+the cross species example of this
+and Sapolsky shares paper on
+the emergence of a much less hierarchical
+form of baboon society
+when there is a demographic catastrophe
+maybe it wasn't a catastrophe but when the dominant males
+in that society that they were studying
+died from eating contaminated
+garbage and the remaining males
+just you know it became
+like abundantly clear that the reason that they weren't
+ascendant in the dominance hierarchy wasn't exclusively
+because they weren't good at fighting but because
+they just kind of weren't interested in it
+and they established a much more egalitarian culture
+but then male baboons emigrate
+into new troops you know
+out of their birth troops and into new troops
+and that the males that
+showed up you know who presumably
+had the same basic
+range of innate dispositions
+towards hierarchy as any other like you know baboons
+the males that showed up in this new egalitarian
+society just really did model their behavior
+on the let's say the founders
+of this egalitarian society
+so you know I always think about that
+that idea that there is
+a pretty wide range of psychological and behavioral
+profiles out there
+in that they must have been in tight competition
+within societies and
+that you know like they must have been
+that that range must have been involved
+in fissioning events and
+decisions to migrate places
+and that there must have been founder effects
+where people's
+behavior on psychological profiles really reverberated
+out through the generations and how
+cultures generated
+further behavior and perceptions
+that's all pretty interesting to me
+we had to come up with better tools
+better ways to build our houses to protect our land
+to make our clothing and so forth
+we had new materials to use we had new
+plants to grow and we started to develop
+organized societies
+and that is the beginning of civilization
+and that is the beginning of civilization
+so applying all those
+kind of like theoretical generalizations
+and you know like I said just like
+some variables that I think are salient
+that are maybe not as often discussed
+in these sweeping accounts
+of the human being
+let's look at some of these core assumptions
+about
+the nature of our
+ancestral lives or hunter-gatherer ancestral
+lives and get into some papers
+that are kind of pushing back on some of these
+assumptions and narratives
+so like first obviously is just this
+or I don't know if it's obvious but first I want to talk about
+this idea that the reason
+that hunter-gatherer societies were
+inevitably egalitarian
+and lacked social
+complexity is because everybody was
+occupied with such like bare minimum
+subsistence routines that one couldn't
+achieve sufficient population density
+for like specialization and hierarchy
+and complexity to emerge
+I think that what confuses me the most
+about this notion is just that
+it's not necessary
+for any other species to accumulate
+surplus to have
+either a really pronounced internal hierarchy
+or significant territoriality
+and territorial aggression
+with respect to other groups
+chimps don't accumulate surplus
+but they certainly have a dominant hierarchy
+and they're certainly territorial
+these are like really fundamental biological
+realities to be found in everything
+from hippopotamite to spotted owls
+and so I just actually find it
+so it's like the evidence is pretty strong
+that humanity evolved from an essentially
+chimp-like ancestor that Australopithecus
+was basically a bipedal chimp
+and actually I don't know
+this is sort of like how the
+amygdala definitely affects aggression
+but in both directions
+a bigger amygdala might imply more or less aggression
+abundance definitely
+I think has a huge impact on social form
+but I don't think that it
+categorically moves social form
+in one direction or the other
+if you'll recall from some past episodes
+prominent hypothesis about why
+bonobos are so much more egalitarian
+than chimpanzees is this idea that they got isolated
+south of the Congo river about a million years ago
+in habitat where there wasn't as much competition
+with say gorillas and it just had more abundance
+to it and that it diminished
+the need for territoriality
+which really diminished that set of trade-offs
+that is occurring where
+to some extent the domination that
+everybody in a chimp society experiences
+from the alpha males is terrible
+but they really do get something out of it
+in the form of protection from other aggressive males
+in other groups
+that it just diminished the territorial imperative
+and allowed female coalitions to form
+that could suppress
+the aggression of any given male
+and so that would be a case
+where abundance and egalitarianism
+were positively associated
+it is certainly not empirically the case
+that in human societies
+people always get more egalitarian
+when there's less resources available
+or the converse
+they don't necessarily
+get more hierarchical
+when there's more guarantee of security
+so you know like
+I just like don't really understand
+I think that like I've certainly read
+a number of accounts of how the accumulation of surplus
+is supposed to
+result in the hierarchy but I honestly
+just still feel like the actual mechanism
+is so fuzzy to me
+and it just doesn't really accord that well
+with I guess like
+cross species comparison
+you know but then the other
+thing that I would really just be so skeptical of
+in this narrative is
+this notion that the earth only
+provided for a bare minimum
+subsistence mode
+I think that is a profound
+further estimate of the abundance that our species evolved into
+which you know we have in fact
+just radically depleted
+it's that shifting baseline
+it's a tendency to assume
+that the earth that we inhabit today
+is more like the earth used to be than it actually is
+and to forget what radical changes have been wrought
+in such short periods of time
+and so you know like certainly one aspect of this
+would be the presence of all these
+species that did in fact go extinct
+in various landscapes when a conspicuous
+record of human habitation
+first emerges right you know so
+there's still some debate about this I guess but
+I just don't understand again like I'm
+so unclear on what the mechanism is or I just feel like
+there's never actually like a very specific mechanism
+positive like there's
+some ambiguous sort of like
+combination of like climatological
+and epidemiological factors that are
+cited as an alternative to the hypothesis
+that people simply killed off these species
+but there was no like climatological event
+happening in Australia 60,000
+years ago in Central Asia 30,000 years ago
+and you know like in North America
+15,000 years ago except for
+Cuba where it happened 5,000 years ago
+like there's just nothing like that
+at all in the climatological record
+and then like the disease process
+you know like again I just I don't understand why
+that would just be like awfully uncanny
+if epidemics rendered
+extinct all of these very different
+unrelated species right
+when humans showed up in the landscapes where they were
+so that would have been
+just like this profound source of abundance
+that we don't see today but even
+like disregarding that
+just like the sheer magnitude
+of animal and plant populations
+that existed all around
+the world and ecosystems that are still kind of
+there in some exceptionally denuded
+highly fragmented like you know
+just fundamentally diminished form
+is I think almost impossible for us to comprehend
+sometimes like in this
+in this schema where you know like
+every gatherers are
+living under regimes of such intense scarcity
+that they can't ever affect hierarchies
+there's like there's exceptions
+like you know Pacific Northwest coastal peoples
+are supposed to be this exception because
+they're harvesting salmon and storing it
+and it's such an abundant resource that they're able to create surplus
+that emulates agricultural civilizations
+or whatever but like I just don't understand
+like it's not like
+the Pacific Northwest is the only place
+where there were giant salmon runs
+and you know indeed as far as
+places with giant salmon runs go
+you know like those salmon runs
+came in from the ocean to like
+pretty like cold forests that you know like
+a tremendous amount of biomass but
+not necessarily like a huge edible landscape
+whereas in other parts of the world you'd get
+salmon runs coming up through like
+vast vast low elevation
+wetlands I think in particular
+people underestimate the extent to which
+hunter gatherer life
+occurred in proximity to these really rich
+aquatic resources and we have evidence
+of sedentary settlements
+at such sites because they're just like
+there really wasn't a need to go anywhere you know
+like you didn't have to grow any food to just have this like
+insane surplus all around you
+I'm embarrassed that I don't have
+more of a repertoire of examples
+still just kind of like
+at my ready disposal to talk
+about this I feel like you know I'm an
+old earth fester and I spent my youth
+reading all of these like
+really vivid beautiful literary descriptions
+of you know like
+bison migration and the way forests
+were and like all this stuff that I like
+I can't really like I can't rattle those statistics
+off the way that I could have if this was
+say 1999 but
+I stumbled across an article like
+the day before yesterday that mentioned
+that the biomass
+of baleen whales
+that were slaughtered in the 20th century
+is double the mass
+of all wild mammals alive
+on the planet today and just like
+just like one of many metrics
+that one could use to indicate
+that we live in a profoundly
+biologically diminished world
+and that this would just have been very
+like landscape and
+like niche within a landscape
+dependent that there were definitely
+definitely a lot more places
+than the Pacific Northwest Coast
+where there was just so much laying around
+that you absolutely could have had sedentary
+settlements and
+profound surplus and an accumulation of surplus
+and you know like whatever
+complexity and I guess
+perhaps also hierarchy might result
+from that state of affairs
+and yet a lack of social complexity
+resulting from you know
+meager subsistence routines occupying
+all of everybody's time as they lived
+in societies of just like a couple dozen
+people is just really
+not what the evidence you know like if we're inferring
+things about hunter-gatherer lifestyles from
+cognitive architecture or whatever else that's not what it says
+but you know certainly like most of the evidence
+ultimately just comes from archeology and it's really not what it says
+and it's not
+even really like there's just been this like
+breathtaking set of
+new findings in the last few years
+or something that negate these assumptions I mean
+it's just like never really been what the evidence says
+but when we think of like hunter-gatherer
+artifacts some of the first stuff
+that's going to lead to a lot of people's mind is like
+the massive
+arrays of cave paintings that were created
+over many generations in places like
+Altamira and Lasso which
+you know are just like these stunning
+works of beauty
+to some kind of like rich cosmological
+structure and
+people just putting a lot of time
+and energy and resources into these
+kind of like exalted aesthetic spiritual
+experiences
+and endeavors
+but then you know a classic thing
+that archeologists tend to use to
+make inferences about social structure
+is the extent of
+like role differentiation that they see in
+burials the extent to which burials have like
+different levels of
+goods placed in them or different kinds of goods placed
+in them and then the extent to which
+the materials present
+in a given society come from
+near or far away so the extent to which they
+give indications of some kind of like
+extensive trade networks or not
+and some of the most interesting and famous
+paleolithic burials are both
+like highly status differentiated
+and involve materials from all over the place
+and in particular
+the ones that are worth our attention
+are of physically abnormal children
+buried with other people
+and
+we just don't know, we have
+no idea what sort of like
+cosmological or ideological
+underpinnings are present in some of these burials
+but they are freaky and beautiful
+and fascinating and just
+weird.
+I read this paper called, I don't know how to pronounce
+things, I'm sorry if I get some of these wrong
+but from the song here children to the
+Romito dwarf aspects of the
+upper paleolithic funerary landscape
+so admittedly if this is a temporal sequence
+my kind of theoretical generalizations just
+took up a pretty significant part of
+human experience and like migrations out of Africa
+and all that and we're now in the upper paleolithic
+so the song here burial
+and I kind of wish I was doing a video because
+I really want to show a picture of this but you know it's
+these two children
+buried head to head
+with a bunch of like spears and stuff
+what the authors say is the song here double
+burial is probably the most spectacular and elaborate
+upper paleolithic funerary example
+a boy and a girl were placed head to head in a long
+narrow shallow grave covered with red ochre
+and ornamented with extraordinarily rich and unique
+grave goods. These include thousands of
+perforated ivory beads
+which had probably been sewn onto caps and clothing
+hundreds of perforated arctic fox canines
+ivory pins, disc shaped pendants
+ivory animal carvings
+and long spears of mammoth tusk
+one of them 2.4 meters long
+interestingly the ivory beads are about
+one third smaller than those decorating the adult male
+from the same site. This suggests that those beads
+were manufactured specifically for the children
+and possibly by very few specialists
+it goes on to describe how
+the girl had some kind of congenital disease
+that involved the bowing of the long bone
+so she would have looked really physically
+abnormal and
+you know he says on the basis of labor
+investment ritual activity and variety
+and number of decorative objects it has been
+hypothesized that status differentiation
+existed among early upper paleolithic peoples
+from the Russian plain
+but then you know again
+I want to decouple these variables
+of complexity and hierarchy
+this is definitely some form of status differentiation
+but we really have
+no idea what the underlying perceptual framework is
+and I kind of doubt
+a burial of this rich
+in a different archeological context would be used
+by archeologists to infer
+that these people were like the great despots
+of their society or whatever
+the equivalence of Donald Trump in the paleolithic
+but I think it's like
+probably actually I mean it's a possibility
+but it is maybe not the
+most likely possibility that these children
+like one was 10 years old
+and one was 13 years old roughly
+you know it's an estimate
+were like in charge of their society
+so it's status differentiation of some kind
+or another but we really don't know what kind
+and in this paper and in other papers addressing this material
+I speculated that you know these might have been
+these children might have been sacrificed
+they might have been like
+revered as deities and sacrificed
+we just have no idea
+so you know there's certainly status differentiation
+but it doesn't necessarily imply like
+a dominance hierarchy
+but it does like the richness of these goods
+and how far away some of them came from
+it does imply a certain level of social complexity
+so the author of this paper also says
+of a different burial site
+of three people including
+a physically abnormal child again
+with you know again like a ton of rich grave goods
+in Moravia
+says on the basis of the size
+of the Moravian living sites technological
+populations e.g. kilns for clay figurines
+richness of material culture
+and elaborate funerary behavior
+Gelenik argues that the social organization
+of those populations was well beyond the
+banned level and so an interesting thing
+to note about this you know this paper goes through
+these various instances of physically abnormal
+children being buried
+with other people like another child
+or another child and an adult or whatever
+with exceptionally unusually rich grave goods
+and this phenomenon occurred
+you know there's also Il Principe
+or The Prince is another famous example
+from Italy so we're talking about
+a cultural process
+and you know like a some kind of like
+a shared world view that existed
+in some form or another at some point in time
+or another from Russia to Italy
+so this is like really
+strongly countervailing evidence
+against you know like the notion that people were just
+living in these tiny egalitarian bands
+and having no sort of like
+more like a
+large group level mass
+kind of like shared cultural processes
+or ideas or world views
+I think that because I just always think
+that everything is probably a lot more
+complex than we imagine
+with the fragmentary evidence that we have
+I just imagine all of these different
+phases these like really fascinating different stages
+of culture
+in the Paleolithic that
+must have been experienced by their participants
+as you know something very much like
+all the like drama and change
+and tumult that we experienced today
+you know and like you can see
+another like example of a really widely distributed
+cultural phenomena or those Venus
+figurines that are kind of all over
+in the Upper Paleolithic these like
+usually headless female figures
+with like really really exaggerated features
+like giant butts and giant breasts
+and like super thick thighs and all that
+and you know like so again
+it points to some kind of like ideology
+or worldview or cosmology or whatever it is
+that existed
+all over the place that must have had
+mass effects because it was distributed among
+like a very very significant population
+yeah so the author
+of this paper speculates about sacrifice he says
+considering the frequency of multiple burials
+the number of young individuals and the generally different
+sexes of the members of the common graves
+he's legitimate to ask whether sacrificial practices
+could offer an explanation in addition to natural causes
+and non-simultaneous interments
+and then he also says at the end
+the questions raised here remain open
+but the recurring evidence from which they arise
+points once more to the complexity and importance
+of ritual activity and symbolism
+in Upper Paleolithic societies
+okay and then moving ahead a little further
+in time and setting us up for the dawn of
+agriculture I read this paper called
+the pre-natoufian epipaleolithic
+long-term behavioral trends in the Levant
+and so you know they're studying
+the cultures that preceded the cultures
+that developed agriculture
+between the Tigris and the Euphrates
+it's really interesting because like what they're basically saying is that
+there just is no abrupt break
+between those cultures and that we can see
+like at least 10,000 years
+of these processes of very
+gradual cultural change
+happening among hunter-gatherers
+in that region that
+you know like sort of
+turned towards the cultural phenomena
+that are associated with the emergence of agriculture
+and how there's just
+no sharp break there
+they say the evidence
+we present here emphasizes that the early
+and middle epipaleolithic should be considered
+as a part of a broad cultural continuum
+with later natoufian and Neolithic groups
+in the mid-temporal mosaic of cultural change
+that extended for more than 10,000 years
+they say that you know there's a fundamental continuity
+of the archaeological record
+which earlier accounts really tended to
+you know describe these more like abrupt
+thresholds which again implies
+like a more tightly
+coupled relationship between
+dense mode and social form
+so they're talking about you know
+some of the material indications
+of what cultures were like in these 10,000 years
+preceding agriculture in this region
+with things like stone walls
+and huts and hearths
+and worked bone and stone
+extensive refuse deposits
+they say that some of these material indications
+are very similar to some later natoufian sites
+in density, organization and reoccupation evidence
+they also talk about how
+in some of these accounts
+where there's like a more abrupt threshold
+it's posited that there was a climatological
+change that like enabled
+and or forced agriculture
+you know that there's really just no evidence for that
+that agriculture and climate seem pretty decoupled
+it seems like mostly agriculture
+just really did emerge from this very long-term
+process of cultural change
+that you know occurred for many many generations
+of hunter-gatherers and they talk a lot
+about how hunting and gathering populations
+were definitely eating the wild
+of what later became
+domesticated grains in very significant quantities
+that they were like really getting down
+with like grinding equipment
+and all the rest on the predecessors of wheat
+stuff like that
+they talk about how the symbolic
+and cosmological evidence
+indicates this like pretty deep continuity
+between the hunting and gathering and agricultural populations
+that succeeded them
+and they talk about
+like the they talk about
+finding evidence of meeting places for people from
+far away and
+certainly like items which had traveled
+pretty long distances to end up there
+they say the presence of shells from such distances
+including some shell from the Indian Ocean over
+2000 kilometers away
+tell us that the inhabitants of this site were involved
+in far-reaching exchange networks
+it also suggests they were not specialized or elite items
+instead they were widely accessible
+and used by people even at great distances from their origin
+the exchange of these shells reinforces the notion
+that these networks of social or economic interaction
+were not new features of Neolithic society
+but existed throughout the Epipaleolithic
+we see networks of trade and exchange
+of both objects and ideas and perhaps
+aspects of shared symbolism cosmology and ideology
+okay and then to read
+at some length from their conclusions they say
+according to conventional frameworks
+it is during the late Epipaleolithic Natufian
+that we see archaeologically the crucial steps
+in the evolution of human groups
+that led to the rise of social complexity
+the emergence of sedentary village life
+and the adoption of food production
+a focus on the late Epipaleolithic credited these groups
+as originators of key behavioral developments
+that enabled the development of agricultural villages
+many such behaviors including burial practices
+plant and animal intensification
+wide-ranging interaction spheres
+and long-term occupation are well documented
+in the early and middle Epi
+and emphasize continuity throughout the Epi period
+the behaviors attributed to agricultural communities
+did not appear suddenly in the archaeological record
+but were rather long-term trends of near-eastern prehistory
+the earlier Epi periods provide clear evidence
+that late Epi Natufian markers of social complexity
+such as sedentism, cemeteries and artistic expression
+have an earlier foundation
+in 2000 McBrearty and Brooks provided compelling evidence
+that the origin of modern human behavior
+was not an upper paleolithic revolution
+as it is often been interpreted
+but that the components of modern human behavior
+developed over tens or even hundreds
+of thousands of years of prehistory within Africa
+in the Near East
+Gordon Child coined the term Neolithic Revolution
+to refer to the development of human control
+over the reproduction and evolution of plants and animals
+which arguably was the single most significant social, cultural
+and biological transition since the origin of our species
+although this term has largely fallen out of use
+the sudden and dramatic changes it implied
+persisted until recent work at several sites
+which placed these cultural changes into a plural context
+here we have reviewed evidence for cultural and biological change
+in the early and middle Ep
+which suggests that many revolutionary features
+of the Natufian and subsequent Neolithic periods
+developed gradually over a long time in the late Pleistocene
+during more than 10,000 years
+we see evidence of the very early systematic exploitation
+of plant and animal species, mobile art
+and ornamentation in a range of materials
+evidence for specialized technologies
+nets, cordage, wood construction
+and refinement of older technologies, microlith production
+as well as repeatedly used structures
+longer use of sites, large scale trade
+or exchange networks in the first so far
+appearance of large aggregation sites and cemeteries
+and then of course one of the most compelling features
+of this archeological landscape
+as we approach but haven't yet to cross
+this ostensible threshold of agriculture
+is the monumental architecture that hunter-gatherers
+created with you know until this was found
+monumental architecture was one of those things
+like status differentiated burials or whatever
+that archeologists used to infer
+you know social complexity and hierarchy
+as a supposedly inexorably coupled set of variables
+and but then even after
+gobekle tepe was discovered
+is just like one of those many things where
+the evidence contradicts the paradigm
+but the paradigm is very slow to die
+and again here I just
+I kind of wish I was making a video because
+this stuff is so striking
+and beautiful and haunting and strange
+and you just really like I don't know
+it just like makes me truly long
+to know what the cosmology
+and like sort of just like overall world view
+of the people who made it was
+and really to like actually experience
+the you know like the ritual or whatever
+it is that happened there
+and I have to say in one of these papers
+that I read about gobekle tepe
+again I'm sorry if I just have no idea how to pronounce anything
+but one of these papers that I read
+there's all these photographs of it
+like with this really dramatic
+lighting at night and you know like
+I really have to I'm sure the lights
+have some like perfectly utilitarian function
+I really have to kind of assume
+that to some extent the people who are
+excavating these sites
+just kind of wanted to like enhance
+its dramatic beauty
+so you know I don't know if you're feeling it
+check out some imagery of gobekle tepe
+and maybe look up this paper
+by Oliver Dietrich and others
+called the role of cult and feasting
+in the emergence of Neolithic communities
+new evidence from gobekle tepe
+in Turkey published in antiquity
+in 2012
+if you just want to see some like
+incredible photographs of this place
+with like really haunting lighting but
+so gobekle tepe is a hunter
+it's a site of some kind of
+hunter gatherer cultural phenomena
+or another with just these like circular
+ways of massive
+T shaped pillars
+that have kind of like anthropomorphic carvings
+on them often speculated that they represent
+deities you know so like these circles
+of like massive towering stone deities
+and so what I want to
+read you from this paper is a couple quotes
+since neither domesticated plants nor animals
+are known from this site it is clear that the people
+who erected this monumental sanctuary were still
+hunter gatherers but far more organized
+than researchers dared to think 20 years ago
+skipping ahead a little this
+explosion of images with few forerunners
+and paleolithic art offers a view of a symbolic
+world which had commonalities shared among
+the residents of prepottery Neolithic sites
+of Mesopotamia they are part of a system
+of symbolic communication that proceeded
+writing as an essential method of storing
+cultural knowledge these people must have had
+a highly complicated mythology including a capacity
+for abstraction following these ideas
+we now have more evidence that coven
+was right in his belief that the social systems changed
+before not as a result of
+the shift to farming this complex
+symbolic system continued for millennia
+a prerequisite for its long life must have been
+an extensive network of super regional contacts
+sustained on a regular basis for the
+large amount of querying stone carving
+and construction work required to build a monumental
+sanctuary like gobekle tepe there had to be
+a means of bringing together groups from different
+areas and organizing communal work
+and so again it's this thing where
+you know like I just think that
+the course of human history throughout
+the paleolithic must have actually
+just been spectacularly complex and suffused
+with all the rich drama and like
+insane potency that
+you know like different phases and the transitions
+between them in our lives
+are today like you know like we can see
+these evidence as we as we've gone through these
+different descriptions of different
+moments of you know like different
+indications of social complexity
+throughout this like hunter gatherer landscape
+we really do see evidence of different
+like phases like different movements
+or however one wants to think about it
+that encompassed really like
+wide geographic areas and you know like
+what presumably were
+large numbers of different you know like
+kind of like banned societies whatever
+numbers they existed in and I think that there was
+like a lot more variation you see
+in a lot of these descriptions that render
+like a tautomata like they're always just in bands
+that are comprised of like a couple dozen people
+or like 50 people or whatever
+I really just don't think that there's a very solid
+basis for making that inference
+but you know like certainly when we talk about
+ideological and cosmological systems that extended
+from Italy to Russia we must be talking
+about like ideas
+and ways of looking at the world that spread
+between a number of groups that unified
+what were to a pretty large extent
+like somewhat materially distinct
+entities and you know and so like
+that's fascinating like to think about
+like the phase of the paleolithic
+where it was all about burying the physically
+abnormal children in the phase
+of the venus statuettes and like the phase
+where it was about the t-shaped pillars
+with the deities carved on them
+the like lasso altimira you know like the phase
+of the naturalistic representations
+of animals with like
+the occasional magician figure thrown in
+and a whole bunch of hand prints everywhere
+I mean you know like these must have been
+these cultural shifts
+and you know like these
+like widespread adoptions of these different
+symbolic universes must have been
+experienced as like really potent
+dramatic interesting and probably
+in some cases very conflict
+written and politically significant
+changes and I just think that's
+so fascinating to think about
+that's really just such epic drama
+that I wish we had more intimate access to
+than we probably ever will
+for tens of thousands of years prior to the Neolithic Revolution
+humans were a hunter-gatherer species much like the apes of today
+we used very basic tools to gather food and hunt animals
+but since people had to walk miles just to find food
+and food was constantly moving so were we
+but since people had to walk miles just to find food
+and constantly moving so were we
+okay you know and then at some point
+somebody does what exactly
+plants a seed I can't imagine
+that that didn't happen at least sometimes
+for many many many millennia
+before anything like
+what we really call in the archaeological record
+agriculture not to be the guy
+who's all like but when you really think about it
+what even is reality or whatever
+but at a certain point looking
+at all of this evidence
+for very long term processes
+of cultural change like
+intensification of patterns of interaction with certain plants
+and animal species
+you really do actually just kind of have to ask like
+what do we actually mean specifically
+when we say agriculture
+because if we get into some level
+of abstraction like well it's manipulating
+the landscape to favor
+certain food you know like certain species
+that we want to eat over others
+that description just applies
+to you know everybody
+that's ever existed on earth certainly
+since the advent of
+Homo sapiens but really since before
+that since you know like sometime like very long
+ago like millions of years ago
+because at least with the application
+of fire we've been manipulating
+landscapes massively
+you know like such that
+I can remember a time
+when I was the kind of environmentalist
+I didn't think it was necessarily wrong but I got annoyed
+with how much people needed
+in certain accounts of like
+like baseline ecological conditions
+or whatever needed to talk about
+the pervasive human influence on landscapes
+but at this point I like really do just see
+at this point I see how like
+we think of like the Amazon rainforest
+or the grasslands or whatever
+as these kind of like default states
+like these default ecosystems
+that really like do just actually
+reflect massive like widespread
+pervasive enduring human influence
+right and so like in that respect
+you do have to ask like why
+is say like planting a bunch of seeds
+really that different than
+say setting a fire to favor
+some preferred food species or whatever
+you know like if
+if we're getting into this kind of like behavioral
+and psychological realm of like
+in what respect and to what extent
+these mode these various modes of subsistence
+change us and
+you know you just like really also have to ask
+does planting
+or what however it is that we define
+agriculture as something that we start seeing
+like you know ten thousand ish years ago
+like does it
+really change us all that much because again
+there just isn't great evidence
+for that so as much as
+you know like there was very long-term processes
+of cultural change leading up to
+this fuzzy threshold that we call
+agriculture after it
+after it unequivocally happened after all
+archaeologists would agree like yes we are now talking about
+agricultural peoples there really weren't
+very abrupt processes of cultural change
+and there wasn't really
+a need to
+adopt like this this process was not
+unidirectional people tended to oscillate between
+sedentism and nomadism
+and agriculture and other modes of subsistence
+and those two things weren't you know there's certainly
+sedentary hunter-gatherers
+and there are certainly nomadic agriculturalists
+and so again I know that I
+hyped James C. Scott pretty hard pretty often
+recently in this podcast but I really think
+the best job anybody's done
+at documenting this is his book
+Against the Grain and Deep History of the Early Estates
+which talks about both how like you know
+like one of the things that it does very well
+is that the processes of state formation
+were consciously resisted by people
+who were you know political actors
+in their own time in their own lives
+and how people like routinely fled
+and all that how early statecraft was very
+obsessed with concentrating people in places
+against their will but also
+like he really I think just does
+of talking about there being
+no real abrupt process of
+like no sharp cultural
+schism between agricultural and non-agricultural
+peoples he says
+even on the basis of this rough and ready chronology
+much of it still in some dispute one can see
+how much of it is stubbornly at odds with what I have
+called the standard civilizational narrative
+that narrative pivoted on the domestication of grain
+as the basic precondition of permanent
+sedentary life and thus of towns
+cities and civilization
+the presumption still commonly held was that
+hunting and foraging required such mobility and dispersal
+that sedentism was out of the question
+yet sedentism long predates
+the domestication of grains and livestock
+and persists in settings where there is little or no
+serial cultivation what is also
+absolutely clear is that domesticated grains and livestock
+are known long before anything like an agrarian
+state appears far longer
+than previously imagined on the basis of the
+latest evidence the gap between these two key
+domestications in the first agrarian economies
+based on them is now reckoned to stretch
+for four thousand years
+clearly our ancestors did not rush head long
+into the neolithic revolution or into the arms
+of the early estates
+the breathtaking four millennia gap between the first
+appearance of domesticated grains and animals
+in the coalescence of agro-pastoral societies
+we have associated with early civilization commands
+our attention the anomaly of such a stretch
+of history when all the building blocks for a classic
+agrarian society are in place but fail to coalesce
+begs an explanation
+an implicit assumption of the standard progress of
+civilization narrative is that once domesticated
+cereals and livestock were available they would
+generate more or less automatically and rapidly
+a fully formed agrarian society
+as with any new technique one might anticipate
+as new subsistence routines were accommodated
+perhaps even a millennium
+but four thousand years or roughly
+one hundred and sixty generations
+is far more than a working out of the kinks
+and that kind of points to
+what is an interesting pattern
+that kind of does seem to appear again and again
+in the literature as these variables are being
+decoupled as these variables like agriculture
+and sedatism and social complexity
+and hierarchy are being decoupled
+it seems like what we're often
+actually finding is these very
+substantial phases of human history
+where something like agriculture
+occurs or even where
+a full-fledged kind of like agricultural
+I guess civilization with
+urban centers and everything occurs
+and there isn't any pronounced hierarchy
+and then at some point
+they get captured by a hierarchy
+and once they do that dynamic seems
+fairly inexorable so
+you know again like these variables should be I think
+decoupled and looked at in a much less categorical
+fashion but I am certainly not claiming
+that they have nothing to do with one another
+like ultimately in the long term we do
+see a technological and hierarchical
+trajectory that clearly have some
+relationship but by seeing
+that there's phases where these
+various technologies and subsistence modes
+exist for many generations without
+phenomena that are supposed to inevitably result
+from them we can
+ask a set of like strategic questions
+about how that happens and you know we can
+because all variation in political outlook
+ultimately reduces to variation in assessments
+of human nature we can develop
+a you know an understanding
+of humanity itself
+that isn't maybe so monolithic
+and doesn't make this stuff seem quite
+so inevitable there's that long
+period where there is agriculture
+and sedentism as two separate phenomena
+but all the material conditions
+of the like the later like
+agricultural civilizations that are associated
+with state formation are there but we just
+see that kind of lifestyle
+you know like there's that long phase and then there's a phase
+you know where
+intensive settlements and like intensive
+crop exploitation and urbanism
+occur and there are basically
+like four great like
+old world centers of civilization
+like four places where this happened
+in you know the old world
+and three of them are associated
+like urbanism and state formation
+seem fairly tightly coupled
+somewhat synonymous
+but then the fourth the Indus Valley civilization
+is this instance of a very
+long enduring urban civilization
+that lacks really any
+of the indicators that archeologists and others
+use to infer significant social
+stratification or hierarchy so this is
+that paper that I mentioned earlier
+by Adam Green killing the priest king
+addressing egalitarianism in the Indus civilization
+and in the abstract he says
+the conspicuous lack of political and economic
+inequality noted by mohenjo
+as initial excavators was basically correct
+this is not because the Indus civilization
+was not a complex society rather
+it is because there are common assumptions about distributions
+of wealth hierarchies of power specialization
+and urbanism in the past that are simply
+incorrect the Indus civilization reveals
+that a ruling class is not a
+prerequisite for social complexity
+so the Indus Valley civilization encompassed
+portions of Pakistan
+India and Afghanistan
+and it had a number of major urban centers
+but unlike the urban centers
+in Mesopotamia and you know like
+the other old world
+origin sites of civilization and urbanism
+these cities don't have any kind of like conspicuous
+palaces or monumental architecture
+or you know like
+royal center of any kind
+and the distribution of material goods
+in like graves and
+in house size and everything
+is pretty equal
+you know it's not like there's no
+variation in say the size of houses
+or whatever but there is absolutely
+a lack of the conspicuous stratification
+in the other three examples
+there's like many material goods that
+are exclusively to be found
+in like elite households and like palaces
+or whatever and there's just really none of that
+everybody seemed to like basically have the same
+access to the same material goods
+and all of this has led
+it's like it's pretty fascinating this paper is actually pretty
+funny at times because all of this has
+led people adhering to this paradigm
+it's not like the Indus Valley civilization
+just started getting excavated a few years ago
+you know it started happening a really long time ago
+so adherence of this kind of like
+standard civilization narrative as James C. Scott puts it
+have done one of two things
+like one is to literally
+just kind of ignore the Indus Valley civilization
+in their accounts and then the other is
+to insist like that
+literally just the social complexity
+that we see indicates the presence
+of some kind of like intense
+military hierarchical elite
+that is just so like
+shadowy and evasive
+that they leave no trace in the archaeological
+record you know which again it's like
+archaeologists often use
+this pretty like specifically defined set of criteria
+like monumental architecture
+and palaces and highly differentiated
+burial sites to be like well here are
+non-equivical metrics of you know
+of like social stratification
+and then to just kind of pivot
+and say and in the case of the Indus Valley civilization
+they're not present because
+the hierarchy that must have existed there
+was like a shadowy invisible
+elite of some kind or another
+and so he says in the introduction
+in this article I review the empirical evidence
+for a ruling class in the Indus civilization
+finding that the traditional assumption that
+there was a simple correlation between complexity
+and hierarchy and between simplicity
+and egalitarianism can no longer be sustained
+do complex societies necessarily
+have a ruling class in brief
+no since the mid 20th century
+archaeological attempts to explain the origins of complex
+societies were heavily indebted to evolutionary
+theories of social change based on historical
+or ethnographic research which posited
+that societies progressed through a series of
+universal stages that culminate
+and were thought to be present day social conditions
+these traditional theories of social complexity
+made two major claims that all
+social trajectories converge on a common and
+universal evolutionary outcome the state
+and that all states comprise more or less the same
+social phenomena namely urbanism
+political hierarchy long distance intercultural
+trade and importantly political
+and economic stratification the first
+claim has been thoroughly dismissed but
+disentangling the agency of a ruling class
+in terms of increasing social complexity
+is an ongoing project and yet
+interestingly green gets into this
+thing in this paper that I wanted to bring up
+which is just this idea that if we take
+the notion of
+reverse dominance hierarchies articulated
+by anthropologists like Christopher Baum to heart
+you know like we really have to actually ask
+what it is that dense aggregations
+of people would inevitably
+tend towards hierarchy because of course
+you know as I talked about in the last episode
+the origins of dominance hierarchies
+in a cross-species sense is like the ability
+of an individual or I guess
+like a small coalition of individuals to
+directly physically
+reverse other individuals to you know like
+engage in acts of aggression towards them
+in a great strategy
+to like a great countervailing
+strategy to address that
+is to aggregate in significant enough
+numbers that one can form a coalition and fight
+back against anybody who tries
+to exert dominance over you like that
+and so like in that respect
+and I thought I was clever for pointing this out
+but he says this in this paper
+you know in that respect we would actually
+expect at least in some cases for
+dense population aggregations
+like cities to be great places
+to fight off hierarchies
+and he also talks about how
+the neighborhoods in the cities within the
+Indus Valley Civilizational Complex
+are like differentiated
+in terms of like they're just like obviously built
+by different people employing like different
+standards and like somewhat different architectural styles
+and stuff and how there's evidence that
+these cities were aggregations
+of somewhat politically independent
+so that there might have been social
+units within them that were actually
+pretty small and still operated
+by you know like some of the dynamics
+where like kind you know like let's just say
+to simplify the terminology
+every political units where everybody could have gone
+to the meeting you know like like those
+kinds of scales and that there were probably
+or at least that there could have been
+ways in which these different neighborhoods
+these different like small scale political units
+collaborated to
+achieve like these mass effects to be able to do all these
+you know to achieve all this complexity
+that living at high densities would achieve
+but also had like ways to distribute
+the power among them so that nobody
+could become dominant over this so that
+no neighborhood could become dominant over any
+other neighborhood which I think is pretty fascinating
+and then in conclusion he says
+the induced civilization lacks evidence of
+palaces, elaborate tombs, aggrandizing monuments
+and significant discrepancies in grave goods
+at the same time induced cities
+boast considerable evidence of sophisticated technologies
+comodious houses, large scale
+non-residential architecture and long distance
+interaction. The induced civilization
+was perhaps the world's most egalitarian early
+complex society defying long held presumptions
+about the relationship between urbanization
+and inequality in the past. Urbanization
+collective action and technological innovation
+are not driven by the agendas of an exclusionary
+ruling class and can occur
+in their total absence. The priest
+king is dead. The induced civilization
+was egalitarian but this is not
+because it lacked complexity rather it is
+because a ruling class is not a prerequisite
+for social complexity.
+Okay and then to further decouple these variables
+a little bit I want to talk about one more paper
+which was published in 2016 in current anthropology
+called urbanization state formation
+and cooperation a reappraisal
+and what I think is so fascinating about this paper
+is that they not only document
+a case of a city without a state
+in this case in the Andes lasting about
+300 years around Lake Titicaca before
+state dynamics again you know like this seems
+to be a recurrent theme before state dynamics
+kind of like captured that fairly egalitarian
+urban civilization and took it over
+but they also talk about
+a case of an unequivocal state
+where there's really actually no dense settlements
+or anything like a city or really even
+villages in Hawaii.
+They say an initial opposition of urbanites
+to state formation is counterintuitive because of
+enduring associations of these two features
+in models of cultural evolution. Documenting
+a city has long been tantamount to documenting
+a state and a civilization.
+The assumed close association of cities with states
+however relied on a stage conception
+using historical cases for which states were
+long established. Newly detailed archeological
+sequences for the growth of cities in the emergence of
+city-less state institutions now questions
+the elemental nature of the association of cities
+and states and oh okay I made a mistake
+it was not that last paper about the
+Indus Valley civilization where they talk about
+the relationship between the notion
+of a reverse dominance hierarchy
+and you know dense population concentrations
+in this paper. I'm not going to edit it out
+I'm exceptionally weary at this point.
+I have tried to record this podcast
+like seven or eight times and my health
+or my external circumstances has interfered
+every single time. I think I am racing
+headlong towards victory here so I'm just going to keep going
+but yeah they so they talk a lot about
+just like theories of cooperation
+and hierarchy and how
+you know like cities
+can be seen pretty reasonably
+as these instances of like very widespread
+cooperation and then
+yeah they talk about this
+300 year long process of urbanization
+on Lake Titicaca where
+there's just no clear evidence of a state
+you don't see the whole like you don't see
+the distribution of goods being really
+stratified where there's some elite hanging out
+in their monumental architecture and their palaces
+and their you know like urban cores
+you know like with all this stuff
+that nobody else is allowed to have access to
+there's not like significantly stratified
+burials and all that and then you know again
+literally a state does form
+and kind of like captures this civilization
+and never really lets go
+but then talking about Hawaii this was fascinating
+I guess I knew Hawaii had like a pretty intensely
+hierarchical social structure
+when Europeans first encountered it
+I didn't really know the extent to which
+the population remained really dispersed
+even though they were like under the control
+of this pretty like unequivocal state structure
+so they say the Hawaiian islands are located
+in the central Pacific just within the tropics
+they are unusual for their relatively large land mass
+and their isolation from other inhabited islands
+about a thousand years ago a small group
+of Polynesians colonized the islands
+and developed there almost independently
+like a sex state like society
+before being encountered by Captain Cook in 1778
+and so they give you know like they give a sequence
+of the like phases of that society
+the various subsistence modes
+they say that sometime after 1400 AD
+chiefs initiated conquest warfare
+to seize the you know means of production
+that had been created by people
+there and you know they go on through some other
+some other sequences of developments
+of like settlement patterns and subsistence modes
+then they say throughout the sequence
+the settlement pattern of the islands remain dispersed
+with no urban centers
+the size of Hawaiian communities was small
+a rather typical village probably existed
+in the community of Waiolai, Kauai
+here based on the 1850 land division documents
+13 commoner house lots were scattered
+along the one kilometer beachfront
+and another six lots were dispersed inland
+along the stream and among the valleys irrigation systems
+with a wealth of historical, ethno-historical
+and archeological documentation
+the pre-contact polities on Maui and Hawaii
+can easily be considered states
+by the time of their initial engagement with the west
+Hawaiian polities had crossed a threshold marked
+by the emergence of divine kinship
+and by the sundering of ancient principles of lineage
+and land rights based on kinship
+and the replacement with a strictly territorial system
+transformative changes included the establishment
+of an island-wide structure of power and authority
+land-based taxation and labor
+and agricultural materials divine kings
+supported by elaborate ceremonies and personal
+dress and conquest warfare
+by right of conquest all land
+became the property of the conquering ruler
+at contact the Hawaiians
+had formed a class-based state society
+state formation did not bring with it cities
+we suggest rather that hierarchical control
+was partly enabled by the absence of settlement
+aggregation as populations were tethered
+to their subsistence plots and easily monitored
+as homon summarizes
+ancient Hawaii exhibits no urban development
+no towns and indeed few nucleated settlements
+that warrant the label village
+okay and then finally they say
+do other cases of non-urban
+early states exist that would bolster the Hawaiian case
+because urbanism is used to
+define states archeologically
+states without cities may simply have been missed
+and research is required to resolve this question
+except for a strong historical record
+Hawaii and Tonga would probably have not
+been recognized as states
+work on low density urbanism suggests that the degree
+settlement aggregation was highly variable
+across archaic states
+and no necessary linkage between the variables
+exists
+bam okay friends you know we've gone
+from the advent of cognitively modern humanity
+all the way to Hawaii
+as it was when it was encountered by Europeans
+in the 18th century
+so I would say that we have affected
+some sort of like sweeping history
+of humanity or another
+and I want to talk about what it all means
+what it implies strategically
+and I want to talk about modern
+day prospects for ethnogenesis
+for becoming a people
+and that being inextricably linked with
+useful and meaningful we say
+we mean when we say revolution
+and I want to do that in another episode
+because I think I've been talking
+for kind of a long time
+there is no point

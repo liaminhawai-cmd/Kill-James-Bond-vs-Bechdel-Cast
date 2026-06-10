@@ -1,0 +1,1929 @@
+Title: The Wilderness of Mirrors
+Episode #: 7
+Episode ID: 4576223
+Source: https://www.buzzsprout.com/1052548/episodes/4576223-the-wilderness-of-mirrors.mp3
+------------------------------------------------------------
+
+=== EPISODE METADATA ===
+Generated: 2026-01-12 01:02:07
+Episode ID: 9052837
+MP3 File: 9052837-ethnogenesis-pt-2-evolutionary-anarchism.mp3
+Title: Ethnogenesis pt. 2: Evolutionary Anarchism
+Podcast/Artist: Against the Internet
+Album/Series: Fight Like An Animal
+Source URL: https://www.buzzsprout.com/1052548/episodes/9052837-ethnogenesis-pt-2-evolutionary-anarchism.mp3
+========================
+What is the highest technique you hope to achieve?
+You have no technique.
+Very good.
+What are your thoughts when facing an opponent?
+Greetings friends, I'm Arnold Schroeder, and this is Fight Like an Animal.
+You can find the bibliography for this episode at AgainstTheInternet.com, where you can also find my contact information,
+and I encourage correspondence of all varieties.
+Finally, if you want to support this work materially, check out patreon.com slash biological singularity.
+Let me just mention before I get into introducing and framing this episode that I recently had a conversation with Derek Varn of the Varn vlog,
+which you should check out.
+It was, I thought, really interesting.
+We talked a lot about the tension between local and global decision-making structures and navigating the ecological crisis
+and the relationship between infrastructure and politics, and generally just sort of, you know,
+had a discussion about prospects for survival and the political transformations that would be necessary to achieve it.
+And, kind of, once again, I have not really hopped around too many podcasts, but once again,
+I found myself talking with somebody who, from one perspective, like, there's a surface analysis where it's like,
+our politics or the aesthetics that we're presenting our politics with or whatever are kind of different,
+but there's a real clear unity, I feel like, with the people who I have had interview discussions,
+not so much in exactly what we think, exactly what political conclusions we've come to,
+but in how we reason our way to those conclusions, a shared epistemology.
+And I think really, like, a lot of it is ultimately kind of reducible to, like, a sort of technical or scientific orientation.
+So anyway, it was a fascinating discussion.
+Derek is part of the Emancipation Network, so it's another podcast within that network that I've had a discussion with,
+so please check that out, Varnvlog.
+And then moving on into what we're doing today, this is going to be, I wish so badly that a few days ago,
+when I was just, like, carrying the fire for this episode, I had done it then because I was physically
+mentally in pretty decent shape, and I really just felt like I had, like, that I had, like, power
+residing in me that I was going to bring forth into the world.
+And I am really excited about this episode, but things have just been very hard physically,
+and that'll probably register in how I presented, but I want to get it done.
+We're going to try to do a few different things in this episode.
+We are going to continue to talk about the creation of cultures as fundamentally political projects,
+as things that happen because people decide that they want to live one way rather than another.
+And whereas we were kind of talking about that with a real focus on Upland Southeast Asia utilizing James C. Scott's book,
+and throughout kind of like a decently broad sweep of history, but definitely, like, within a historical timeframe,
+today we're going to talk about the same kind of processes of ethnogenesis of changing the cultures that individuals inhabit
+or of exiting those cultures to form new ones that better suit political ideals
+throughout the sweep of evolution, among our distant ancestors, among other primates who are living today.
+And so in the process, if you happen to listen to the Nature Nurture Death Spiral series where, you know,
+I made the basic claim that all variation in political outlook ultimately reduces to variation in assessments of human nature
+and that social sciences have produced these various narratives that are actually really, really damaging to our ability to shape political outcomes,
+but that in order to proceed in a new direction, we really do need a body of theory on which to rely
+that answers these very fundamental questions that all variants of social sciences and political orientations are ultimately presenting
+some answer or another to, you know, of like, what are the human potentials with respect to aggression and hierarchy
+and cooperation and egalitarianism and, you know, all these kind of like, we're going to really try to both talk about how social sciences
+have rendered these questions in the past and look at the way that they have as an institution constrained political possibility
+and what it would mean for, as we recurrently get to in this series, this notion that science reconceptualizing itself is the sort of like,
+basis for the kind of revolution that's capable of saving the world from total destruction
+and that a sort of like parallel form of social sciences could emerge from political projects and be the basis for future political projects
+and that we're going to, you know, we're going to like, talk about it on that level, but then we're also really going to try to like,
+dig in to the substance of that question, maybe a little further than we ever have, and then so this will also be, it's, you know,
+I'm doing these, these episodes are acts of synthesis, so I'm sorry that they do not always fit into super concise conceptual parameters.
+That really is the whole point though, right? The point is that things are complex and sometimes you have to engage that complexity.
+So like, we can't do that, we can't critique the existing forms of social science and how they render humanity or promulgate
+and alternate social sciences with a new rendering of humanity that allows for greater political possibility
+without assessing in some meaningful way the relationship between technology and domination and hierarchy.
+And so we're going to try to set, to both do that and set ourselves up in particular in the next episode to talk about ways to get free
+with all this, you know, with all these means of coercion laying around at people's disposal with all these surveillance drones and barbed wire fences and all the rest.
+So this should be a big grandiose sweeping adventure through the entire course of human evolution and what it all means for the possibilities for survival today.
+So today I'm particularly grateful for coffee.
+Okay, so there's a fundamental assumption animating this podcast and really most discussions of like the core evolved behavioral repertoire of humans that I guess I haven't really ever stated explicitly.
+It feels like I probably should even though I understand most people are making the same assumption most of the time who are listening to this podcast.
+But the assumption is that what we consciously experience of our behaviors, and in particular what we choose to say about them are often post hoc assessments or rationalizations or descriptions or whatever,
+that we might really think that we reason our way to all of our behaviors, but our behaviors emerge from other processes deep within our neurophysiology and wherever else that, you know, we talk about as a post hoc phenomenon and justify in many cases as a post hoc phenomenon.
+In phrase in terms of brain structure, we might say that the behavior comes from deep within the brain. And what we say about the behavior comes from more recently evolved in exterior regions, right.
+So, for example, the really strange collection of traits, logically unrelated traits that correlate with left right political perception that we've talked about on the podcast, and that lack any clear relationship to post hoc assessments.
+And that lack any clear relationship to politics per se are a good indication that something other than rational language based deliberation shapes our world views, right.
+It would not be the case that one's politics could be predicted from how one maintained their living space or from one's brain structure or from one's use of non political language.
+People were actually reasoning their ways to their political perceptions, but of course if you ask people that's mostly what they'll tell you is true.
+So that's the that's the notion of bottom up processing. It's the notion that, you know, the thing that's happening is happening on levels that we're largely not conscious of, and that us talking about it is a subsequent process.
+I rarely hear people if you ask about somebody's worldview, say, I don't know why I think this it just seems like it's my nature to perceive things this way.
+But to a large extent that is usually the explanation for why people perceive things the way they do, and why they behave the way they do and including in terms of their political behavior.
+But I don't say all of this to negate the notion that the rationally deliberative parts of our brain can't meaningfully shape our behavior or meaningfully shape collective behavior.
+I emphatically think that they can and, you know, that's the whole purpose of making these inquiries is to establish a framework for doing so.
+So the reason that I am drawing out this assumption now that I've been making all along in this podcast and that is just so central to so much discussion about evolved behavioral repertoires is I want to just convince you to,
+I want to kind of invoke a sense of experiential unity between what you do and experience and what other animals do and experience when there does appear to be like a significant overlap.
+And in particular to convince you that even if they lack a whole bunch of terminology to throw around in relation to it, when we see other animals doing what we would kind of characterize in our own species as politics, they are doing politics.
+And they're having an experience that really isn't that different than the experience we have when we engage in political conflict.
+Right, like when we see some chimpanzees yelling at the alpha male and and aggression like displaying, it's not that different than being at a protest, because it's not like and I'm going to I'm going to do an episode called our protests aggressive displays at some point in the future.
+That will continue to elaborate on some of these lessons for revolution that we get from primatology.
+But you know, when you see chimpanzees doing something like that, it's good to keep in mind that there's a again a bunch of neural architecture that we share.
+It's not that our neural architecture is like radically divergent from theirs.
+So much as it is that we just have some extra architecture and that extra architecture allows us to do things like turn our incessant vocalizations into really complex symbols that you know that we can use to explicitly logically communicate something about the hierarchy that we're in that we don't like or whatever.
+But that the fundamental reality of doing a bunch of vocalizations and aggressive displays at the representatives of that hierarchy pretty much the same experience chimp to human.
+Here's how Franz DeWall phrases it in chimpanzee politics, which is one of the many books that we will rely on in this episode.
+Humans are talking primates, but in fact their behavior is not very different from that of chimpanzees.
+People engage in verbal fights, provocative or impressive word displays, protesting interruptions, conciliatory remarks and many other patterns of verbal activity that chimpanzees perform without an accompanying text.
+When humans resort to actions instead of words, the resemblance is even greater.
+Chimpanzees scream and shout, bang doors, throw objects, call for help, and afterward they may make up by a friendly touch or embrace.
+We humans also display these patterns, usually without taking a conscious decision to do so.
+And maybe our motives are not so very different from those of chimpanzees.
+So there's a very long list. Perhaps we should place our discussion today in the context of the extensive sequence of ostensible dividing lines between our species and others that have broken down as we've actually observed other species.
+So at some point I would say that politics like tool use and whatever else, language, culture was removed from the list of things endemic to humanity and placed on a list of traits that we share with other creatures.
+And so if we take this notion seriously, we have to say that it is the case that egalitarian political struggle is something that is not, you know, that didn't start with the first international or, you know, like whatever like historical tendency one wishes to align with.
+It is millions of years old, that egalitarian political struggle of the variety that we are ultimately engaged in today is a cross species phenomenon, and it is one that shaped our own like a neural architecture and fundamental nature as a species.
+And so that's I've noticed that people really love to place their politics within the context of some kind of like broader tradition.
+And oftentimes I actually sort of militate against how historically oriented so many people's politics are because I feel like things are so rapidly changing both in terms of our material conditions, and in terms of the knowledge that we're accumulating about ourselves.
+And that it behooves us to have a politics based on very recent understandings of ourselves and assessments of recent changes in our conditions.
+But at the same time, you know, if we are going to all sort of like spend some time on Twitter talking about how our politics goes back to whatever historical point of, you know, emergence and like identify ourselves with various schools of thought that have a sort of like a veneer of antiquity to them or whatever,
+then I'm going to lean right in and say this is my this is the political tradition that I identify with. It's the one that's happening in baboons and chimpanzees and whatnot today, and was happening in Australopithecus and Homo erectus and whatever else on our journey to becoming human.
+And indeed is a guide to the the future course of that journey and to the you know the destiny of humanity beyond the point of evolution that we are currently inhabiting.
+Okay, so this political tradition this evolutionary anarchism as it were evolutionary egalitarianism or however one chooses to phrase it goes something like this.
+There's a range of social structures among primates from very despotic to very egalitarian. And the egalitarian species are such because individuals of those species fought to be such and an evolution accommodated the changes that they brought about in their societies.
+We're going to have much more of an opportunity to talk about rapid evolution in particular rapid evolution in these very domains that we're investigating in terms of the biology of aggression hierarchy social tolerance.
+The biology that we got into at the beginning of this podcast and we'll talk about how phenotypically plastic our own and other species are and how contrary to the kind of biology that posits that most things that are interesting about an organism are the results of some random
+mutation in DNA sequence that only happens very, very infrequently fortuitously turning out to be adaptive and being selected for contrary to that kind of biology we're going to talk about how organisms can respond to their developmental
+conditions rapidly and radically and how that can shape the course that those organisms take evolutionary developmental biology will get into more of a we'll get into more detail about what it implies for the future of the human journey.
+But for now, for this sprawling insane effort of an episode, you know, we can ask if this is true that egalitarian species of primates are such because of something that we can plausibly describe as a political struggle that took place within that
+species, then of course we're going to ask like what are these political struggles like and what can we learn from them and all that. And that's where it gets really useful to it allows us to really think about what a mysterious substance power actually is, because
+because if we look at the despotic species, you know, they're, they're controlled by an alpha male, or in the cases of some baboons, coalitions of like a small handful like two, three alpha males. But you know, who really shape the experience of a whole, whole, whole lot of other animals.
+And what's so fascinating about this is that their status as alphas is based on their ability to fight any one of the other members of their society and when, but they sure couldn't beat up every member of their society, right.
+And so that's an interesting aspect of the, of the nature of hierarchy. That's one way in which the game theory doesn't seem to work out without some additional explanatory factors. And it's really useful to keep in mind one person can only beat up so many other people.
+And that places really significant constraints on what hierarchy can actually be and how intense hierarchy can be. Because to start off with one one countermeasure that members of any given primate species can take to living in a dominant hierarchy that they don't like, is to simply walk away.
+So this is a characteristic of chimpanzee societies that they sometimes fission into two different groups. And this was something that happened during Jane Goodall's observations that she recorded in her classic book, chimpanzees of the Gombe, patterns of behavior.
+What she watched was males of what were initially one group start to reside either in the south or the north more and more of the study of the study area of their of the groups overall territory and have fewer and fewer interactions and then for the place where those interactions did happen where they're where they're ranging kind of
+overlapped to gradually shift further and further south until there was kind of this very distinct southern community. And there was a valley that they that they met males of the northern community in but they became two different chimpanzee societies, and then those two chimpanzee
+societies went to war. And that was all very brutal and terrible. But for our purposes right now, what's interesting about this is that this process of fission of group fissioning among chimpanzees is, you know, essentially the same process we would imagine of ethnogenesis in humans, right?
+That when we look at all of the fabulous diversity of ecological niches that humans carved out for themselves, and the fabulous diversity of geographical regions that humans ended up in, we have to imagine that there were groups of people that split up and went different ways over and over again throughout the course of the human
+experience, both in terms of like, cognitively behaviorally modern humanity, and in terms of human ancestors leading up to that point. You know, the different points people were like, Okay, well, we're going to, we're going to be the people who crossed the ocean in the open canoes and live off of shellfish.
+And other people were like, Oh, we're going to be the people who hunt the giant animals and live next to the glaciers. And one has to assume that this has a number of evolutionary consequences.
+First of all, it like I was saying, it places sharp limits on the extent to which dominance hierarchies are absolute features of life, because they can simply be walked away from there. There is nothing about when we read about chimpanzee societies or whatever human
+societies until very recently, people had all of this power over other people, whether we're talking about people who look like us or people with a little more fur and a little less language, but people always just had the power to walk away.
+And so it places limits on the despotism that is practical. Here's like, where if we get into the kind of like, the, you know, like, looking at selective pressures per se, looking at what behaviors would be adaptive or non adaptive, it would seem to imply that there's a certain level of hierarchical behavior that probably would not be adaptive, because people would just, because it would just be escaped from.
+But also interestingly, I think it's worth noting that the formation of new cultures would have through like a process of fissioning between a previously cohesive group would probably have a lot of evolutionary consequences, just because people temperamentally vary so much.
+And it seems extremely likely to me that in certain situations of group fissioning, people with one disposition or another would be more or less likely to cluster in one group or another.
+Right. So for instance, openness to new experience is a temperamental aspect of humanity that's cross culturally, durable, and highly politically predictive, more openness to new experience predicts more egalitarian politics.
+And it's hard for me to imagine that such temperamental variation would have nothing to do with decisions to, you know, move into new landscapes or try whole new subsistence routines out and things like that.
+So that's a way in which ethnogenesis and what, you know, we might describe as like radical cultural and political experiments in new ways of living, probably, you know, like shaped evolution.
+And then we also have to imagine, I mean, if the human experience is any indication at all, if the primatological evidence is any indication at all, we have to imagine that sometimes when human societies fissioned and new cultures were formed, that it was the result of some kind of conflict.
+And then we have to further assume that these sorts of conflicts were fundamentally political by definition, they were political, right, there, you know, conflicts in a group about how the group was going to behave.
+And so I think it absolutely must be true that over and over again, people had a bunch of substantive disagreements that were really interesting and have like relevance to the contemporary experience and shaped evolution.
+But just to keep it within this obvious realm of, you know, like answering these big questions about our potentials with respect to aggression and hierarchy or egalitarianism and cooperation and whatever else.
+Some of these conflicts had to be about how hierarchical a society was, who got to exercise what forms of power.
+And then a further way in which this process of fissioning must have influenced evolution is that these temperamental variations that map to political orientation in humans today, temperamental variations like openness to new experience,
+more or less also just map in other species to what could be concisely described as the degree of interest in the dominance hierarchy, which is a separate dimension from an animal's ability to fight and like hypothetical ability to compete in the dominance hierarchy.
+And Jane Goodall had also talked about this in chimpanzees of the Gombe patterns of behavior. It's been described, I think I touched on it in another episode in a larger chimps society elsewhere that is sometimes described as the most brutal chimpanzee society ever recorded,
+which is, it's also the biggest chimpanzee society ever recorded. And those two things probably don't have nothing to do with one another.
+But there's one individual there who shows this. I can't remember the name right now, but it seriously is in another one of my podcasts.
+I should have checked my own bibliographies before I started the episode, but this individual, this adult male is noteworthy both for a total lack of interest in the dominance hierarchy, for being the first chimpanzee in that group who tolerated the presence of researchers,
+who researchers could get close enough to to really study and who fostered an orphan, it's a very heartwarming story, fostered an orphan adolescent chimp.
+So shows all of these co-varying tendencies, this openness, this social tolerance, this lack of interest in the dominance hierarchy that's characteristic of temperamental differences that map to political differences in people today.
+And then, yeah, Goodall talked about this first, I believe she was the first person to touch on it, and the male chimpanzee in her study group at Gombe, who was really unique in this regard, was named Jomio.
+She says, one male, Jomio, has always been remarkable for his lack of preoccupation with matters of rank.
+He was first identified in 1964 when he was about eight years old. His mother, Vodka, was still alive, but was shy and seldom seen.
+In 1965, Jomio, like other early adolescent males, began to challenge the community females.
+Although he was often attacked and chased off, as are all youngsters at that age, he once swaggered and bristled so effectively that he was able to withstand the efforts of the high-ranking passion when she tried to chase him from a box of bananas.
+In the end, they shared the fruits.
+So she's setting us up to understand that Jomio does, in fact, possess the capacity for aggressive behaviors that's not the explanatory factor and why he's disinterested in the hierarchy.
+And I won't enumerate, she goes on to describe a bunch of interactions and a bunch of patterns of interaction between Jomio and other members of the group that I won't enumerate in all their glorious detail.
+But what she is setting us up to understand is that there does seem to be some developmental experiential factors at work here.
+And she talks about another male named Mustard, who, at the time of her writing in 1986, seemed to be on a trajectory towards a similar sort of disengagement from the dominance hierarchy.
+So yeah, the nature of it seems multitudinous and complex in both their cases.
+She describes a history of atypical social interaction during development that really had a lot to do with their mother's social status and behaviors like the choice to kind of isolate from the group to a large extent.
+And also maybe some developmental factors that, you know, in one case, in the case of Jomio, at least there was like a major injury that seemed to shift his disposition.
+But I think it really also does seem to be the case that there's some in a genetic factors at work there.
+And so we can easily imagine throughout the ancestral experience of humanity and in other species that have been evolving in parallel to humanity, you know, this notion of group fissioning,
+ethnogenesis, kind of like dispositionally different individuals clustering into these new cultures that get formed and that having really significant evolutionary consequences.
+If, you know, Jomio and Mustard and two or three of the females that Goodall was studying all kind of went off on their own way and said, you know, we just don't like this.
+Like we're kind of sick of this whole scenario where we're all beating each other up all the time and whoever can beat the most people up gets to tell everybody else what to do.
+And we're just going to go over here and do something else now, you know, how that would have a really significant evolutionary influence over many permutations of political revolution, ethnogenesis.
+Okay, but so in terms of the other variety of political struggle, rather than the escape variety, rather than the flee the hierarchy and form a new culture variety, which, you know, I mean, we talked about last episode with tribes of upland Southeast Asia, like the Hmong, but, you know, the Hmong like process that's been happening throughout the course of evolution.
+There's that kind of political resistance or political project of culture creation, but then there's the kind where you stay and fight, right, where you you militate to change conditions within your society rather than escape it and form a new one.
+And there is much to be learned about how that type of political struggle was playing out among our ancestors and plays out in species evolving in parallel.
+From that same fact that one hyper like even, you know, like hyper aggressive, real big, real mean male can only beat up so many people at once.
+And so it's not only true that they don't really have the power to keep people within a territory and require them to be a part of the hierarchy that they've established.
+But it's also true that ultimately really in species that are as socially complex as primates, there might be an alpha male and that might really mean something like every other member of that society might to that alpha male defer in matters of certain like forms of resource competition
+and might engage in formal submissive behaviors when that dominant male engages in a set of formal, you know, sends us a set of formal signs of threat basically.
+And all these all these other things, you know, the dominant male really might get priority over like food resources and sexual privileges and all the rest.
+But at the same time, the very presence, the very status of that male as alpha may ultimately really be a function of a coalition.
+There really may not be any way other than that to think about it about what coalition is ultimately in power, you know, is a whole lot like the human experience.
+And so good all in chimpanzees of the Gombe presents these fascinating graphics.
+Here I wish I was making a video about the coalitional and antagonistic interactions that each adult male had with one another.
+And they're, you know, they're really complex.
+They show like an ever-fluxing set of relationships where sometimes one chimpanzee will come to another's aid and sometimes will be in conflict with that chimpanzee.
+And some of these relationships are inviolable like in some cases one chimpanzee always comes to another's aid.
+In some cases it's like highly context dependent.
+But who is alpha male is ultimately a function of these coalitions.
+The alpha male, yes, wins a lot of fights, but also ultimately is the individual who has the most other adult males coming to his aid the most of the time.
+And so that that has a couple really interesting implications.
+One is that like really how we conceptualize the hierarchy itself and the notion of an alpha male has to be, we have to acknowledge that on some level power is highly distributed even in these societies that we describe as despotic, like as intensely hierarchical.
+As much as we can identify an alpha male, and in the case of chimpanzees, not so much a linear dominance hierarchy where A beats up all other individuals and B submits to A, but beats up every other individual and so on and so forth.
+You know, like what we actually really can find, which again is more reminiscent of the human experience, is like a few different ranks that multiple individuals occupy.
+But as much as we can identify an alpha male and a hierarchy with different ranks occupied by different individuals, that whole structure is ultimately a function of very distributed power.
+Every individual within that society is contributing to and shaping the nature of that hierarchy.
+And then, and then the other thing that this logically inevitably implies, and that looking at Goodall's graphs for really just a moment makes really intuitively clear is that saying that saying that power is distributed and that it's constantly in flux between different coalition,
+different coalitional configurations and different individuals is really equivalent to saying that chimpanzee society is more or less hierarchical at different points in time, right, that sometimes the coalitions are a little more even than others.
+So, again, we can see how our distant ancestors and species evolving in parallel are doing politics all the time, and that the politics always have some aspect of that the, what we call egalitarianism in the sense that everybody's shaping the nature of power relations in a society is kind of always there.
+And that it there's always some capacity, some raw material for more equal power relations to manifest out of the dominance biology of any species that has a capacity for like coalition building and complex social interactions, i.e. any primate species.
+And there are some baboon species where this logic is taken to what seems like an inevitable place where there is no alpha male, but there's like a ruling coalition where it's not, you know, like in chimpanzee societies, there's an alpha and then there's these subsequent ranks essentially that multiple individuals fill.
+But in baboon societies, that top rank is also filled by multiple individuals, usually just like two or three. But, you know, it is the case that these say three baboons are given undisputed power when they're all actually together.
+But that if one of them is alone and challenges another male, that male may show no fear whatsoever, because again, you know, that's the hard constraint on hierarchy is that one person can only beat up so many other people.
+Okay, so just to kind of like substantiate and draw out this notion that even in the species that are described as the most hierarchical and despotic power is actually a very distributed function of coalitions.
+Let's look at the chimpanzees who fought a great war for power, as described in Franz De Waal's chimpanzee politics. So these are captive chimpanzees at the Arnhem Zoo.
+And they differ in their behavior with respect to politics from their wild counterparts in one really crucial way that we'll get into in a little bit.
+But in many respects, their political behavior is identical. But unlike chimps in the wild, every dominance interaction that they have can be documented.
+So it does provide a better means of understanding this in a certain way that, you know, at a certain like scale of detail.
+So De Waal describes this group with these three males who end up competing for power, Yeroen, Niki, and Luit.
+And it starts with Yeroen as the undisputed alpha male. And Luit is somebody who he's known for a long time.
+They're kind of old friends and they're pretty bonded. And Luit is like the number two male in terms of dominance rank.
+And then Niki is younger and has really almost no status in the group.
+And the sequence of power machinations is really long and intricate and super interesting.
+But, you know, basically it starts with Luit beginning to challenge Yeroen.
+So it's the number two challenging the number one with dominance displays and stuff like that.
+And there's 72 very tense days of, like I said, like pretty complicated power machinations.
+And what's interesting to know about them is that they involve Luit beating up other members of the chimpanzee group
+in order to create a sense of like basically instability.
+It's, you know, a political strategy that has some clear affinities with what we might call terrorism
+or for that matter the logic of like disruptive protests and direct action.
+You know, in either case where you're diminishing the sense of stability and inevitability in the current social order
+and creating a conflict where you're forcing people to choose a side.
+And so Luit, the number two, would just like literally randomly attack other members of the colony,
+which were females in most cases.
+And, you know, so like kind of create this political dilemma, you know,
+if you've ever listened to some like babble about direct action strategy and dilemma actions
+where the number one where Jeroen had to either intervene and thus risk, you know, open conflict and losing a fight
+or not intervene and thus communicate to the whole group that he wasn't really in control
+and couldn't really protect the other members of that colony.
+But I don't have much to say about the terroristic or disruptive elements of the political strategy
+per se, at least in this episode.
+What I want to point out in this case is that Luit became alpha after 72 days of this like campaign of terror or whatever it was.
+But largely because of the help of this third male, Niki, who had almost no status in the group up to that point in time.
+But when Niki decisively allied with Luit and they started challenging and threatening Jeroen together,
+that was really the end of Jeroen's regime.
+And so then when Luit is alpha, a change in dynamic between Niki and Jeroen between the number three and number two
+takes place where Niki starts trying to ascend in the hierarchy above the recently deposed alpha.
+He starts displaying at him a bunch.
+And this is where it gets all kinds of Machiavellian.
+Deval speculates that Jeroen essentially allows Niki to take his place in the dominance hierarchy that he surrenders it without much of a fight.
+And he thinks that might have something to do with the fact that he had just been through this very arduous campaign of power struggles that he lost
+and he was just kind of tired.
+But he also acknowledges that just sort of letting Niki take his place as number two
+and therefore be in a position to challenge the now number one male Luit
+had tremendous political advantages for Jeroen.
+So Niki starts displaying at Jeroen, Jeroen lets him become number two
+and this creates the basis for a power conflict between Niki and Luit
+in which Jeroen sides with Niki and allows Niki to become the alpha male.
+But he kind of occupies this weird.
+He really is chainy to Niki's bush.
+He kind of has all of this power that usually goes to the alpha male.
+So everybody gives Niki a formal cue of submission.
+Niki goes around trafficking informal cues of domination.
+There are some unequivocal senses in which Niki is alpha.
+But Jeroen as his trusted, his trusted coalitionary partner, right hand man
+is the one who administers conflicts within the group, the one who breaks up fights
+which had in the past always been a function of the alpha male.
+He actually gets more voluntary like formal gestures of respect from the group members
+than does the ostensible alpha Niki.
+So, as Deval says, it may be that in 1976 Jeroen did not want any problems
+with Niki for reasons of strategy.
+The rivalry between Luit and Niki increased daily
+and any resistance Jeroen might have offered Niki would have worked to some extent in Luit's favor.
+Jeroen may already have felt there was some advantage to be gained from an increase in tension.
+Between the other two males, and he may well have foreseen that this favorable situation would develop
+still further if Niki were to secure the position of second ranking male.
+I do not know whether chimpanzees are capable of such predictions
+but the fact remains that Jeroen later benefited enormously from the confrontation between Luit and Niki.
+By subordinating himself to Niki, Jeroen degraded himself
+but he also maneuvered himself into the key position in the triangle.
+So this again underscores this notion that you can talk about a dominance hierarchy
+and it is there and it does make sense
+but that the dominance hierarchy is ultimately, in this case, it's like a triangle of power
+and it's only a triangle because there's three males only in this situation
+in wild living chimpanzees, the configuration of power is even far more complex.
+Deval talks about one male chimpanzee being kind of like
+the weight in between the balance of power between two others
+so he says he's talking about how Niki and Jeroen would do this thing
+where when Niki started to challenge the wheat for the number one position
+Jeroen would come up to him and mount him in a sexual way
+and they would display at Luit together.
+It's like this way chimpanzees say I am definitively on the side of this guy
+because I'm kind of mock fucking him while we both display aggressively at you.
+But so he says Niki, who a year earlier was half playfully hooting along with Luit
+and throwing sand at Jeroen, had now done a volte face.
+What is more, his behavior was far more threatening
+and his influence had become much greater.
+He was now more than just a weight in the balance between the two others.
+The accent now was on the balance between himself and Luit
+and the weights were the females and Jeroen.
+So yeah, that is obviously like a pretty good validation
+of this notion of distributed power among the males
+but then that last thing Deval says is crucial too
+this idea that the females were actually the true fundamental determinants
+of the nature of the male hierarchy in the Arnhem colony
+and this is the way in which the behavior of captive chimpanzees
+does vary really significantly from that of wild chimpanzees
+so the actual like aggressive and coalitionary behaviors
+we see among the males isn't really that different
+between wild and captive specimens
+but in the wild females don't really participate
+in any direct or particularly consequential way
+in the power machinations of the males
+but in the Arnhem colony and captivity they do
+but it's interesting because they're not actually
+none of the females are seeking these positions of power themselves
+but there's more females than there are males
+so if they all act as a coalition
+in favor of one individual male over any others
+that male has an almost unassailable once again
+one person can only beat up so many people
+so even if those males are capable of beating up any
+given individual female on their own
+they're not capable of fighting the whole group
+and so the females were actually really the fundamental determinants
+of which male got to occupy
+which place in the dominance hierarchy
+and they would do you know they were such because they actively
+intervened in conflicts
+because at a certain point when males were fighting
+the females would just intervene on behalf of one or the other
+and so in the initial power struggle
+where Louis and Nicky kind of like terrorized the females
+and put Euron into all of these dilemma situations
+where he had to either fight and intervene
+and risk losing or you know
+or just kind of like let things happen
+and acknowledge that he wasn't in control
+the females at first displayed this really strong preference for Euron
+but as Louis' challenges progressed
+they eventually got kind of more and more indifferent
+and then finally they started allying with Louis
+and that is what pushed him into the position of power
+for the time he had it until you know
+the Machiavellian shit happened
+where Euron and Nicky took power back away from him
+but this is super interesting
+because well and I'm sure this is how
+I mean this must have informed their hypothesis
+but this is how it is hypothesized
+that bonobos became as they are
+so at some point about a million years ago
+a chimp-like ancestor of the bonobos
+had some kind of political revolution
+and set themselves onto the evolutionary path
+that has made them as they are today
+and bonobo societies are just not ruled by male aggression
+they're ruled by coalitions of females
+and so it's thought that at some point
+a process very much like what has been observed in chimpanzees
+at the Arnhem Zoo occurred in a wild population
+where females just did intervene
+in the power machinations of males
+and as a result became the dominant force
+because they weren't actually seeking to occupy
+the roles the dominant males had
+they became a different kind of force in that society
+because the co-editionary dynamics are different
+when there is nobody trying to become alpha
+in the sense that there are alpha males among chimpanzees
+so this 2011 paper called the self-domestication hypothesis
+evolution of bonobo psychology
+is due to selection against aggression
+lays out a hypothetical evolutionary sequence
+in bonobos that goes like this
+this is like a bullet point version
+so isolation of chimp-like ancestors
+south of the Congo River roughly a million years ago
+larger patch size on average
+than those available to chimpanzees
+more plentiful on higher quality terrestrial herbs
+than those available to chimpanzees
+no gorillas competing for access to feeding resources
+so that isolation in more abundant habitat
+leads to selection against male aggression
+females form stable parties
+and strong coalitions with one another
+male effort to dominate or coerce females
+thwarted by female coalitions
+male aggression toward females and other males
+hurts fitness
+less aggressive males allied with female relatives
+show increase in fitness
+so there's a change
+what they're positing is that there's a change in basic ecology
+and subsistence routines
+which allows for the formation of more stable female coalitions
+and then we see what we saw at Arnhem
+but unlike at Arnhem where females provided this decisive role
+in shaping the power relations
+but ultimately did sort of give it to one male or another
+at some point they were like well you know
+if we're the fundamental determinant of power in this society
+really why give any male the power to beat us up
+and fuck us when we don't want to be fucked and all the rest
+and so they just kind of took that power away from males
+so again the power of any one individual
+is a function of the extent to which there is not
+coalitions opposing that power
+a coalition is a hard constraint on the power
+that any one individual can possess
+and you know this is kind of the central thesis
+of books like Bohm's Hierarchy in the Forest
+Clostrace's Society Against the State
+Scott's The Art of Not Being Governed
+two of which we've talked about pretty extensively
+on this podcast this notion that egalitarian human societies
+like when we see egalitarianism in hunter-gatherers
+or in people practicing like distributed agriculture
+like swiddening in Highland Southeast Asia
+as in the case of The Art of Not Being Governed
+in a fairly egalitarian social structure
+it is such not because their cultures have completely
+negated the impulse to domination altogether
+but because in addition to all these cultural mechanisms
+for subduing that impulse in an individual
+there's just these coalitional realities that emerge
+against any individual who tries to take too much power
+and that there really is no way for an individual
+to exert too much power against like a really big
+dynamic coalition
+but it is really important
+I do want to put one more piece of this puzzle
+into place in talking about the conditions that facilitated
+the emergence of these stable female coalitions
+in the Bonobo ancestor
+which you know is this like occupation
+of a more abundant habitat and whatnot
+this is complex
+I want to talk about this in a couple different ways
+but to start off with
+let's just note that this goes a long way to explaining
+you know if we are if we're saying power is a mysterious substance
+and that one individual can never beat up
+all of the other individuals in a group
+in a group of any significant size
+as is found in say chimpanzees or humans
+the reality that underscores some of the acceptance
+so then of course we ask well why doesn't this just happen
+automatically all the time
+more commonly
+why hasn't there been a Bonobo like process in every primate
+one of the answers is always going to be
+that there's actually a really meaningful set of trade-offs
+in accepting the presence of dominant aggressive males
+within a group which is that they protect
+any given group member
+from the aggressive males of neighboring groups
+and so that is like a really significant threat
+to chimpanzee for instance survival in the wild
+is aggression from members of neighboring groups
+and you can see if you watch videos of chimpanzees
+you'll actually see times when a group is out foraging
+or whatever somewhere kind of on the margins of their territory
+and they encounter you know they hear or see
+members of a neighboring group
+and the like various group members
+will run up to the alpha and embrace him for comfort
+I mean it is like exactly like what the American public did
+after fucking 9-11 or for that matter
+what the Russian public did after whenever it was
+that the FSB bombed apartment buildings
+and attributed the actions to Chech and Separatists
+where like when people feel a sense of threat
+from an out group they tend to be much more deferential
+to hierarchical authority within their own group
+than otherwise this is true of humans
+and it is true of chimpanzees
+and it is been one of the significant constraints
+on the evolution of egalitarian
+it has been the fundamental constraint
+on the evolution of egalitarian behavior
+in our own ancestors and in species evolving in parallel
+and it is the fundamental constraint
+on achieving egalitarian political outcomes
+in our own species today
+ultimately some version of that psychology
+I'm afraid of the out group
+I'm gonna run up and embrace the hierarchical leader
+underscores for instance the support for Donald Trump
+present in our own society
+but the other thing that I want to get into
+and this is here again I think where we get into
+it's the reason that I talked about bottom-up processing
+and the fundamental unity of behaviors and experience
+between ourselves and other species
+at the beginning of the episode
+is that I do want to kind of like
+I want to break down whatever sense of barriers
+exist between how we imagine this experience
+would occur in other species
+and how we know we would experience it ourselves
+which is that there really is some aspect
+of conscious agency and choice
+in this positioning of oneself
+towards hierarchical social structures
+with respect to the sense of threat
+from other group members right
+where you know like I said
+we can see a range of conditions
+from despotic to egalitarian
+playing out in different primate societies
+and to some extent
+that reflects variation in ecology
+and variation in their material conditions
+as it were but on another level
+there's no absolute like this difference
+that we're talking about between bonobos
+and chimpanzees ecologically
+you know bonobo ancestors get isolated
+south of the conga river
+it's more abundant life is better
+it's a little easier no gorillas
+but you know these are not like absolute
+distinctions right like on some level
+the threats especially the threats
+from just other chimpanzees
+you know who are also isolated south
+of the conga river
+and foraging without competition from gorillas
+you know like some of these threats
+are still present
+it's always a matter of degrees
+and so what I'm saying is that
+different ecologies don't just
+automatically produce
+a given sort of like
+degree of hierarchy
+that there is actually some
+behavioral choice to be made
+and how much one is going to
+choose to be afraid
+and therefore to acquiesce to things
+or to demand alternate configurations
+and again this is true of us
+but it's also been true of our ancestors
+throughout evolution
+and it's true of other species
+and so yeah
+so like I want to present that
+as the fundamental axiomatic predictor
+of how hierarchical a society is
+is how much it experiences
+a sense of threat from out groups
+but that also how much it experiences
+a sense of threat from out groups
+is not necessarily just like
+a linear function of how much
+threat there is from out groups
+that there's an aspect of like
+temperamental variation
+conscious agency
+whatever that there's other factors
+that go into shaping this
+and that you know evolution
+proceeds from these
+choices that people make
+and these temperamental variations
+that people exhibit
+people in the case of homo sapiens
+or whatever
+other species
+I do just kind of sometimes use
+the term people to describe
+you know anything with eyes
+that gets angry and you know
+makes decisions
+behaves in interesting
+complex ways that have
+obvious parallels to how we behave
+anyway so
+so there's all that this idea
+of out group threat and this idea
+and temperamental and conscious
+variation in
+how much we respond
+to a sense of out group threat
+as a fundamental axiomatic
+predictor of hierarchy
+and that grounds
+our statement that
+if you're fighting hierarchy
+you ultimately can claim
+millions of years old political tradition
+because chimps,
+bonobos and humans
+all share a common ancestor like
+five or six million years ago
+and for a variety of reasons
+it seems pretty clear that that ancestor
+was pretty chimp like
+and that both bonobos and humans
+have gone on these paths
+where we've dropped
+some of the chimp routine
+but in different ways
+and this isn't just a unidimensional
+thing
+it is often referred to as such
+it's just not
+it's not a unidimensional thing
+where the question is
+how much more egalitarian
+and like as if
+it's all one
+function you know like it's just one
+hand how much less aggressive
+have we become
+and you know like bonobos kind of win
+like they're the most egalitarian
+and we're supposedly just somewhere
+in between chimps and bonobos
+like the paths have just actually been
+different
+and we're going to talk about that
+now but
+it really can be
+the evidence is unequivocal
+that when our most
+distant ancestors that diverged
+from that lineage, Australopithecus
+that when Australopithecus
+happened it was essentially
+like a bipedal chimp
+that behaviorally
+we were chimps more or less
+and we were exhibiting
+chimp like levels
+of male
+dominance behaviors and hierarchy
+and that over the course of evolution
+there has been
+some very significant
+divergences
+away from
+that behavioral paradigm
+towards something that has
+for all of our complexities
+and for all of the horrors
+we are capable of inflicting on one
+another and for all of
+the intense hierarchies that we
+have in fact and do in fact
+currently
+inhabit
+there has been some really significant
+evolution away from
+hierarchical behavior
+and as you know
+if you have been listening to this podcast
+for a while it is
+my strong belief or I
+strongly favor one
+faction of evolutionary theory
+that associates
+this selection against aggression
+and away from hierarchical behaviors
+with the same
+evolutionary processes
+that produced our capacities
+for cognition
+evolution away from aggression
+is evolution towards
+the cognitive complexity
+that we currently possess
+and
+we are the best place
+the place where I laid out the most
+the most extensive
+case for this idea
+of you know developmental
+delay the developmental
+biology of aggression and social cognition
+underlying
+human evolution is
+episode three of this podcast
+well kind of like episode
+two and three
+but you know just to like
+briefly reiterate because it's a
+I gotta strike a balance here
+because it's a really core theme of this
+podcast and I'm gonna come back
+I've been diving very deep
+into that biology
+and we're gonna do some really interesting episodes
+about rapid evolution
+in the future
+but
+I gotta kind of strike a balance between
+I don't know like
+substantiating
+like talking about that type of biology
+a little bit when I bring it up
+but without recapitulating
+the entirety of the explanation
+so
+I'll just say like very briefly
+the hypothesis is
+this is also called the self-domestication
+syndrome which I think is like
+maybe not the greatest terminology
+but the hypothesis is
+that selection against
+aggression
+operates on developmental processes
+and
+these developmental processes
+end up being delayed
+and what that achieves
+is a juvenile like
+level of aggression
+but then it also retains
+that period of
+behavioral plasticity that is associated
+with early ontogenetic
+stages in so many
+animals and
+the capacities
+for social interaction
+social tolerance
+and communication
+that are characteristic of
+the early developmental stages
+of so many animals and so that
+you know for instance in dogs
+versus wolves you get
+a juvenileized appearance
+a juvenile like level
+of aggression but also
+all of these really interesting
+social cognitive abilities
+that you don't find in wolves
+to for instance
+make inferences about
+what somebody is thinking about
+or trying to communicate based on where
+they're looking or pointing
+and that this is a distinction
+that's shared for instance
+by
+bonobos with respect
+to chimpanzees
+or by experimentally domesticated
+foxes with
+respect to their wild
+counterparts so
+there's this idea that there's this like
+pretty broad set of co-varying traits
+where behavioral plasticity
+cognitive ability
+and in particular social cognitive ability
+and diminished aggression
+all kind of come along
+for the ride with one another
+under
+selective pressure for any one
+of those things
+and the idea that humans
+are shaped by neotony
+by developmental delay
+has been kicking around for
+I don't know like a century or so
+for a long time
+but it keeps finding more
+and more validation
+in for instance brain gene
+expression studies that show
+that the human brain
+has a gene
+expression profile that is
+like that of a juvenile
+chimpanzee
+the same
+to the extent that we share the same brain genes
+in our actual nuclear
+DNA
+which of those genes are being expressed
+and at what level
+is like a juvenile chimpanzee
+in humans
+in other examinations
+of our developmental genetics
+we're finding validation
+of the neotony hypothesis
+in particular
+in neural crest cell
+activity which we're going to get into
+in a few episodes
+so
+that's the self-domestication hypothesis
+or the neotony hypothesis
+of human evolution
+and the thing obviously
+that I'm pointing out about it in this episode
+is that it came
+about through political
+struggle
+it came about through conscious choices
+an active agency
+that were employed by individuals
+to live one way
+as opposed to another
+and you know that it came about
+through these two processes
+we've been talking about
+the one of fissioning
+of just walking away from a hierarchy
+and
+you know engaging in a little
+ethnogenesis
+or a little political revolution
+the two things are synonymous
+and through this other process
+of just changing
+which is also a process of ethnogenesis
+and political revolution
+as synonymous phenomena
+a process of standing
+and fighting and changing the culture
+that one inhabits
+so what I've decided to do
+when I bring up
+because in a way
+I don't know
+I could frame what this podcast
+ultimately is in a bunch of different ways
+but one of the fundamental things
+it is is an examination of politics
+through the lens of this type of biology
+so one of the ways that I'm choosing
+to strike this balance between
+like kind of assuming that people
+heard me the first seven times
+that I brought it up
+but also continuing to like enrich
+our understanding
+and to be rigorous and like invoke
+you know some justifications
+for these statements that
+developmental delay
+is central to human evolution
+and to politics
+is to just like
+throw in new papers
+and new pieces of evidence
+around
+the neoteny hypothesis
+with respect to human evolution
+and so I wanted to bring up
+I thought that this was pretty fascinating
+because
+it relates to
+the evolutionary developmental path
+we took to become human
+but it also relates to how
+that
+same biology produces
+a range of temperaments
+within individuals, within a species
+and that that how you know
+how that shapes politics
+okay and so there's this paper
+published in 2011
+in developmental science
+called observant
+non-aggressive temperament
+predicts theory of mind development
+theory of mind is
+you know the extent to which one
+possesses a notion of what other people
+are thinking or experiencing
+central
+to so much human social cognitive
+ability but also
+something that varies considerably
+within individual people
+but so
+they were the authors of this
+paper were intrigued by
+this set of
+differences that had been observed
+between temperament
+and you know with respect to like
+aggression and fear
+and the ability to
+read social cues
+and communicate
+within other species like
+foxes and dogs
+and what not and they wanted to see
+if they could map that
+to temperamental variations in humans
+so they wanted to see
+if they studied the temperament
+of humans
+at a really early age
+if they could predict something
+about based on like their level of
+emotional reactivity
+about their ability
+to understand
+what's happening in other people's minds
+later on in life
+if that temperament was related
+to people's social cognitive
+ability later in life
+and so they're talking about
+social cognitive abilities in other
+species and they say
+these skills resemble in several ways
+those of human infants
+who actively read points
+gestures and eye gazes
+engage in communicative interactions
+and otherwise actively share
+intentional meanings with others
+by their first birthdays
+these skills contrast with the
+inabilities of wolves
+and chimpanzees on similar tasks
+chimpanzees
+prove capable of reading others' intentions
+and attentional reference
+in situations of competition
+over food and resources
+but are poorer in comparison to dogs
+let alone humans
+in cooperative communicative
+situations
+in several recent papers
+Herr and Tomasello
+argue that the human-like
+communicative skills of dogs
+resembling the initial theory
+of mind capacities of human infants
+represents a case
+of convergent evolution
+traceable to the domestication
+of dogs in their long history
+within human communities
+specifically, they propose
+a social-emotional
+reactivity-temperment hypothesis
+whereby wild canines
+that were less fearful of
+and non-aggressive toward humans
+were selected
+by domestication processes
+over generations
+a product of that process
+was dog's
+social communicative capacities
+of a more human-like sort
+and so
+they came up with some
+metrics for temperament
+and they came up with some metrics for theory of mind
+or actually they didn't
+they utilized some existing metrics
+of temperament and theory of mind
+and did statistical analysis
+on the relationship between the two
+and as they say
+early childhood temperament factors
+clearly predict
+children's later more advanced
+theory of mind
+for typically developing children
+the vast majority will achieve
+our focal theory of mind
+milestone
+robust explicit understanding
+of how actions stem from beliefs
+and false beliefs
+by the time they are 6 years old or so
+so more specifically
+we have demonstrated that certain early childhood
+temperament factors predict
+whether children are quicker
+or slower to come to such
+theory of mind understandings
+the specific temperament
+factors empirically linked
+to theory of mind largely
+reflect social emotional
+reactivity
+and then Brian Hare and Vanessa Woods
+also talk about this in their books
+survival of the friendliest
+understanding our origins and rediscovering
+our common humanity
+and uh
+they talk about the paper that I just
+read from
+but then you know discussing this
+relationship between temperament and
+theory of mind they say
+further support for this connection comes
+from the tentative brain map of the
+regions activated when we use
+theory of mind
+the medial prefrontal cortex
+temporal parietal junction
+superior temporal sulcus
+and precuneus
+there is evidence that activity in these
+brain regions is either dampened
+or enhanced by emotional
+reactivity
+uggdala is also connected to the
+brain's theory of mind network
+and plays a role in regulating our
+response to others
+and so then they talk about some other
+studies where
+they measured emotional reactivity
+um
+by uh
+physiological responses to sudden
+blasts of air and looking at
+disturbing photos and things like that
+and then they played
+uh you know subsequently played
+an experimental game
+where women were
+making decisions about how to
+punish other women in some
+situation or another but the point
+is whatever the experimental setup
+I can't recall the details
+um people who showed more reactivity
+who tended to startles
+more strongly
+in response to a sudden blast of air
+or show more activation
+in like
+brain regions associated with an
+emotional response when showed
+horrifying imagery
+tended to show less
+activation
+in their theory of mind
+networks when they were
+engaging in social cognition
+when they were playing this experimental
+game where they got to meet
+out punishments and decide on the
+nature of punishments
+so uh you know
+well in the in the rousing
+conclusion to this episode
+we like hammer on this one more
+time and develop
+what I think is quite a beautiful
+and uh
+important thesis about the nature of
+egalitarian political struggle but
+yeah I wanted in this episode
+to really
+focus on that particular
+aspect of this overall
+biology linked to
+aggression and hierarchy and therefore
+politics that we keep talking about
+which is that that
+relationship between
+opposition to hierarchy
+and diminished aggression
+and emotional reactivity
+and enhanced cognition
+enhanced social cognition
+and enhanced awareness
+of the of the world around
+one um
+but before we get to that rousing
+conclusion I do want to add
+one more dimension to
+our analysis which will
+help us set up our next
+episode wherein we're going
+to talk a lot about in the next episode
+I'm going to go through
+all the evidence for
+just like social complexity
+and for a good deal of variation
+in social form
+occurring throughout the long
+sweep of both human evolution
+and the
+and you know the ancestral experience
+of cognitively and anatomically
+modern humans the time
+that we lived as hunter-gatherers
+that is used as
+kind of like a canvas for
+painting whatever picture
+is necessary
+for one's politics
+um you know but I'm going to
+talk a lot about how
+there's a lot of variation but also how
+in the discussions that
+we have about this and in the kind
+of like morality tales that
+we tell where ultimately
+what we're really saying
+when we characterize our hunter-gatherer
+past is that humans
+are good or that humans are bad
+or that humans cooperate
+or that humans compete
+or that we're aggressive
+or that we're peaceful
+in all those cases we're so
+often clustering traits
+in ways that aren't
+quite coherent or where they
+don't inevitably cluster
+we're not really acknowledging
+um how
+modular and how
+like final level
+these sort of broad tendencies
+can be broken down
+and can vary from one another
+um so
+I want to
+set us up to do that by saying
+like yes there has been
+this long-term process whereby
+there has clearly been
+selection against aggression
+of some kind and
+selection away from
+certain types of hierarchy
+of human species and this is evident
+in everything from
+you know our diminished
+canines to
+our loss of
+difference in size between sexes
+to
+the way our faces are shaped
+and you know like I said
+our brain gene expression patterns
+and all this other stuff
+but that we shouldn't get too lost
+in
+a schismatic binary
+morality tale
+where what we're saying is that
+humans have just been getting
+you know I'm just going to go ahead
+and say like nicer in every
+way that we can imagine
+or whatever
+and I wanted to bring in
+I thought that because it is so often
+the case that aggression
+is treated as a monolithic
+um
+a monolithic
+reality in a lot of these
+you know so there's like
+a lot of these discussions reduced to
+how aggressive are humans
+or are humans innately
+aggressive or are we not aggressive
+or whatever
+should we blame all our aggression
+on technology
+or is technology actually diminishing
+our aggression and were we
+horrible brutes when we were hunter
+gatherers or you know
+like hunter horticulturalists
+or whatever
+I wanted to bring in this
+notion that in biology
+there's actually more than one type of aggression
+and that we might
+vary in one respect
+of aggression
+but not in another from
+say a chimpanzee like ancestor
+so
+I recently read this paper called
+Two Types of Aggression in Human Evolution
+by the always interesting Richard
+Rangham
+and one of the things that he did
+a lot was really fun was that
+that debate you know like
+how terrible or beautiful
+are humans and what was
+humanity like before recent history
+is often called the
+Hobbes-Rousseau debate
+um but he adds
+a dimension to it he says
+two opposed positions predominate
+before Darwin they are often
+considered to have been represented by
+the contrasting stances
+of Jean Jacques Rousseau
+Hobbes and afterward
+by those of evolutionists
+Peter Kropotkin
+and Thomas Henry Huxley
+so I like that there's the
+Rousseau-Kropotkin paradigm
+and then there's the Hobbes-Huxley
+paradigm right so if you want
+next time you're having a political
+argument and somebody's just going
+full terminology assault
+on you and you know
+you're getting into some Hobbes-Rousseau
+territory just throw
+the hyphenated version of the
+debate at them just be like
+oh well you're clearly in the
+Rousseau-Kropotkin paradigm
+but I have some things to say about that
+you'll blow their mind
+but so anyway he says
+in this paper I argue
+that the two opposed perspectives
+are both inadequate because they
+suffer from the same problem
+they wrongly treat aggression as a
+single behavioral category
+their implication that aggression
+is unimodal forces an erroneous
+choice because it requires
+the human propensity for aggression
+to be either low
+as per Rousseau-Kropotkin
+or high as per Hobbes-Huxley
+however researchers
+in sciences other than
+evolutionary anthropology have
+long claimed that aggression falls
+into two types here called
+proactive and reactive
+the classification of aggression
+as bimodal is well supported
+by psychological and biological
+data it solves the
+traditional debate by seeing
+the human species as having a
+low propensity for reactive
+aggression and a high
+propensity for proactive aggression
+and this is where
+you know we're going to really substantiate
+that claim that it's not
+like we can place chimps
+bonobos in humans
+on some unimodal
+continuum and that chimps
+are the most aggressive and hierarchical
+and blah blah blah
+and humans are somewhere in between
+and bonobos are all the way
+onto the other side
+you know that there's actually
+we actually just took different
+paths in really interesting and
+meaningful ways
+but okay so he sets us up
+to understand proactive
+versus reactive aggression
+in biological terms
+he says neural studies
+of aggression began during the
+mid 20th century
+cats whose hypothalamus was
+stimulated in different locations
+were found to produce different behaviors
+electrodes placed in
+the lateral hypothalamus
+elicited a quiet
+biting attack whereas
+those placed more medially
+led to affective
+defensive behavior the distinction
+led to a detailed understanding
+of underlying neural
+pathways since quiet
+biting attacks by cats were feeding
+behaviors directed in these
+experiments towards laboratory rats
+the two behaviors were not initially
+regarded as challenging
+a unimodal concept of aggression
+in studies of rodents a similar
+conceptual separation was at first
+assumed between feeding
+attacks and inter male
+aggression however
+in 2010 to log the
+at all showed that feeding attacks
+on prey were innervated in
+similar ways to proactive aggression
+on cons specifics
+they used male laboratory
+rats to compare feeding attacks
+on mice and cockroaches
+with proactive aggression toward
+other males proactive
+aggression was characterized
+by low physiological
+arousal a lack
+of social communication and
+targeting of vulnerable body
+parts by contrast
+reactive aggression was
+associated with high physiological
+arousal and communication
+of intent including threats
+the two types of rat
+aggression thus conformed
+to the human distinction
+and then he says the results
+of to log the at all
+indicate the existence of two different
+pathways in a key neural
+circuit underlying aggression
+they thereby conform to much
+other evidence of differential
+intervention for the two types
+of aggression in humans
+although the neural basis of human
+proactive aggression
+is not well understood
+the critical result is that it is
+different from reactive aggression
+thus according to the well
+supported serotonin deficiency
+hypothesis reactive
+aggression is suppressed by high
+concentrations of brain serotonin
+disruption of serotonergic
+projections to the
+prefrontal or interior
+cingulate cortex accordingly
+enhances reactive aggression
+whereas serotonin selective
+reuptake inhibitors and other
+agents that elevate serotonin
+levels can contribute to control
+of reactive aggression in
+both humans and non-human
+models okay so
+to kind of summarize that
+well and to reference parts of the paper
+that I didn't read predatory
+behavior and proactive
+aggression seemed to share
+a kind of like biological basis
+or a distinct neural pathway
+involving different portions
+of the amygdala and other
+brain regions associated with aggression
+and this aggression
+could be basically described
+as like calculated or purposeful
+and then there's this other
+kind of aggression that involves
+more emotional reactivity
+and more threat displays
+and has a little bit
+less of an aspect of conscious
+deliberation and
+is the type of aggression
+crucially that constrains
+social
+cohesion
+and cooperation
+and communication
+in species like chimpanzees
+it's their reactive
+affective
+uncalculated aggression
+that keeps them from
+achieving
+cooperative tasks that
+bonobos can
+so
+he says that
+chimpanzees express proactive aggression
+when coalitions of males
+travel to the border areas
+of their community territories
+without feeding
+and make surprise attacks on
+members of neighboring social communities
+the frequency of this behavior
+varies depending on factors
+such as the number of males
+in the community
+and the population density
+but overall it results in significant death rates
+higher than those reported
+in intergroup aggression
+among any other nonhuman primates
+in most of which
+such behavior is unknown
+humans are the only
+other primate species
+in which similarly high
+or higher rates of death
+have been recorded
+in intergroup aggression
+these are the border patrols of chimpanzees
+famous for their
+eeriness because of
+really like precisely these
+qualities that we're describing
+how
+calculated and emotionless
+and purposeful
+it all seems right you know
+when they like sneak up
+single file into neighboring
+territory to just like
+take out a chimpanzee
+from the neighboring group
+but then he says
+reactive aggression presents a different distribution
+because
+unlike chimpanzees and unlike humans
+bonobos don't exhibit
+this really intense
+like cold calculated
+gangster ass
+fucking form of
+aggression of proactive aggression
+but he says
+reactive aggression presents
+a different distribution
+in this case chimpanzees
+and bonobos both show more
+aggression than humans
+in chimpanzees
+reactive aggression is routinely
+expressed in dyadic fights
+prompted by spontaneous competition
+over mates, food, or dominant
+status and then he says
+in comparison with both
+chimpanzees and bonobos
+frequencies of fighting
+in small scale human societies
+are very low
+for example Hill in
+Rotado reported that in 17 years
+of working with the aque
+foragers of Paraguay
+they never observed a scuffle
+at the opposite extreme
+a study of Australian aborigines
+in difficult circumstances
+due to poverty and alcohol
+revealed an unusually high rate of physical
+aggression however
+compared with pan
+even this supposedly high rate was trivial
+pan the genus of
+chimpanzees and bonobos
+ok and then he says
+in accord with Rousseau Kropotkin
+human emotional reactivity
+is clearly strongly influenced by
+biology for example
+an increased risk for reactive
+aggression such as in patients
+with intermittent explosive disorder
+is associated with elevated
+amygdala responsiveness
+and or decreased prefrontal cortex
+activity compared with
+our closest relatives such
+mechanisms are clearly set
+a relatively unresponsive
+level in humans thus
+although humans show cultural
+variation in the frequency of
+reactive aggression the rate
+of fighting is always
+lower than among chimpanzees
+and bonobos furthermore
+fossil evidence from
+human crania during the last
+200,000 years shows
+a reduction in anatomical
+features associated with aggression
+these points suggest that
+the unusually low human propensity
+for reactive aggression
+results at least partly
+from an evolved down regulation
+that occurred in the second
+half of the Pleistocene
+so that would be
+the set of evolutionary
+changes we're talking about
+the developmental delay
+resulting in both enhanced
+social cognition and
+diminished aggression
+but crucially it's
+one dimension of aggression
+and we don't have to think of
+aggression as unimodal
+itself or as
+inextricably and tightly
+correlated with everything else
+that we might find like
+some kind of major sort of
+moral implication to
+in the human experience that
+it's not inevitably
+inexorably axiomatically
+related to say
+the degree of hierarchy
+separation or competition
+or prosociality or whatever else
+and then he relates
+this bimodal
+conception of aggression
+with humans exhibiting
+a high propensity
+for proactive aggression
+and relatively low propensity
+for reactive aggression
+to that type of anthropology
+that we keep coming back to
+where societies have
+these coalitionary
+mechanisms to prevent
+any one person from taking
+too much power
+or you know maybe we could
+say like you know we can
+relate that back also to my statement
+that
+the assessments, the experience
+of intergroup threat
+would tend in other species
+and in our own
+to be the most predictive factor
+in determining how much
+individuals within a society
+acquiesce to hierarchy
+and that sense of threat
+that sense of that
+that thing we see chimpanzees
+do in videos where
+they hear the voices of their neighbors
+and they run to the alpha male
+and cling to them for comfort
+is very much
+a function of reactive
+aggression, right?
+It's like the kind of emotional reactivity
+that has been down
+regulated throughout the course
+of human evolution
+but that proactive aggression
+is actually necessary
+it has to be present
+within our species
+for us to exhibit these leveling mechanisms
+where
+coalitions get together and just kill somebody
+for instance who's trying to take
+too much power in their society
+so Rangham says
+proactive aggression occurs
+within groups also
+both in humans and chimpanzees
+examples include
+capital punishment
+and homicide in humans
+and coalition aggression and infanticide
+in chimpanzees
+whether selection first favor
+to propensity for proactive aggression
+in within group or between group
+context is unknown
+humans low propensity
+for reactive aggression
+requires entirely different kinds
+of explanation
+reduced reactive aggressiveness
+allied to high tolerance
+and extensive cooperation
+explanations for reduced aggressiveness
+are therefore
+allied to ideas for the evolution
+of within group tolerance
+such as individual selection
+for cooperative breeding
+group selection for parochial
+altruism and cultural
+group selection for pro-social
+norms. Okay so again
+getting past
+schismatic binary morality
+details about humans being
+good or bad or pro-social
+or antisocial or whatever
+there's a certain type of
+aggression that is down-regulated
+within the human species
+that promotes in-group cohesion
+but it doesn't say too much
+about how
+groups are going to treat
+one another right
+so this just gets into this whole thing
+where the same biology
+as we've discussed before
+so it's like oxytocin atrocities
+that creates the capacity
+for intense human cohesion
+and intense
+intergroup bonding
+and like some of the emotions
+and experiences that
+we find the most compelling
+and elevated is the same
+biology that allows us to do
+horrible things to people as
+we perceive as belonging to other
+groups and so
+you know Rangham says
+in the case of Bonobos
+talking about this paper that I just cited
+not too long ago
+a reduction in the propensity for male
+reactive aggression compared with chimpanzees
+is proposed to have resulted
+from an ecology that permitted
+the evolution of relatively stable
+female subgroups
+these led to strong female
+coalitions that were able
+to control aggressive males
+there is no indication
+of any equivalent dynamic
+so again not thinking
+of us as all existing
+on one unimodal continuum
+with Bonobos at one end
+chimps at the other
+and humans in between
+and he says
+the explanation that most explicitly
+addresses why domineering
+human males with high
+individual fighting ability
+would not have achieved high reproductive
+success is the theory of
+coordinated punishment by other males
+in non-human primates
+high male rank comes
+from the ability to win fights
+and the highest ranking males
+tend to have high fitness
+by contrast in nomadic
+hunter-gatherers the closest
+equivalent to high male rank in non
+human primates is high
+respect coming from
+prestige alliance
+formation and negotiation ability
+the problem for
+individual hunter-gatherers
+who attempt to use fighting prowess
+to achieve their goals
+is that they are vulnerable to the actions
+of male coalitions
+who can jointly intimidate, expel
+or kill
+the offending individual
+this system of control
+called the reverse dominance hierarchy
+or counter-dominance hierarchy
+is universal in nomadic hunter-gatherers
+including the gerontocratic
+and polygonist societies
+of northern Australia
+the potency of socio-political
+leveling mechanisms in hunter-gatherers
+inspired Bohm's proposal
+that social control was responsible
+for the evolutionary
+reduction of aggression
+according to Bohm's execution
+hypothesis
+communally approved killings of group
+members emerged in the place to seen
+as a cultural adaptation
+for suppressing domineering
+bullies and norm violators
+killings were facilitated
+by the evolution of shared
+intentionality
+and possibly by weapons
+the evolution of a reduced
+propensity for reactive aggressiveness
+followed as an incidental
+genetic consequence
+and then
+this is the last passage from this paper
+that I'll read
+however to date the execution hypothesis
+has treated aggression unimotally
+which is problematic
+the hypothesis argues that a propensity
+for aggression became downregulated
+as a result of aggressors being killed
+by capital punishment
+yet those who carried out
+the killings were by definition
+exhibiting a high level of aggression
+fitness benefits
+that the killers received by executing
+aggressive victims would
+undermine selection against aggression
+the bimodal
+view of aggression readily
+solves the problem
+ok so
+I am getting the impression that
+I've recorded an awfully long
+podcast here and that I should
+probably make a pretty
+earnest effort to wrap it
+the fuck up
+but I hope that this
+has been
+has been useful
+in some sense in clarifying
+some of
+these terms around
+monolithic terms that we so often
+traffic in
+about human potentials with respect
+to aggression and what not
+and also
+in
+just like perceiving some
+unity
+between the political struggles we
+observe in other species
+and that characterize the course
+of our evolution
+and what we're doing today
+and really like as much as I might have
+sounded a little bit
+about it when I brought it up initially
+this idea of actually
+placing what we're doing
+in the context of
+a tradition of millions
+of years of political
+struggle
+slash evolution
+as really kind of the same
+thing
+this is maybe a sense in which
+I think that in this podcast
+I started
+with
+claims to the effect that
+biology pervades politics
+right that what's happening
+when we see people doing politics
+involves a whole lot of
+evolved behaviors
+and unarticulated
+perceptual dispositions and what not
+but that at this point
+I want to
+make the converse claim
+that politics pervades
+biology that the course
+of evolution has been shaped by
+a political struggle
+that politics and evolution
+are one
+and this I would hope gives a
+some sense of a spiritual mandate
+as we you know because
+seriously if you if you look at
+if you look at like the last
+150 years or something
+maybe even like the last couple millennia
+it's easy to get real depressed
+it's easy to feel like the bad guys
+just always win
+but if you look at millions of years
+of struggle you got to say
+that the egalitarian tendency
+is coming out on top
+in many significant respects
+in the course of the human experience
+and then as far as
+like the future
+of humanity is concerned
+I think this is also
+I think that this
+framework is an intervention
+into that sense that some people
+have that for their politics
+to manifest humanity
+would simply have to evolve
+where it places it
+in this context that notion
+in this context where
+one can say well that actually
+might be true but that's a good
+reason to continue
+to engage in political struggle
+like if what you're trying to do
+is shape human evolution
+you're gonna have to do some politics
+and yeah to give
+us like a sense in these
+times when things
+are so overwhelmingly bleak
+to give us some
+sense of
+a tradition that we can
+inhabit that has
+a lot of momentum and power
+on its side right to
+have some sense that our
+ancestors were beautiful and
+strong and that the reason that
+we are as we are
+the reason that we have the
+neural architecture for you to
+understand the words that I'm
+writing right now and the
+neural architecture for
+us to encode those
+words into a digital signal
+that gets transmitted all over the
+world and all the rest that
+we are as we are
+because our ancestors
+fought against hierarchies
+to infuse
+the egalitarian
+political tradition
+with a sense of
+being a manifestation
+of a truly fundamental
+enduring evolutionary
+tendency and then
+finally to
+associate as I tried
+to do more strongly in this episode
+than I have in the past
+the egalitarian political
+tendency with
+cognitive
+ability and awareness
+and consciousness in general
+with the notion that the fight
+against hierarchy is
+a fight for comprehension
+it is a fight for
+fearlessness which allows
+us to cognitively develop
+in such a way that we can
+begin to comprehend the
+universe and ourselves
+so there's all that
+epic grandiosity for you
+and
+next time I'm going to
+continue to talk about
+the non-monolithic
+nature of
+all of these concepts which
+get so densely aggregated
+like hierarchy and aggression
+and egalitarianism and
+processiality and instead
+of talking about
+the political struggles that
+characterize the experience of
+our distant relatives
+or of species evolving in
+parallel to us we'll talk
+about the political struggles that
+happened throughout the sweep
+of human
+like cognitively and anatomically
+modern humanity
+our hunter-gatherer ancestors
+and
+we'll continue to try to
+create a more refined
+sense of the relationship
+between technology
+and hierarchy and then
+we will set ourselves up
+in the fourth part of this series
+to talk about
+how to get free now
+how to create egalitarian
+social structures
+in a world where technology
+gives individuals the capabilities
+that it does
+so until that time friends
+thank you so much for listening
+and we will talk again soon

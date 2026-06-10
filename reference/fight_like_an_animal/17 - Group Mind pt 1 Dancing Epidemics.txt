@@ -1,0 +1,784 @@
+Title: Group Mind pt 1 Dancing Epidemics
+Episode #: 17
+Episode ID: 6441283
+Source: https://www.buzzsprout.com/1052548/episodes/6441283-group-mind-pt-1-dancing-epidemics.mp3
+------------------------------------------------------------
+
+=== EPISODE METADATA ===
+Generated: 2026-01-12 01:02:07
+Episode ID: 7820740
+MP3 File: 7820740-group-mind-pt-4-the-world-is-a-lot-like-the-internet.mp3
+Title: Group Mind pt. 4: The World Is a Lot Like the Internet
+Podcast/Artist: Against the Internet
+Album/Series: Fight Like An Animal
+Source URL: https://www.buzzsprout.com/1052548/episodes/7820740-group-mind-pt-4-the-world-is-a-lot-like-the-internet.mp3
+========================
+What is the highest technique you hope to achieve?
+You have no technique.
+Very good.
+What are your thoughts when facing an opponent?
+They don't care.
+They don't care.
+Greetings friends, I'm Arnold Schroeder and this is Fight Like an Animal.
+Find the bibliography for this episode at againsttheinternet.com.
+As always, I implore you to write to me so we can start a revolution or fall in love or whatever it is that we are supposed to do.
+And if you want to support this show materially, check out patreon.com slash biological singularity.
+Man does not live by bread alone.
+Particularly when he has plenty of bread.
+Ronald Engelhardt, The Silent Revolution.
+When I was young I reveled in the liberatory potential of the internet.
+I was a 14 year old hacker in 1992.
+So I was definitely one of those people who talked about how the internet was going to democratize information.
+And society was no longer going to be shaped so disproportionately by the narrow range of perspectives deemed valid by a tiny handful of corporations.
+And all the rest.
+And I wasn't wrong, but the prophecy did turn out to be a little darker than perhaps my 14 year old self entirely comprehended.
+Now, at the time, the internet was a very specific kind of place.
+I suppose I hung out on its more deviant corners, but it mostly seemed to consist of deviant corners.
+Bomb making instructions were ubiquitous, as was advice for committing credit card fraud.
+And these technical exchanges, these criminal technical exchanges mixed freely with endless discussions about everything, about religion, drugs, society, authority, and all the rest.
+Which employed a rhetorical style that was very different than the rhetorical styles associated with power outside the internet.
+To have power off the internet meant to engage in an overstatedly formal, highly restrained rhetorical mode.
+It was like no matter what you were saying, what you were actually saying was, I am capable of this level of formality and restraint.
+And no matter what the subject was, you were trying to appeal to some kind of hypothetical common understanding to a hypothetical majority.
+You can see this in the debates between Reagan and Nixon and contrast it with politics today.
+They both seem insanely erudite and well spoken and just eminently rational compared to anybody involved in political discourse today.
+But to have power on the internet was to indulge in the opposite.
+It was to appeal to the most niche cultural echelon you could in the most uncompromising and specific way.
+The way least comprehensible to those outside that niche.
+And it was to use the most inflammatory rhetoric possible.
+And of course it was clear at the time that this technology would go from being the exclusive haunt of marginal freaks and disaffected geniuses and whoever else to a central aspect of mainstream society.
+And I think that with that transition it was assumed that the internet would ultimately get more like the world.
+But that's really not what happened.
+What happened is that the world got a lot more like the internet.
+There are a bunch of different ways I could justify this statement.
+A quantitative or qualitative assessment of how institutional political speech, in other words, the speech of elected policymakers and the like, has radically changed in the last few decades.
+As has the speech of like the newscasters and all that.
+And how it's assimilated a rhetorical style much closer to that found in internet discussions.
+Or one can simply take note of those pivotal moments in our socio-political trajectory that feel like the internet is spilling out into the world.
+Like a story coming off the page.
+The right-wing street mobilizations that started happening with the beginning of the Trump era really felt like that to me.
+It's not like I was a total stranger to confrontations with far-right elements on the street.
+But something about what started happening in 2017 felt distinctly like something had transitioned off the internet and into corporeal reality.
+And that feeling produced a strange kind of disorienting, dizzying terror distinct from the threat of authoritarianism itself.
+It happened across a piece that talks about this very feeling in relation to a few different recent events.
+They call the phenomenon breach, right?
+And they say we're used to technological disruption, but breach is different.
+It's a difference you can't hold in your hands, but when you feel in the air.
+It's defined by an eruption of pent-up emotion and imagination from the internet into physical reality.
+We saw it during the Capitol riot where Trump was able to manipulate the delusions of those trapped in the fantasy of QAnon.
+So before I go any further, maybe I know what you're thinking.
+Maybe you're feeling a little trepidatious about this episode and you're thinking like,
+okay, there is a whole lot of material out there on how the internet is changing everything and driving everyone crazy.
+Is this just another one of those hasn't the internet driven us all completely insane kind of stories?
+Maybe you're like, didn't I already read some fucking professor talking about how their students won't tolerate divergent opinions
+because the internet made them insane already or whatever.
+But no friends, I don't think I'm doing just like my permutation of that same piece that you've already read a thousand times.
+Because as always, you know, as much as I've critiqued like the left per se for not having a biological foundation to their social theory,
+liberals sure as fuck don't either.
+And so, you know, that that style of social theory, the whole like the internet is driving everybody crazy and polarization is increasing.
+And we have to appeal to some sort of like common set of understandings genre that, you know, it's very much a liberal genre.
+I think that it just lacks any real explanatory power for what is actually happening and why I call.
+I mean, I consider the internet is driving everyone crazy.
+A subgenre of the broader I'm surprised civilization is collapsing genre that liberals so frequently inhabit.
+And the surprise civilization is collapsing genre is exactly what you get when you've been too comfortable for too long
+and you don't have an explicitly biological framework to your social theory.
+It assumes a consensus used to exist that is in collapse and that consensus never existed.
+The shifts that liberals are observing with such horror aren't because people's epistemologies are actually fracturing away from a great liberal consensus that we were all participating in.
+We just never were and liberals used to have like a true monopoly on discourse on media and stuff like that.
+And so they just were the only prominent voices shaping socio political outcomes and now they're not.
+And that's, you know, and that's a beautiful and a terrible thing, but it doesn't reflect nearly as fun.
+It's not as surprising. Let's just put it that way as liberals think it is.
+And they can only maintain this surprise because they don't incorporate a nateness into their analysis.
+So they don't have any framework for understanding individual personality variation and how that maps to like this vast array of very different socio political perceptions
+that we see in the world. And they don't understand that material conditions invoke certain like very species typical behavioral paradigms over and over again.
+And that we just come up with rationales for those for like our behaviors each time.
+And so things like authoritarianism, which liberals think were like a rational experiment that we had like a big rational discussion about in the mid 20th century
+and decided was a bad idea, you know, those like and so it's surprising to them that authoritarianism has ascended to the extent that it has.
+Phenomena like this ultimately manifest core behavioral paradigms in the human species that are always going to emerge under certain material conditions
+without sufficient interventions and, you know, like when certain social forces prevail.
+And so that's my extremely brief counterpart to the four part series.
+I did the nature nurture death spiral series where I was critiquing academia and like the, you know, like the kind of like far left epistemology that ignores biology.
+There's there's my my shout out to liberals and their ignorance of biology.
+I mean that that's also what it isn't nonviolent to let people hurt you was largely about.
+But yeah, I'm always surprised by the fact that people are so unabashedly willing to write pieces in the surprise civilization is collapsing genre,
+because it comes from people who want to be considered experts in social affairs.
+And to me, like having expertise in social affairs would imply that you have some predictive power.
+So if you're constantly acting surprised, if your constant refrain is I never in my life imagined that I would see this,
+which is the constant refrain of the CNNs and New York Times of the world's in response to developments like the capital riots and,
+you know, everything just literally everything else that we're seeing in society.
+It seems like you're negating the premise of your own expertise.
+Nobody on Capitol Hill went to work hunting to cover a riot.
+So the thing that would contrast the most starkly with the surprise civilization is collapsing genre, of course,
+would be anything that explicitly predicts what we're witnessing now.
+And that's the kind of science that we're going to review today, science which was written quite a while ago in a bunch of cases,
+but resulted in theories of a general social shift as a result of technological and material change that proved utterly prescient.
+One fairly easy thing that we can say is that the Internet is definitely an instance of supernormal stimuli, right?
+We covered that a couple episodes ago, talked about, for instance, the example of brownheaded cow birds,
+how they lay eggs in other birds nests that have the identifying features of those species offspring to a greater degree
+than their actual offspring has so that they engage in a sort of like hyper amplified version of parenting.
+Same when the egg hatches and there's these like chilling photographs of birds feeding recent hatchlings that are much bigger than they are
+because like the gaping mouth and all the other stimuli that invokes the parental behavior response
+are like bigger and more concentrated and more intense than in their own actual offspring
+and the biologists will comment that they feel like they're witnessing something very akin to like drug addiction or whatever.
+The notion of supernormal stimulus is used with respect to humans quite often for like pornography, junk food,
+other aspects of civilization that produce doses of stimuli that are evolutionarily salient,
+but hyper potent beyond a degree that evolution ever anticipated.
+And we've talked about how the more distinct from kind of like default humanity or like outgroup humanity,
+a group signifiers can be. It's like language, it's aesthetics, it's collective behaviors,
+it's probably like forms of reasoning, whatever, it's worldview, how the more differentiated from the rest of humanity
+that a group can be, the more potent the group participation, neurological reward becomes.
+And the internet is definitely a means of creating far more specific and highly differentiated niche group identities
+than can be achieved without it. And so it produces a dose of like a psychologically salient stimulus
+that definitely evolution has prepared us to be highly responsive to, but evolution really never anticipated the magnitude of.
+And so yeah, so the internet just amplifies group dynamics in general of all of the different,
+I think at the end of the last episode we kind of like went through a list of every group dynamic
+that we had tried to establish so far in the series and you know the internet makes all of those more intense.
+And so now we will add some more group dynamics. Last time we were pretty focused on neurobiological mechanisms
+and this time we'll talk about material conditions that shift group dynamics.
+Well, I think there's a mixture of shock, disbelief, horror. We are hearing very strong words coming from world leaders like Boris Johnson.
+The first one we will add to our growing list of interesting properties of human group psychology
+and group dynamics as they're playing out in the modern technological milieu is best illustrated perhaps by
+the totally like dazed directionless look on the faces of capital rioters on January 6th as they took over
+and just seemed very, very unclear on why exactly they had done that or what happened next
+and so sort of took some selfies and stole some random shit and whatever.
+I just did a Patreon episode about this and I think I did a really good job
+and I'm not going to do quite as good of a job in this case.
+But one thing that is crucial to understanding things like that is the notion of behavioral dysregulation
+resulting from alterations to the brain's dopamine reward circuitry that are an inherent product of living in a civilization
+with very little unpredictability for a lot of people in terms of meeting basic physiological needs,
+you know, food shelter, that sort of thing, with a ton of access to basic necessities,
+a ton of material comfort stability, and then also just like a sort of constant panoply
+of really cheap pulses of dopamine being offered to people in different forms.
+And so I talked about in that episode there's a ton of really interesting science showing that
+there seems to be a general trend in our civilization toward reward deficiency syndrome
+towards the brain's dopamine circuitry just being kind of short circuited
+and most mainstream science will talk about this only with respect to, for some reason,
+the one like just kind of core aspect of our civilization where it is permissible to talk about this
+is with like cell phones and social media.
+And then for the most part, researchers will only acknowledge this like alterations to the brain's
+dopamine circuitry with respect to conditions that they, you know, formally classify as pathologies
+that are in like the diagnostic and statistical manual and whatnot, or with respect to drug addiction.
+But it's pretty easy to see, you know, I mean, the pathologies that they talk about are becoming
+much more common very quickly.
+And it's pretty easy to just make the logical inference that if cell phones and social media
+and cocaine and whatever else alter people's dopamine circuitry, like probably so does
+Netflix and vanilla cream filled puff pastry cookies, which are sitting on my desk right now,
+and all the rest of it, right?
+But then some neuroscientists actually are talking about how civilization itself is altering our brain's reward circuitry
+and basically, you know, presenting a sort of neurobiological critique of consumerism
+and how it's rewiring our brains.
+But what this does, how it's relevant to the Burning Man Esk freak show that took over the capital
+and it's kind of just like insane, uncoordinated, like effusively energetic and self expressive,
+but just not very like functional or strategic or meaningful in terms of external outcomes nature
+is that changes to the brain's dopamine reward circuitry of this nature just make us not good at doing difficult things.
+They make us seek out the more like easily accessible, hyper potent reward stimuli we encounter,
+the more we just want to seek out really easily accessible, you know, cheap pulses of dopamine
+and the less capable we are of enduring difficulty in the pursuit of rewarding stimuli.
+This is, you know, this is the developmental biology of toughness, right?
+This is why so much of why people who grow up experiencing different levels of adversity are capable of different levels of adversity
+and why people who grow up outside of civilized melews are often regarded by people within civilized melews as shockingly tough.
+So because employing your group's unique logic, affirming your group's unique identity is a cheap pulse of dopamine
+because that's an easy thing to do and it's deeply pleasurable.
+It, you know, as as we examined in the last episode and because thinking outside of your group's epistemology,
+like adopting perspectives that are divergent from your own requires work and involves enduring some discomfort.
+People are doing it less and less like people are getting more and more addicted to the cocaine,
+the longer civilization goes on and the more their reward circuitry is fucked up
+by being able to drive through like the drive through 24 hours a day and get the like delicious milkshake
+and go home and watch, you know, something from a pool of potentially like tens of thousands of different films or whatever,
+the more they get addicted to the dopamine pulse of affirming unique group identity
+and like the nature of the reward system is such that and you will always habituate to any given level of reward
+that especially if it's easy to access.
+And so the group identity reward is only as potent if you kind of enhance the logic of the group more
+and like take it to a slightly more extreme permutation every time that you are affirming your group identity.
+So that becomes one runaway dynamic.
+There is the very distinct sense in which the January 6 Capitol riots were a totally plausible attempt
+at authoritarian, right-wing authoritarian takeover on one hand and then on the other,
+were just this like singularly pathetic expression of just uncoordinated, undisciplined,
+and unstrategic self-expression.
+And this is exactly the kind of coup attempt that we would expect to see in a society that had become decadent
+from too much cheap dopamine.
+I don't know, I spent years of my life addicted to heroin and I think it is so interesting.
+How fucking, I mean, these perceptions are kind of shifting because now everybody seems to have like an uncle
+strung out or whatever. This was not, I definitely was an addict when it was still like a lot more popular
+to be like overtly dehumanizing towards drug addicts.
+And I just have always been so baffled by people's ability to be judgmental of drug addiction
+because as far as I can tell, we live in a society that is just totally constituted
+around, I guess, addiction per se or at least like shortcuts in the brain's reward circuitry
+that are fundamentally the same thing as what's happening in addiction.
+So yeah, that's one aspect of what we're experiencing.
+Behavioral dysregulation resulting from alterations to the brain's dopamine circuitry
+which make people more prone to a hyper exaggerated form of like group identity affirmation
+and less willing to examine alternate perspectives.
+And then the second, new dynamic will introduce strongly related to the first.
+Its borders are conceptually amorphous.
+I don't know, perhaps could be best illustrated by the advent of Cambodian psychedelic rock in the 1960s.
+I was living with a woman in the bay earlier this year who just loved, loves, I assume, Cambodian psychedelic rock.
+Like listen to it a lot and it's pretty fucking good. I got pretty into it.
+And while the Cambodian was particularly prominent in her playlists,
+we would also end up spending a much a time listening to like Middle Eastern psychedelic rock
+and South American psychedelic rock.
+And it's so fascinating to see how at around the same time all over the world
+in all of these countries with vastly different cultural backgrounds and whatnot
+this explosion of self expression took place sometime in the 1960s
+and psychedelic rock was just one of its many, many manifestations.
+It's like suddenly all around the world people both felt like it was imperative for them to say something
+and like they had these hyper sophisticated and new tools for saying it.
+And of course it's not a coincidence that this happened in so many places all right around the same time.
+It's just the result of people growing up with a greater degree of material abundance than anybody had before in history.
+And scientists who talk about the Anthropocene in like a sort of formal like stratigraphic sense
+like they're like trying to apply the same methods of geology that have been used for establishing past geological epochs
+What about the period after World War II as the Great Acceleration?
+So they'll often use 1945 as a proposed threshold for the beginning of the Anthropocene
+and that is partially because it leaves because the detonation of the first nuclear bombs does in fact leave like a stratigraphic signature.
+I don't know if I'm pronouncing that right but you know geological strata, stratigraphy.
+And in radioactive isotopes that are still laying around but then also because the period after World War II sees this great acceleration in the consumption of natural resources.
+So we have populations all around the world living with greater material comfort and stability than had ever before been the case.
+And the first generation to grow up exclusively with that material comfort and stability
+is also the first generation to engage in a bunch of new forms of self-expression and sociopolitical contestation.
+And that is not a coincidence.
+What that illustrates, what that generational shift illustrates is a general trend in our society towards hyper-specialization and niche forms of self-expression
+and the capacity of technology to allow certain innate differences within the human population to be more clearly expressed.
+That's kind of the fundamental theme that we're grappling with today.
+It's how technology amplifies innate differences.
+And so this trend towards hyper-specialization has been going on for a long time
+and maybe could be said to have two kind of distinct phases.
+Obviously since well before the internet or what we would necessarily describe as modernity
+people were functionally specializing, if we look at traditional societies
+one of their primary contrasting attributes with our own societies
+is a fairly cohesive set of skills belonging to almost all people within those societies.
+And then as technology progresses people are competent in respectively smaller and smaller domains.
+They possess a smaller and smaller proportion of the overall skill set that is possessed within the society they inhabit
+but they possess often like a degree of skill with whatever it is they are competent with.
+That's really dramatic so that's the nature of specialization.
+It's the development of hyper-competence in a given domain
+but that logically comes at the expense of competence in other domains.
+And so there's the kind of like material occupational like the corporeal phase of that
+as everybody becomes like a blacksmith and then like an industrial worker on an assembly line or whatever.
+But then of course there's also a sort of like information and reasoning process version of that
+which kind of happened later.
+And so to get into the science that I promised that so accurately predicted what we are experiencing right now
+we'll talk about Ronald Inglehart's book The Silent Revolution
+Changing Values and Political Styles Among Western Publix.
+It was written in 1977.
+So this is just so, so long before liberals started writing pieces for the Atlantic or whatever
+about how the internet was driving everybody crazy.
+And Inglehart, unlike so many social theorists, did incorporate biology into his understanding.
+Some very simple biology. Maslow's Hierarchy of Needs.
+So in The Silent Revolution he talks about the shift from materialism to post-materialism.
+And I know that post-materialism sounds like something you read impossibly dense theory about
+and then have difficulty concisely defining when you're done
+but it's actually breathtakingly simple. He lays it out in the first few pages of the book.
+It's just the shift in values, priorities and perceptions
+that occur when you haven't experienced physical scarcity and you don't expect to.
+To quote,
+The basic value priorities of Western Publix seem to be changing as their societies move into a post-industrial phase of development.
+Why is value change taking place?
+It seems to be linked with a cluster of socioeconomic changes including rising levels of education,
+shifts in the occupational structure and the development of increasingly broad and effective mass communication networks.
+But two phenomena seem particularly significant.
+One, the unprecedented prosperity experienced by Western nations during the decades following World War II.
+The absence of total war.
+The simple fact that no Western nation has been invaded for 30 years may have extremely significant consequences.
+In short, people are safe and they have enough to eat.
+These two basic facts have far-reaching implications.
+Our expectation that the value priorities of Western Publix are changing is derived from two key hypotheses.
+The first is that people tend to place a high priority on whatever needs are in short supply.
+As a result of the two phenomena just mentioned,
+Western Publix have for a number of years experienced exceptionally high levels of economic and physical security.
+Consequently, they have begun to give increasing emphasis to other types of needs.
+If we wish to go beyond this simple explanatory scheme,
+the work of Abraham Maslow is particularly interesting.
+For it suggests a specific direction in which value change will move under given condition.
+Maslow argues that people act to fulfill a number of different needs which are pursued in hierarchical order,
+according to their relative urgency for survival.
+Top priority is given to the satisfaction of physiological needs as long as they are in short supply.
+The need for physical safety comes next.
+Its priority is almost as high as that of the sustenance needs, but a hungry man will risk his life to give food.
+Once an individual has attained physical and economic security,
+he may begin to pursue other non-material goals.
+These other goals reflect genuine and normal needs,
+although people may fail to give them attention when deprived of the sustenance or safety needs.
+But when at least minimal economic and physical security are present,
+the needs for love, belonging, and esteem become increasingly important,
+and later, a set of goals related to intellectual and aesthetic satisfaction looms large.
+There does not seem to be any clear hierarchy within the last set of needs,
+which Maslow calls self-actualization needs.
+But there is evidence that they become most salient only after an individual has satisfied the material needs and belonging needs.
+End quote.
+So that's one aspect of this trend toward hyper-specialization and information consumption and self-expression.
+It's just the fact that there's the time and resources, the material security and stability,
+to pursue whatever forms of self-expression are most compelling to a given individual.
+Liberals love to talk about things that are very precedented,
+like they're unprecedented, like authoritarianism, for instance.
+But this is actually unprecedented.
+An innate personality variation used to be constrained considerably by material conditions.
+Differences between people simply weren't clearly expressed
+because people were united in material struggles that required roughly similar responses.
+Everybody didn't have time to craft their own unique cosmologies and inhabit them.
+But the other aspect of this trend towards hyper-specialization
+and towards everybody living within their own distinct mythology,
+of course, is just the saturation of communication technology.
+Engelhardt wrote in 1977, so this is well before the internet, per se, was reshaping society,
+but he saw that the combination of a shift to post-materialist values
+and the ability of everybody to participate on some level in mass communication
+was going to have profound consequences.
+And so he made a litany of predictions that better characterize what the internet has done to society
+than people still manage today watching it happen.
+To justify this statement, I'm going to read a passage about Engelhardt's The Silent Revolution
+that comes from a book called The Big Sort, why the clustering of like-minded America is tearing us apart.
+In the early 1970s, Professor Ronald Engelhardt at the University of Michigan proposed a theory
+for why all industrialized countries appeared to be undergoing similar changes in their cultures and politics.
+He theorized that rapid economic development had produced a new world view
+that was gradually replacing the outlook that had dominated industrializing societies since the Industrial Revolution.
+The fulfillment of material needs would generally be taken for granted
+and education levels would rise along with incomes, he surmised.
+And all that material progress, he found, brings unforeseen changes,
+change in gender roles, attitudes toward authority and sexual norms,
+declining fertility rates, broader political participation, and less easily led publics.
+Engelhardt's theory made predictions for these post-materialist societies.
+People would lose interest in traditional religion.
+They would become increasingly involved with notions of personal spirituality.
+Class, economic growth, and military security would decline in political importance,
+replaced by issues of personal freedom, abortion rights, gay rights, and the environment.
+Material goods would lose cachet as people sought to fill their lives with unique experiences.
+People would be less inclined to obey central authority and would lose trust in traditional hierarchical institutions,
+the big organizations that had created America's modern industrial society,
+the federal government, broad-based civic groups, and traditional church denominations.
+Furthermore, people wouldn't participate in politics in the same old ways, Engelhardt hypothesized.
+Instead of being elite-directed, they would engage in elite-challenging activities.
+They would vote less, but be more likely to join a boycott or sign a petition.
+People wouldn't become disengaged from politics even though voting percentages would decline.
+Rather, they would adopt a politics of self-expression.
+Post-materialists wouldn't settle for picking between two candidates.
+They would want to make decisions themselves, acting more directly on their political choices
+instead of following the orders of leaders.
+Engelhardt predicted one more aspect of this post-materialist phenomenon.
+Since the cultural transformation would happen at a generational pace, it would be in a sense a silent revolution.
+People would assume that the erosion of confidence in government, religion, and social institutions
+was because these institutions were singularly corrupt or inefficient.
+But the decline of trust wouldn't be peculiar to a place or government, Engelhardt wrote.
+We are witnessing a downward trend in trust in government and confidence in leaders across most industrial societies.
+So again, I just have to say, if having some predictive capacity is any kind of basis for a claim to fucking expertise,
+I mean I really have to think about all these other people who were writing very divergent forms of social theory in the 1970s
+and making a whole bunch of predictions that absolutely did not manifest.
+And just contrast that with this pretty good description of what's happening right now that's from like 50 years ago.
+I mean, admittedly, when he wrote Engelhardt had seen the 60s.
+So, you know, there was already some empirical basis.
+But he predicted, of course, that this would become a more widespread phenomenon, which it very clearly has.
+Engelhardt started his research just by asking a set of like a few very incredibly simple questions in a bunch of different countries.
+Engelhardt, by the way, his work evolved into the World Values Survey, which I have discussed on this podcast before.
+And it provides one of the foundations for saying that there's definitely a broad cross-cultural phenomenon of right-left politics.
+That's pretty stable across a bunch of very diverse economic, social, and political conditions.
+And that right-left political continuum has corollaries with basic aspects of psychology and fundamental personal values that are also cross-culturally uniform.
+But yeah, he asked people a couple really simple questions in a bunch of different industrializing western nations.
+And the questions basically, you know, they were about what was most important to people.
+And they were essentially, they essentially occupied two categories.
+And one, of course, was some material questions, you know, like, is what's most important to you?
+Gaining some greater level of like physical safety, material comfort, or whatever.
+And then the other category of questions were about self-actualization, self-expression, participation.
+And what he found was that younger people, people who had grown up, who were born after World War II
+and had only ever known the relative material abundance and security of post-war society,
+were overwhelmingly more likely to say that their highest priorities involved self-expression and self-actualization.
+And so that's pretty interesting in and of itself, but the political changes that he saw this ultimately resulting in
+and quantified the early trends toward were really far-reaching.
+At the time he wrote, it hadn't entirely happened, but he predicted the decoupling of class and left-right voting patterns.
+As left-right, you know, used to be the case that leftists really did have something of a monopoly on working class voters.
+But he predicted this decoupling as left-right politics took on a decreasingly material emphasis
+for one based on, you know, culture wars, morality, basic personal values.
+And so, of course, this prediction proved very, very accurate, although it seems to continually still surprise politically engaged people
+that so much of the public is willing to vote in explicit opposition to their material interests.
+And as significant as that shift has been, Engelhardt also predicted very precisely the more fundamental challenges
+to the entire institutional political structure that contemporary liberal commentators spend so much time being surprised by.
+As he said, the future looks difficult for Western governments.
+If they do not solve current economic problems, they risk losing the support of the materialist majority of their citizens.
+But renewed prosperity has its own dangers.
+It seems likely to evoke a new set of challenges and demands.
+And so he saw this fundamental paradox in a very, like, materially abundant, stable civilization.
+Which is that if you don't, you know, if that's not provided for people, then they're going to agitate against the power structure
+in order to get what they're hungry for.
+But if you feed them enough, then they're going to develop a value system about self-expression in their own agency,
+their own, their disinclination to be, you know, the subject of a broader system
+and their desire to set the terms of their own existence that will also end up producing a challenge to the power structure.
+Engelhardt talked about something called cognitive mobilization.
+That was his term for, like, the effects of everybody becoming kind of an information specialist
+and mass communications technologies becoming available to everybody.
+Because the skills necessary to politically participate were fairly limited in their distribution
+throughout most of the history of large complex states.
+Most people really didn't have those skills.
+But material stability and communications technology changes that.
+Engelhardt saw that the combination of physical security, increasing rates of education,
+and increasing availability of mass communications technologies well before the Internet
+was turning everybody into a sort of information and communications expert.
+And that this created the framework for much broader based contestation of the sociopolitical terrain.
+And the shift to post-materialist values imply that this contestation would have a particular nature.
+Quote,
+Western publics are developing an increasing potential for political participation.
+This change does not imply that mass publics will simply show higher rates of participation
+in traditional activities such as voting.
+But that they may intervene in the political process on a qualitatively different level.
+Increasingly, they are likely to demand participation in making major decisions,
+not just a voice in selecting the decision makers.
+The two processes tend to reinforce each other.
+Changes occurring not only in the goals of Western publics, but also in the way they pursue them.
+These changes have important implications for established political parties,
+labor unions, and professional organizations.
+For mass politics are increasingly apt to be elite challenging rather than elite directed.
+The source of these changes is a shift in the balance of political skills between elites and mass.
+And then, yeah, prefiguring, you know, the Internet,
+he talks about communication technology saying the effects of rising educational levels
+are probably reinforced by the permeation of electronic media,
+which bring political information even to those without much formal education.
+Radio and even more so television make distant political events seem near and vital.
+And then there's a bunch of statistics about how common television has become in Western nations,
+which we probably don't need to read.
+But of course, and I think that this is an aspect that Engelhardt didn't really touch on as much,
+kind of maybe missed altogether.
+This new kind of politics wouldn't just be elite challenging.
+It would be predicated on a fundamental drive towards self-expression,
+which means in practice it would tend to be fairly chaotic, undisciplined,
+and not particularly oriented toward outcomes.
+In other words, a lot like politics has gotten.
+If you're an organizer and you're fighting to affect external outcomes,
+you've probably had this experience before where you realize that there's a fairly significant
+impetus on the part of a lot of people to participate politically,
+but that their politics really are about self-expression and affirming some kind of identity
+much more than they're about shifting anything in the corporeal world.
+If you want to read a whole book about this reality from an organizer's perspective,
+if you want to read an organizer lamenting the fact that politics has become
+a mode of self-expression and subcultural identity affirmation
+rather than a means of affecting external outcomes,
+check out Hegemoni How To, A Roadmap for Radicals by Jonathan Matthew Smucker.
+Well, I think there's a mixture of shock, disbelief, horror.
+We are hearing very strong words coming from world leaders like Boris Johnson.
+Like I said, Engelhardt had already seen the 60s when he wrote.
+So, you know, his predictions are one degree less kind of shockingly prescient
+than they would be if that hadn't been the case.
+Because, of course, what he's describing is a long-term sort of inexorable trend,
+but the social upheavals of the 1960s were the first kind of like really visible
+significant manifestation of the trend.
+And these social upheavals occurred uniformly in most prosperous industrialized nations.
+And they were the first manifestation of this new highly participatory,
+elite-challenging, self-expression-oriented form of politics.
+Everything about them accords perfectly well with the post-materialist framework.
+I mean, the American version of the 1960s saw political tumult
+related to some specifically American issues, particularly race in the Vietnam War.
+But the dynamics of protests that played out in America were strongly paralleled
+in other countries where these were not issues, like the Netherlands or Japan.
+The fundamental predictive corollary of these protest dynamics
+is technologically intensive economic development with its consequent material stability.
+Contrary to past moments of revolutionary social rupture, like those in the Great Depression,
+those most likely to participate in protest movements during this phase of social rupture
+weren't in positions of material precarity, but relative affluence.
+There were people like middle-class college students.
+The extent to which they identified with post-materialist values,
+the extent to which a college student responding to surveys
+indicated that their highest priorities related to self-expression
+and intellectual, spiritual, and aesthetic satisfaction
+were strongly predictive of support for protest movements.
+And then it was right at this time that class and left-right orientation
+decoupled in the voting behavior of the U.S. public.
+It was also right at this time, specifically in 1965, for whatever reason,
+was the year that trust in formal institutions of power
+began to radically decline on both the right and the left.
+Because they were very concentrated in time, very dramatic,
+and resulted in a special election, a significant shift in voting behavior in the public,
+the May 1968 uprisings in France are particularly illustrative.
+The mass protests and perceived threat of civil war that resulted
+produced significant left-right polarization in France.
+But again, it also ruptured the traditional class associations with left-right politics.
+Middle-class students perceived the instability more favorably
+than did working-class people.
+And many workers shifted their voting behavior to the right
+in response to the upheaval.
+Workers and students alike participated in the May revolt.
+But students were much more likely, when asked,
+to select items from a questionnaire about why they were protesting
+that related to fundamentally reshaping society along more participatory,
+less depersonalized lines.
+Workers were far more likely to select items that related to concrete economic gains
+rather than a total restructuring of social relations.
+To use David Graber's turn of phrase, students were fighting alienation
+while workers were fighting oppression. Quoting from Engelhardt,
+To the extent that it was based on different underlying values,
+the alliance between student activists and striking workers was doomed.
+The more so because the student leaders tended to confuse rhetoric with reality.
+The consumer society deserves to die a violent death, said Daniel Cohn Bennett.
+We refuse a world where the certainty of not dying of hunger
+is gained at the risk of dying of boredom.
+But to the striking workers, especially the older ones,
+it was not so certain that the risk of hunger had been forever eliminated.
+The consumer society was a world they had just entered,
+and it seemed very attractive.
+But so like I said, the aspect of this that Engelhardt doesn't seem to emphasize,
+I guess maybe the aspect that you would tend to emphasize more
+if you are a political organizer, is that the other aspect of this new
+high participation, elite challenging, self-expression oriented politics
+that emerges in the 1960s, is that the very impetus for its emergence
+was also the basis of its inevitable failure.
+The fact that achieving aesthetic and intellectual self-realization
+were fundamental motivations meant that the style of politics people employed
+was going to tend towards chaos, was going to have the feel of a performance
+more than an effort to shift conditions in the corporeal world,
+and that whenever it got tedious or frustrating or scary,
+people were likely to wander off the map of sociopolitical contestation
+in favor of, you know, doing some yoga or becoming Jungian psychologists
+or whatever else seemed like the highest form of self-realization
+and expression that they could achieve, and that's exactly what happened.
+So now there's an aspect of the post-materialist shift
+that I am really not sure anyone has noted before,
+and I'm kind of proud of it.
+Here's what you get from me that you don't get from reading some liberal
+in the Atlantic or whatever.
+When we look at the shift to post-materialist values,
+with its consequent shift in the modes of political contestation,
+we see a huge right-left differential.
+But the differential is temporal rather than one of absolute outcomes.
+Basically, what the left did in the 1960s, the right is doing right now.
+Let's briefly review some of the psychological corollaries
+of left-right political orientation that we've discussed on this show before
+to see how this is exactly what we would expect, first of all.
+We've seen that right-left orientation in many different countries
+with many different political and economic histories
+is predicted by people's preference for security or stimulation.
+People who rank having an exciting life as a higher priority
+tend toward more egalitarian politics.
+The more one values stimulation over security,
+the more egalitarian ones politics tend to be.
+Openness to new experience, one of the big five personality dimensions
+which is found not just cross-culturally in humans but in other species as well
+strongly predicts voting behavior in the US much better than variables like income
+with more openness predicting more egalitarianism.
+And we've seen that fearfulness is a very fundamental theme in right-left difference.
+One massive review of thousands of papers
+found self-reported fear of death to be the psychological variable
+with the strongest positive correlation with right-wing politics.
+Right-wingers are more likely to classify faces as threatening,
+more physiologically responsive as measured by skin conductance change
+and blink amplitude to sudden loud noises and threatening images,
+exhibit less exploratory and risk-taking behavior in cognitive tests
+and have bigger amygdalae, the brain region central to the experience of fear and aggression.
+We would therefore expect those born with the innate psychological profiles
+that tend to produce right-wing politics to be less responsive,
+at least less readily to the conditions which produce the post-materialist shift in others.
+After all, the fundamental nature of this shift is that one perceives themselves
+to be materially secure to the point where they are no longer fearful of scarcity,
+and this shift in perception engenders an openness to explore new facets
+of self-expression and self-realization.
+So if people innately vary in how fearful and how open to experience they are,
+in this variation maps to political difference, we'd expect a right-left differential
+in the post-materialist shift.
+But, recall friends, how I've said many times that these innate differences are not
+in the absolute presence or absence of different behavioral and perceptual paradigms
+that exist in the human population.
+We all have the same software.
+The same potentials are latent within all of us.
+The difference is in thresholds for activating one behavioral and perceptual paradigm
+over another.
+We've discussed this a little bit with the rightward shift our society took after 9-11.
+How it turned out that a bunch of people with liberal or left values
+were perfectly capable of right-wing thinking, how it lived somewhere inside of them,
+and it just took a greater level of perceived external threat to invoke it
+than it did for the proportion of the population that was already right-wing before 9-11.
+But with the post-materialist shift, we see material changes that produce a diminished sense of threat.
+And sure enough, it produced changes in the whole population,
+but it took the right 50 years longer or so to respond to this diminished sense of threat
+than to people who oriented left, people who were young, people who were college students, all that.
+So, all that is to say right now, like a concise rephrasing of what I just said,
+is that the right is having its 1960s, and it is just as freaky and fucked up as one would expect.
+But this doesn't just mean that they're engaging in elite challenging politics.
+It also means that the style of politics they're embracing has exactly the same
+carnival-esque, chaotic quality, the same undisciplined profusion of self-expression
+that characterized egalitarian movements starting in the 1960s and has characterized them ever since.
+It's the same combination of characteristics that makes a faction's politics both highly contentious
+but also kind of hard to take seriously on some level.
+And we can even see how the right's post-materialist shift carries all the same bizarre idiosyncratic nuance as the left's,
+because the right's new mode of contestation is accompanied by a sudden interest in following health gurus
+and taking weird supplements and inventing an infinity of new cosmologies,
+just like the left started doing in the 1960s.
+There's been a litany of articles recently expressing surprise
+that QAnon and New Age spirituality seem to be converging, but it's exactly what we'd expect
+if the post-materialist shift had broadly similar patterns on both the left and the right,
+with their main difference being one of timing.
+Okay, so the internet.
+And group psychology.
+What all the foregoing is intended to illustrate in a broader sense
+is that our society is on a trend toward hyper-specialization,
+where communications technology has allowed people to sort themselves into distinct information
+spheres based on innate differences, and then engage in all the unique self-expression
+that this self-selection into different information spheres facilitates.
+And this, of course, absolutely does not stop at right-left difference.
+That's kind of what we covered today, but the landscape of innate variation
+in cognitive styles and biases is vast and intricately nuanced.
+And the nature of the process is such that the more specific a niche one finds,
+the more rewarding it tends to be to the mechanisms of group psychology.
+Again, recall the notion of the supernormal stimulus
+and the evolutionarily outsized appeal of hyper-specific means of affirming group identity.
+The more obscurely removed from the rest of humanity a group's logic, aesthetics,
+behavior, and means of cohesion are, the more powerful the reward of group belonging is.
+While these dynamics were already emerging, with the advent of mass communications technology in general,
+the internet has affected a wholesale shift in their intensity,
+similar to the transition from, say, smoking heroin to shooting it.
+I guess since I'm fond of noting when I'm trafficking in homology as opposed to analogy,
+this would be one such case, because ultimately some of the reward circuitry
+is going to be the same between affirming group identity and shooting dope.
+And so some day we have to assume absent imminent nuclear holocaust
+or total ecological collapse that psychometrics will catch up with the internet.
+And by this I mean, you know, because innate-ness is so often revealed through co-variation.
+When two traits that a person possesses that are logically unrelated
+are nonetheless statistically related in a population, that tells us something about how people are built.
+So just like there's currently papers with titles like music preferences are linked to cognitive styles,
+which map one's musical choices to personality type into the degree of empathy one possesses
+and to whether one tends towards empathizing or systematizing,
+someday there will be papers that show a relationship between, you know,
+patterns of brain activity and presence on different subreddits
+or correlations between the approach one takes to solving some experimental puzzle task
+and the channels one subscribes to on YouTube.
+I mean, we already have some of this science through entities like the Cambridge Center for Psychometrics,
+the progenitor of the notorious Cambridge Analytica,
+who are busy correlating one's presence on a particular corner of the internet
+with a whole range of personality variables that have an innate component.
+So a truly unprecedented process is occurring,
+where people are sorting themselves into different information tribes,
+each with a distinct frame of reference and mode of communicating based on their innate cognitive biases.
+As society gets more materially cohesive, it gets more perceptually divergent.
+Never before has everywhere been so similar.
+Everywhere has the same Starbucks,
+but never before have people sitting in the same Starbucks had such wildly divergent perceptions of the world.
+And the nature of the post-materialist shift with respect to group psychology
+is that the psychological mechanisms of group participation,
+which evolved with respect to a group one was physically a part of
+and shared in the material fortunes of,
+are being invoked for the information tribes we establish on the internet.
+The social and technological trajectory has set us adrift from the group membership we have evolved to need.
+In the history of materially affluent societies,
+is one of people scrambling to find some other framework to meet this need.
+One of the many manifestations of this drive was the proliferation of religious cults
+that occurred after the post-materialist shift, probably peaking in the 80s.
+I've heard the internet described as the culprit of the cult decline that was happening by the end of the 90s,
+but the reason given was that the internet allowed people to fact-check the claims of cults.
+And this notion does not accord very well with the reality of the world we're living in.
+It doesn't really seem like people are particularly more prone to fact-checking their niche beliefs than they used to be.
+If the internet killed cults, I would say instead it did so by replacing them,
+by offering an even more specialized avenue of self-expression and niche group identity construction
+than people could get in the corporeal world.
+So this is unprecedented because when group membership was based on geography and material conditions,
+it tended to diminish the expression of innate difference.
+All of the mechanisms of perceptual and behavioral cohesion we've discussed in past episodes,
+the tendency of oxytocin to make people's judgments more like the group's judgments,
+the ability of highly idiosyncratic behaviors to become contagious, all that.
+All of these tendencies make people who are different act more similarly
+when the grouping is geographical and material,
+when the group is everyone who hunts in an area and shares a fire at night,
+or everyone who speaks the same language and can swing a sword,
+or everyone who is employed in mining in West Virginia or whatever.
+It's only with the post-materialist shift and then intensifying greatly with the internet
+that groups are based on innate personality variations.
+Therefore based on differences between people,
+and therefore group dynamics are amplifying innate difference.
+And boy do group dynamics amplify difference.
+Now that we've all found our tribes on the internet
+and we're basing our fundamental sense of ourselves on the people we've found in the world
+who are most like us,
+who share our unique reasoning processes and aesthetics and frames the most,
+let's look at one other aspect of group psychology we've yet to cover so far in the series.
+Quoting again from the big sort.
+Beginning in the 1960s,
+social psychologists came to understand that like-minded groups not only enforced conformity,
+but also tended to grow more extreme.
+The discovery began with a misdirection.
+In 1961, a graduate student named James Stoner
+asked subjects in an experiment to consider the prospects of George,
+a competent chess player who had the misfortune of drawing a top-ranked player in a tournament's early round.
+The game begins and George sees an opportunity to attempt a risky play that could bring quick victory.
+If it failed, however, it would result in certain defeat.
+The subjects were then asked if George should attempt the risky play
+if there was a 10% chance of success, a 20% chance, and so on.
+The subjects decided individually at what odds George should try the maneuver.
+They were then asked to discuss as a group what George should do and arrive at a joint decision.
+What Stoner found and what other researchers around the world would also find in subsequent experiments
+was that the group always made a riskier recommendation than the average of the individual decisions.
+If, for example, the average of the individual judgments was that George should try the play
+if there was a 30% chance of success,
+the group would agree that George should take the risk if it paid off only 20% of the time.
+The consistent finding in this experiment became known as the risky shift phenomenon,
+and as a piece of social-psychological research, it was both provocative and deceptive.
+When the experiment was repeated in different ways and in different countries,
+researchers noticed a kink in the risky shift.
+In the chess game situation, most people thought the overmatched George should take a risk,
+but what if the hypothetical game was played from the point of view of the chess champion?
+In this scenario, individuals in the group leaned toward a restrained approach,
+and the group decision was more conservative than the average of the individual answers.
+Although the group decision still shifted from the average, in this case it became more risk-averse.
+Social psychologists concluded by the end of the 1960s that what Stoner had discovered
+in his chess tournament experiment was the phenomenon of group polarization
+that groups over time become more extreme in the direction of the average opinion of the individual group members.
+Stoner's chess tournament advisors were inclined as individuals toward a risky play,
+and so their group decision was even riskier.
+In a different setting, where individuals were cautious, the group derived at an even more cautious decision.
+Either way, the effective discussion was to push the group and individuals toward the extreme.
+And so, you know, this type of research has been replicated not just with moves in a chess tournament,
+but with, you know, socio-political judgments and the like and the effect indoors.
+So by sorting ourselves into information tribes that already share a bunch of our cognitive biases
+and our basic conclusions, we allow ourselves to manifest more dramatic versions
+of those cognitive biases and the basic reasoning processes that we employ than we would otherwise.
+And so it is truly no wonder that we've entered such an age of mutual incomprehension,
+and it is truly impossible for anyone to explicitly predict where all of this is going.
+But as we assess prospects for the survival of our species and the planet,
+we should be extremely aware of this reality, of a vast landscape of hyper-specific information subcultures.
+Which is to say, this could perhaps be rephrased as,
+those who wish to create social conditions in which life on Earth has any hope of survival
+should catch up strategically with marketers.
+Because this is exactly how marketers think.
+And what they do really works, you know, you think that they,
+you think they divide the population into like working class and bourgeoisie,
+or like black and white or whatever.
+No, they identify hyper-specific, you know, some marketing literature calls them image tribes.
+I've been using this phrase, information tribes throughout the podcast.
+But however you want to think about it, they, you know, they orient towards
+hyper-specific demographics that are like all obsessed with some particular thing
+and sharing some like very unique frame of reference.
+And they're super aware that the more you appeal,
+that if you appeal to people's broad based identities that you don't really get too far,
+and that the more you appeal to their niche identities,
+the more that you can actually start talking with them.
+And so, you know, marketers employ a strategy that I really think, you know,
+if you had a political process that was similar,
+you would be employing a level of power that political agitation really hasn't been able to
+since the age when people organized in like, you know,
+these like broad based civic entities like churches and labor unions and stuff
+that just are not nearly as relevant anymore.
+But where they try to find ambassadors essentially within any given like hyper niche little subculture
+and the ambassador is somebody who's prominent in that niche subculture
+and knows how to like really speak its language and invoke its values
+and, you know, that just turns out to be infinitely more valuable
+in communicating with people in this, you know, post-materialist society that we inhabit
+than talking to trying to talk to everybody who struggles paycheck to paycheck
+or is Latino or whatever.
+I actually had a whole section on marketing prepared for this podcast
+but I think I'm going to jettison it.
+As always, I'm excising a great deal of material from this recording.
+It's hard to overstate. I did it exactly once.
+It's hard to overstate how vast and weird these would get
+if I just allowed myself unrestrained digressions
+and like, you know, just sort of explored every single facet of something.
+I tried with some episode a couple of months ago
+and I was just like, I'll just let myself go.
+If I think it's interesting, probably other people will think it's interesting
+and just like really indulged in as hyper-literary and aggressive of a podcast
+as I felt inclined to make.
+And then I listened to that thing and I was like,
+nope, exercise heavy, heavy editorial influence on yourself.
+So yeah, maybe we'll get more into the magic of marketing
+and what it can tell us about revolutionary politics some other time.
+Next time I think, I have, this group psychology series is just an entity unto itself.
+I have no idea ultimately where it's going.
+I have probably material for three or four more episodes in it already
+more or less laid out.
+And I think the one I'm going to do when we next meet friends
+is one on individual personality variation and how it affects group dynamics,
+how there are some types of people who tend to have an outsize effect on groups
+and how that's kind of the story of the world in a way.
+We'll talk about like the formation of early states.
+We'll talk about Donald fucking Trump.
+We'll talk about all kinds of interesting stuff.
+So until that time, thanks for listening and we will talk again soon.
