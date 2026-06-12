@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Quantitative register pass per ANALYTIC_BRIEF.md §7, run per transcript.
+"""SUPERSEDED — do not cite this script's output. Use tagging/count.py (canonical).
+
+Kept for provenance only. This ad-hoc version had a case-sensitivity bug in the
+first-person regex (missed sentence-initial "My"/"Me"), corrected in the tagging
+pipeline; see FINDINGS C3. All committed figures come from tagging/counts.json.
+
+Quantitative register pass per ANALYTIC_BRIEF.md §7, run per transcript.
 
 Usage: python3 tools/register_counts.py transcripts/the_rock_KJB.txt transcripts/the_rock_BC.txt
 
