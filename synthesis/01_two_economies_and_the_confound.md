@@ -19,4 +19,4 @@ This is the best single piece of evidence that format owns the top rank in the c
 
 ## Open
 - Die Hard holiday-special = format perturbation #2 (does special-occasion framing move pragmatics like the live show did?). [essay 07, planned]
-- Ocean's studio episode = falsification test for the format reading of H4 (studio episode with high genuine-repair traffic would break it). [essay 04, planned]
+- ~~Ocean's studio test~~ **RUN AND SURVIVED (essay 04):** 10 studio apology tokens, ALL hand-coded non-repair (rhetorical softening of outward criticism / mock-apology to listener / in-character voicing — that last one uncatchable by any counter). Zero competence sacrificed in studio. The raw count alone would have wrongly falsified H4 — mirror-image of H3's wrong demotion. **Method theme for this chapter: the unit of analysis is utterance function, not lexical shadow; counts exist to be interrogated (tagging/counts.json), not believed.**

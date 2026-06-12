@@ -9,7 +9,9 @@ The shows differ **far less in conclusions than in rhetorical economy.** Both ho
 After 3 essays, the shows' *conclusions* have **never genuinely diverged** — only their economies. Near-verbatim independent convergences logged:
 - Casino Royale: fridging/dead-women, racialised primitivism + machete, "empty feminism," recruitment-of-boys, luxury-laundering, glossed 9/11 short-selling.
 - Austin Powers: "doing it again is still doing it" thesis, reached 3y apart, same exhibits (Ferrell brownface, Japan fixation, disposable women).
-**Standing challenge:** find ONE pair where conclusions diverge. Atomic Blonde (queer female action lead) is the film most likely to break it — KJB camp/appetite vs BC male-gaze audit of the same lesbian sex scene. If it converges even there, the thesis hardens to "one analysis, two economies." [essay 05]
+**Essay 04 deposit — the neutral control held.** Ocean's (mid-spectrum, no home advantage): same woman-count, same "say hi to your mom" lone near-pass, same property reading, same underwritten-by-design + could-just-leave counterfactual, same Trump Plaza gag. KJB cites Carole Pateman BY NAME — citing-as-absorbed-doctrine vs BC's citing-as-load-bearing-source (H12 corrected). GIRTH confirmed dead at its exact jurisdiction; SCUM universal ("same as Charlie's Angels Full Throttle" verbatim); Rosette ("Don Cheadle's agent") verbatim; Waingrow applied. Apparatus selection: affectively-loaded memorable originals outlive procedural derivatives.
+
+**Standing challenge:** find ONE pair where conclusions diverge — unmet ×4. Atomic Blonde (queer female action lead) is the film most likely to break it — KJB camp/appetite vs BC male-gaze audit of the same lesbian sex scene. If it converges even there, the thesis hardens to "one analysis, two economies." [essay 05]
 
 ## Stance & instrument (H8)
 - Instruments are **elastic** for both shows (SCUM misogyny 8/7 above ceiling; BC's "concave nipple… a negative one" below floor — essay 03). Stance is the whole difference: KJB performs belief-as-bit while obeying; BC believes-as-pedagogy with developing case law.
