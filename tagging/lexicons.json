@@ -29,6 +29,10 @@
     "anger": {
       "gloss": "anger/contempt lexicon (H3). Same demotion caveat as disgust.",
       "tokens": ["piece of shit", "get fucked", "fuck off", "prick", "pricks", "idiot", "idiots", "moron", "morons", "loser", "losers", "scumbag", "contempt", "wanker"]
+    },
+    "ingroup_kjb": {
+      "gloss": "KJB accreted in-house apparatus (H14 drift test, brief §7). Built from late episodes, counted backwards across the KJB span (The Rock ep22 ~Dec2021 -> F&F S4E30 Jan2026). Density per 1k = how much in-house apparatus is deployed unglossed-on-initiates. Report alongside the GLOSS hand-check (does SCUM get spelled out early vs late?) and distinct-apparatus-count, since the apparatus also literally accretes (GIRTH born ep22, Kaufman by ep24, Waingrow imported from Heat) so early eps can't contain later instruments. ONLY meaningful for KJB files. Note 'science-based' is the SCUM framing tag; 'homosocial' is the recurring imported thesis.",
+      "tokens": ["SCUM", "Kronsteen", "Cronstein", "Kronstein", "Rosette", "Kaufman", "Goodnight Cross", "Waingrow", "Waingrow", "GIRTH", "science-based", "homosocial", "homosociality"]
     }
   },
   "ad_strip": {

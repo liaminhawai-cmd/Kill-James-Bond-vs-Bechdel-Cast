@@ -31,6 +31,10 @@
       "anger": {
         "raw": 0,
         "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -66,6 +70,10 @@
       "anger": {
         "raw": 8,
         "per_1k": 0.5
+      },
+      "ingroup_kjb": {
+        "raw": 9,
+        "per_1k": 0.56
       }
     }
   },
@@ -101,6 +109,10 @@
       "anger": {
         "raw": 1,
         "per_1k": 0.08
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -136,6 +148,10 @@
       "anger": {
         "raw": 4,
         "per_1k": 0.24
+      },
+      "ingroup_kjb": {
+        "raw": 2,
+        "per_1k": 0.12
       }
     }
   },
@@ -171,6 +187,10 @@
       "anger": {
         "raw": 1,
         "per_1k": 0.08
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -204,6 +224,10 @@
         "per_1k": 0.56
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -241,6 +265,10 @@
       "anger": {
         "raw": 7,
         "per_1k": 0.47
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -276,6 +304,10 @@
       "anger": {
         "raw": 12,
         "per_1k": 0.61
+      },
+      "ingroup_kjb": {
+        "raw": 4,
+        "per_1k": 0.2
       }
     }
   },
@@ -311,6 +343,10 @@
       "anger": {
         "raw": 3,
         "per_1k": 0.22
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -346,6 +382,10 @@
       "anger": {
         "raw": 12,
         "per_1k": 0.74
+      },
+      "ingroup_kjb": {
+        "raw": 3,
+        "per_1k": 0.18
       }
     }
   },
@@ -379,6 +419,10 @@
         "per_1k": 0.29
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -416,6 +460,10 @@
       "anger": {
         "raw": 3,
         "per_1k": 0.2
+      },
+      "ingroup_kjb": {
+        "raw": 15,
+        "per_1k": 0.99
       }
     }
   },
@@ -449,6 +497,10 @@
         "per_1k": 0.66
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -486,6 +538,10 @@
       "anger": {
         "raw": 1,
         "per_1k": 0.06
+      },
+      "ingroup_kjb": {
+        "raw": 11,
+        "per_1k": 0.63
       }
     }
   },
@@ -519,6 +575,10 @@
         "per_1k": 0.13
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -556,6 +616,10 @@
       "anger": {
         "raw": 8,
         "per_1k": 0.42
+      },
+      "ingroup_kjb": {
+        "raw": 9,
+        "per_1k": 0.47
       }
     }
   },
@@ -591,6 +655,10 @@
       "anger": {
         "raw": 7,
         "per_1k": 0.67
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -624,6 +692,10 @@
         "per_1k": 0.0
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -661,6 +733,10 @@
       "anger": {
         "raw": 0,
         "per_1k": 0.0
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -694,6 +770,10 @@
         "per_1k": 2.37
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -731,6 +811,10 @@
       "anger": {
         "raw": 1,
         "per_1k": 0.09
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -764,6 +848,10 @@
         "per_1k": 0.0
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
@@ -801,6 +889,10 @@
       "anger": {
         "raw": 2,
         "per_1k": 0.16
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -834,6 +926,10 @@
         "per_1k": 0.0
       },
       "anger": {
+        "raw": 8,
+        "per_1k": 0.81
+      },
+      "ingroup_kjb": {
         "raw": 8,
         "per_1k": 0.81
       }
@@ -871,6 +967,10 @@
       "anger": {
         "raw": 5,
         "per_1k": 0.31
+      },
+      "ingroup_kjb": {
+        "raw": 0,
+        "per_1k": 0.0
       }
     }
   },
@@ -904,6 +1004,10 @@
         "per_1k": 0.52
       },
       "anger": {
+        "raw": 0,
+        "per_1k": 0.0
+      },
+      "ingroup_kjb": {
         "raw": 0,
         "per_1k": 0.0
       }
