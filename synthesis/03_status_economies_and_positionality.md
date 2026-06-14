@@ -23,5 +23,7 @@ The registered Q15 prediction (deference economy) was FALSIFIED, and the falsifi
 
 **The two status economies (chapter thesis):** KJB = *ironic mock-hierarchy* (issues ranks, "binds the in-group," stages authority as a bit). BC = *sincere flat collaboration* (dissolves hierarchy into peer-leveling). **Neither defers to real authority** — KJB's not-deferring performs a hierarchy nobody believes; BC's dissolves hierarchy into collaboration. Same orthogonality found everywhere else: BC's register is stable across guest status just as across film gender-coding (H1) and the show's own politics (H16).
 
+**Schröder upgrade (essay 06): status IS the egalitarian/hierarchy axis, and the H16 grammars generalize to it.** KJB neutralizes dominance by OCCUPYING it ironically (approach-on-status); BC by DISSOLVING it (avoidance/cooperation-on-status) — the same approach/avoidance split as the affect grammars. The unresolved edge (pure Schröder, "the left can be authoritarian"): KJB's ironic mock-hierarchy may LICENSE rather than neutralize real hierarchy — marking the initiate/non-initiate boundary (the lore-ratchet, H14) "just a bit" is precisely what lets it harden unobjected-to. So the status economy and audience-capture (H14) are ONE phenomenon: KJB's irony is the depth/initiate-capture mechanism; BC's flat collaboration resists capture (no boundary to sort across) = breadth/onboarding model. Tested at the F&F drift endpoint. Stays at register/structure level; never near H15.
+
 ## Open
 - (status question answered, essay 06)
