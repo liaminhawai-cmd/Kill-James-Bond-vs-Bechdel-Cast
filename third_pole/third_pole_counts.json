@@ -1,0 +1,413 @@
+{
+  "christian_spotlight_rodriguez": {
+    "words": 1119,
+    "hedges": {
+      "raw": 1,
+      "per_1k": 0.89,
+      "hits": {
+        "kind of": 1
+      }
+    },
+    "profanity": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 14,
+      "per_1k": 12.51,
+      "hits": {
+        "I": 10,
+        "me": 2,
+        "my": 2
+      }
+    },
+    "first_person_plural": {
+      "raw": 7,
+      "per_1k": 6.26,
+      "hits": {
+        "we": 7
+      }
+    },
+    "disgust": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "common_sense_media": {
+    "words": 493,
+    "hedges": {
+      "raw": 1,
+      "per_1k": 2.03,
+      "hits": {
+        "kind of": 1
+      }
+    },
+    "profanity": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_plural": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "disgust": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "hillsdale_collegian_stetzel": {
+    "words": 883,
+    "hedges": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "profanity": {
+      "raw": 1,
+      "per_1k": 1.13,
+      "hits": {
+        "bitch": 1
+      }
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 4,
+      "per_1k": 4.53,
+      "hits": {
+        "I": 3,
+        "myself": 1
+      }
+    },
+    "first_person_plural": {
+      "raw": 2,
+      "per_1k": 2.27,
+      "hits": {
+        "we": 2
+      }
+    },
+    "disgust": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "national_review_armond_white": {
+    "words": 679,
+    "hedges": {
+      "raw": 1,
+      "per_1k": 1.47,
+      "hits": {
+        "kind of": 1
+      }
+    },
+    "profanity": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 2,
+      "per_1k": 2.95,
+      "hits": {
+        "I": 1,
+        "my": 1
+      }
+    },
+    "first_person_plural": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "disgust": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "yt_action_purist_solo": {
+    "words": 5324,
+    "hedges": {
+      "raw": 41,
+      "per_1k": 7.7,
+      "hits": {
+        "I think": 16,
+        "I don't know": 4,
+        "kind of": 4,
+        "sort of": 3,
+        "maybe": 14
+      }
+    },
+    "profanity": {
+      "raw": 2,
+      "per_1k": 0.38,
+      "hits": {
+        "damn": 2
+      }
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 270,
+      "per_1k": 50.71,
+      "hits": {
+        "I": 234,
+        "me": 24,
+        "my": 9,
+        "mine": 2,
+        "myself": 1
+      }
+    },
+    "first_person_plural": {
+      "raw": 10,
+      "per_1k": 1.88,
+      "hits": {
+        "we": 5,
+        "us": 4,
+        "our": 1
+      }
+    },
+    "disgust": {
+      "raw": 3,
+      "per_1k": 0.56,
+      "hits": {
+        "hate": 1,
+        "hated": 2
+      }
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "yt_dialogic_crew": {
+    "words": 5739,
+    "hedges": {
+      "raw": 33,
+      "per_1k": 5.75,
+      "hits": {
+        "I think": 7,
+        "I feel like": 1,
+        "I guess": 1,
+        "I don't know": 8,
+        "kind of": 8,
+        "maybe": 8
+      }
+    },
+    "profanity": {
+      "raw": 2,
+      "per_1k": 0.35,
+      "hits": {
+        "damn": 1,
+        "dick": 1
+      }
+    },
+    "apology": {
+      "raw": 2,
+      "per_1k": 0.35,
+      "hits": {
+        "sorry": 2
+      }
+    },
+    "first_person_singular": {
+      "raw": 245,
+      "per_1k": 42.69,
+      "hits": {
+        "I": 205,
+        "me": 26,
+        "my": 11,
+        "mine": 1,
+        "myself": 2
+      }
+    },
+    "first_person_plural": {
+      "raw": 31,
+      "per_1k": 5.4,
+      "hits": {
+        "we": 27,
+        "us": 1,
+        "our": 3
+      }
+    },
+    "disgust": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "yt_queer_essayist_ren": {
+    "words": 6218,
+    "hedges": {
+      "raw": 26,
+      "per_1k": 4.18,
+      "hits": {
+        "I think": 13,
+        "I don't know": 1,
+        "kind of": 10,
+        "sort of": 2
+      }
+    },
+    "profanity": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "apology": {
+      "raw": 1,
+      "per_1k": 0.16,
+      "hits": {
+        "sorry": 1
+      }
+    },
+    "first_person_singular": {
+      "raw": 141,
+      "per_1k": 22.68,
+      "hits": {
+        "I": 108,
+        "me": 18,
+        "my": 14,
+        "mine": 1
+      }
+    },
+    "first_person_plural": {
+      "raw": 51,
+      "per_1k": 8.2,
+      "hits": {
+        "we": 32,
+        "us": 16,
+        "our": 2,
+        "ourselves": 1
+      }
+    },
+    "disgust": {
+      "raw": 5,
+      "per_1k": 0.8,
+      "hits": {
+        "hate": 5
+      }
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  },
+  "yt_reactionary_pair": {
+    "words": 4486,
+    "hedges": {
+      "raw": 30,
+      "per_1k": 6.69,
+      "hits": {
+        "I think": 5,
+        "I feel like": 2,
+        "I guess": 2,
+        "I don't know": 3,
+        "kind of": 17,
+        "maybe": 1
+      }
+    },
+    "profanity": {
+      "raw": 4,
+      "per_1k": 0.89,
+      "hits": {
+        "shitty": 3,
+        "goddamn": 1
+      }
+    },
+    "apology": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    },
+    "first_person_singular": {
+      "raw": 137,
+      "per_1k": 30.54,
+      "hits": {
+        "I": 123,
+        "me": 4,
+        "my": 8,
+        "mine": 1,
+        "myself": 1
+      }
+    },
+    "first_person_plural": {
+      "raw": 24,
+      "per_1k": 5.35,
+      "hits": {
+        "we": 21,
+        "us": 1,
+        "our": 2
+      }
+    },
+    "disgust": {
+      "raw": 2,
+      "per_1k": 0.45,
+      "hits": {
+        "disgusting": 1,
+        "hated": 1
+      }
+    },
+    "anger": {
+      "raw": 0,
+      "per_1k": 0.0,
+      "hits": {}
+    }
+  }
+}
